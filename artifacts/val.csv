@@ -1,0 +1,2801 @@
+Residents,Apartment_Type,Temperature,Water_Price,Period_Consumption_Index,Income_Level,Guests,Amenities,Appliance_Usage,Water_Consumption
+2,1BHK,22.24,1.52,1.41,Low,0,,0.0,98.87
+2,Cottage,13.0,1.62,1.4,Middle,0,Garden,0.0,99.29
+3,1BHK,10.41,1.41,0.92,Middle,1,,0.0,90.12
+1,Studio,26.81,1.07,1.27,Low,1,Garden,0.0,88.7
+3,Cottage,16.22,1.55,1.0,Middle,0,Garden,1.0,89.58
+2,1BHK,17.28,1.73,1.39,Middle,0,Fountain,0.0,128.64
+4,2BHK,24.67,2.77,1.22,Upper Middle,1,Swimming Pool,0.0,269.14
+5,3BHK,31.85,2.92,1.08,Upper Middle,0,,,217.28
+2,Cottage,21.81,1.76,0.91,Middle,1,Garden,0.0,97.45
+3,3BHK,15.39,2.78,1.32,Upper Middle,0,,0.0,150.11
+2,Cottage,32.7,1.44,1.0,Middle,0,Swimming Pool,0.0,104.07
+4,3BHK,25.74,1.77,1.45,Upper Middle,0,Jacuzzi,0.0,254.28
+3,1BHK,22.96,1.02,0.96,Middle,0,,0.0,86.03
+-11,2BHK,17.57,1.93,1.03,Upper Middle,1,,0.0,179.24
+4,3BHK,29.31,2.49,1.03,Upper Middle,1,Jacuzzi,0.0,228.31
+5,2BHK,33.72,1.82,1.47,Upper Middle,0,Fountain,0.0,370.59
+3,2BHK,23.68,2.78,1.19,Upper Middle,0,,,132.12
+2,1BHK,11.09,1.45,1.28,Middle,0,,0.0,92.01
+3,2BHK,30.22,1.97,1.22,Upper Middle,0,Fountain,0.0,181.83
+3,2BHK,17.63,1.24,1.05,Middle,0,Swimming Pool,0.0,144.47
+4,3BHK,18.74,2.19,0.96,Upper Middle,0,Fountain,0.0,176.81
+2,1BHK,24.71,1.13,1.12,Middle,0,,1.0,121.12
+5,Bungalow,,2.73,0.9,Upper Middle,0,Swimming Pool,0.0,197.22
+2,Studio,24.17,1.51,0.86,Low,1,Fountain,0.0,80.22
+5,Bungalow,20.46,2.79,1.38,Upper Middle,0,Jacuzzi,0.0,259.23
+3,1BHK,25.54,1.53,1.3,Low,0,,0.0,130.09
+2,1BHK,34.6,1.42,1.5,,0,,0.0,120.16
+5,2BHK,10.78,1.26,0.4184058083873864,Middle,0,,1.0,164.67
+3,3BHK,27.03,1.58,1.15,Rich,1,Swimming Pool,,284.73
+4,Bungalow,31.73,2.56,1.34,Upper Middle,1,Jacuzzi,0.0,309.63
+3,,20.07,1.9,1.05,Upper Middle,1,Garden,0.0,201.05
+2,1BHK,25.39,1.05,1.29,Middle,0,,0.0,116.81
+3,2BHK,22.05,1.57,1.08,Middle,1,Jacuzzi,0.0,170.6
+5,2BHK,16.54,1.48,1.36,Middle,-1,Swimming Pool,0.0,268.34
+5,3BHK,12.52,1.73,1.01,Upper Middle,0,,0.0,147.01
+3,1BHK,16.49,1.12,1.38,Low,0,Garden,0.0,139.72
+2,,33.03,1.09,1.04,Middle,0,Swimming Pool,0.0,113.86
+3,1BHK,32.0,1.03,0.8,Middle,0,Garden,,101.28
+3,3BHK,,2.42,1.17,Upper Middle,0,,0.0,137.91
+5,Bungalow,21.21,1.93,1.02,Upper Middle,0,Garden,0.0,167.92
+3,Cottage,26.47,1.68,1.03,Middle,0,Garden,1.0,131.53
+2,1BHK,22.65,1.77,1.01,Middle,0,Garden,0.0,85.93
+3,Cottage,28.72,1.35,0.99,Middle,0,,0.0,104.75
+2,1BHK,34.51,1.69,1.43,Middle,2,Swimming Pool,0.0,210.99
+5,Detached,,2.61,1.25,Rich,1,Swimming Pool,0.0,405.88
+2,Cottage,11.21,1.77,1.29,Middle,0,,0.0,98.47
+5,3BHK,19.71,2.15,1.19,Upper Middle,0,Swimming Pool,0.0,267.22
+5,2BHK,21.6,2.37,1.34,Upper Middle,0,,0.0,194.53
+1,,25.96,1.17,0.93,Low,0,,0.0,52.23
+-55,3BHK,28.91,2.23,1.4,Upper Middle,0,,0.0,208.4
+4,3BHK,32.87,2.99,1.39,Upper Middle,0,Swimming Pool,,295.06
+4,3BHK,32.67,2.72,0.92,Rich,0,Jacuzzi,0.0,205.78
+5,Bungalow,27.43,2.13,0.99,Rich,1,Swimming Pool,0.0,293.68
+2,1BHK,23.08,1.63,1.12,Low,0,Garden,1.0,91.25
+3,1BHK,14.99,1.59,0.96,Low,0,,0.0,78.14
+5,3BHK,33.98,1.56,0.83,Upper Middle,0,Jacuzzi,,186.29
+3,1BHK,24.23,1.75,1.19,Middle,0,,0.0,116.11
+3,2BHK,21.25,1.54,0.99,Middle,2,Fountain,0.0,156.87
+3,Cottage,19.36,1.11,1.05,Middle,0,,0.0,106.55
+3,3BHK,19.02,1.54,1.05,Rich,1,,0.0,186.41
+3,2BHK,15.96,1.16,0.88,Middle,1,,0.0,112.03
+5,3BHK,24.77,1.93,1.46,Upper Middle,0,Jacuzzi,0.0,343.88
+2,1BHK,15.59,1.71,0.95,Low,1,Garden,0.0,63.84
+2,Studio,19.88,1.66,1.2,Low,0,,1.0,92.84
+3,Cottage,18.74,1.39,0.84,Middle,0,Swimming Pool,0.0,104.43
+-22,1BHK,16.76,1.19,0.9,Middle,1,Garden,1.0,130.85
+1,,15.2,1.06,0.98,,0,,0.0,50.25
+4,Bungalow,12.49,2.25,0.87,Upper Middle,1,,0.0,132.84
+3,1BHK,32.01,1.49,1.41,Middle,0,Swimming Pool,0.0,219.66
+5,3BHK,14.69,2.93,1.25,Upper Middle,1,Fountain,0.0,310.34
+3,Cottage,22.1,1.57,0.87,Middle,0,Garden,0.0,86.7
+2,1BHK,10.15,1.53,1.49,Low,0,,0.0,93.08
+2,Cottage,28.83,1.5,1.14,Middle,0,Jacuzzi,0.0,108.71
+4,2BHK,12.21,1.32,0.94,Middle,0,Swimming Pool,0.0,149.83
+3,3BHK,30.87,1.94,0.99,Upper Middle,1,Swimming Pool,0.0,195.02
+3,1BHK,11.31,1.11,1.4,Middle,0,,0.0,108.53
+2,Studio,22.14,1.44,1.25,Low,0,,0.0,84.16
+3,Cottage,20.79,1.09,1.22,Middle,0,Fountain,0.0,142.8
+2,1BHK,13.02,1.31,1.17,Middle,1,,0.0,104.91
+2,Studio,17.29,1.1,1.4,Low,0,,0.0,85.71
+3,1BHK,16.71,1.5,1.14,Middle,0,Fountain,0.0,121.1
+3,1BHK,16.39,1.59,1.19,Middle,1,Fountain,0.0,163.26
+3,Cottage,15.41,1.67,1.37,Middle,0,Jacuzzi,0.0,165.48
+5,Bungalow,,2.16,0.91,Upper Middle,1,,0.0,156.79
+5,2BHK,15.25,2.78,1.31,Upper Middle,1,Jacuzzi,1.0,336.68
+3,,16.35,1.75,0.97,Middle,0,Jacuzzi,0.0,98.23
+3,Bungalow,19.77,2.06,0.97,,0,,0.0,103.78
+5,Bungalow,32.18,2.72,0.87,Upper Middle,0,Fountain,0.0,164.28
+3,3BHK,26.08,2.68,1.05,Upper Middle,0,Jacuzzi,0.0,157.5
+2,1BHK,28.0,1.21,1.47,Low,0,,0.0,111.07
+3,Cottage,13.17,1.78,0.81,Middle,0,Garden,0.0,83.21
+2,Cottage,20.26,1.68,1.17,d;oiZ,1,,0.0,90.27
+5,2BHK,24.88,1.28,1.43,Middle,0,Swimming Pool,0.0,272.35
+5,,27.44,1.36,1.43,Middle,0,Garden,0.0,201.24
+2,Cottage,34.84,1.03,1.06,6@}4l,1,,1.0,147.03
+3,1BHK,20.77,1.07,0.92,Low,0,Garden,0.0,80.84
+5,2BHK,14.87,1.19,0.96,Middle,0,Jacuzzi,1.0,227.56
+4,2BHK,20.27,1.59,1.3,Middle,0,Garden,0.0,179.49
+3,2BHK,10.54,1.33,1.29,Middle,0,Jacuzzi,0.0,159.64
+3,3BHK,33.34,2.63,0.97,Upper Middle,1,Garden,0.0,168.37
+2,1BHK,30.36,1.3,1.46,Low,1,Garden,0.0,115.85
+2,1BHK,21.94,1.01,1.39,Middle,0,Jacuzzi,0.0,151.6
+5,2BHK,21.51,2.86,1.24,Upper Middle,0,,0.0,182.95
+4,2BHK,12.36,1.23,0.4746045137841326,Middle,0,Swimming Pool,0.0,184.61
+-88,3BHK,21.1,2.94,0.7010095110588279,Upper Middle,0,Fountain,1.0,244.94
+2,1BHK,28.82,1.55,0.99,Low,1,Garden,0.0,95.67
+3,Bungalow,25.35,2.3,0.85,Upper Middle,1,Fountain,0.0,125.81
+4,3BHK,10.64,2.75,1.49,Upper Middle,0,Fountain,0.0,235.97
+3,Cottage,21.29,1.38,1.26,Middle,0,,0.0,136.83
+-22,Cottage,21.23,1.76,1.14,n(Mr#,1,,0.0,136.41
+2,Cottage,31.68,1.41,1.06,Middle,1,,0.0,103.71
+4,3BHK,18.34,-44.0,1.24,Upper Middle,0,Jacuzzi,0.0,228.03
+5,2BHK,14.79,2.38,1.1,Upper Middle,0,,0.0,164.68
+5,2BHK,17.34,1.11,1.23,Middle,1,,0.0,219.84
+2,Studio,18.54,1.38,1.37,Low,0,,0.0,96.02
+3,Cottage,16.81,1.61,0.8,Middle,0,Fountain,0.0,102.36
+5,2BHK,17.51,1.6,0.8,Upper Middle,0,Garden,0.0,144.11
+4,Bungalow,17.47,2.34,1.18,Upper Middle,1,,1.0,235.37
+4,Detached,20.17,2.18,1.43,Rich,1,Jacuzzi,0.0,347.77
+3,2BHK,32.3,2.4,1.08,Upper Middle,1,Fountain,0.0,192.78
+2,1BHK,30.25,1.05,1.4,Middle,1,,0.0,136.36
+2,1BHK,33.13,1.11,1.18,Low,0,Garden,0.0,101.73
+4,2BHK,12.48,2.71,0.9,Upper Middle,0,Fountain,0.0,134.6
+5,2BHK,20.33,1.75,1.34,Middle,0,Jacuzzi,0.0,237.15
+3,Bungalow,18.83,1.86,1.0,Upper Middle,0,,0.0,114.51
+1,Studio,32.73,1.36,0.91,Low,1,Garden,0.0,65.73
+3,1BHK,30.51,1.43,1.3,Middle,1,,0.0,155.3
+4,3BHK,22.74,2.23,0.97,Upper Middle,0,Fountain,0.0,169.6
+5,3BHK,33.16,2.43,0.92,Upper Middle,0,,0.0,181.38
+4,2BHK,23.19,1.64,1.39,Upper Middle,0,,0.0,200.99
+2,,28.37,1.68,1.01,Low,0,,0.0,87.68
+2,Cottage,26.39,1.01,1.34,Middle,1,,0.0,122.41
+3,1BHK,27.06,1.18,1.09,Middle,0,,0.0,117.56
+4,,31.69,2.26,1.0,Upper Middle,0,Fountain,1.0,208.57
+4,,11.63,2.05,1.15,Upper Middle,0,,1.0,177.5
+3,1BHK,26.49,1.23,1.14,@gb30,0,,0.0,120.4
+5,3BHK,22.78,2.26,1.14,Upper Middle,2,,0.0,216.46
+2,Cottage,23.98,1.28,1.5,Middle,0,,0.0,112.87
+3,,12.49,1.14,1.3,Low,1,Garden,0.0,152.24
+3,Bungalow,21.89,1.5,1.01,Upper Middle,0,Jacuzzi,0.0,144.82
+2,1BHK,20.27,1.4,1.28,Middle,0,Garden,0.0,109.24
+3,1BHK,12.55,1.74,1.11,Low,0,,0.0,96.53
+3,2BHK,16.72,2.95,0.85,Upper Middle,0,,0.0,85.43
+1,Studio,16.31,1.58,1.41,Low,1,,0.0,78.81
+4,2BHK,23.52,1.42,0.9,Middle,0,Jacuzzi,1.0,147.31
+2,1BHK,29.74,1.56,1.12,Low,0,,1.0,109.28
+2,1BHK,23.02,1.78,1.1,Middle,0,Swimming Pool,0.0,114.37
+2,Studio,16.99,1.45,1.03,Low,0,Garden,0.0,63.44
+2,Cottage,18.5,1.0,0.94,Middle,0,Swimming Pool,0.0,99.01
+3,3BHK,17.88,2.59,1.39,Upper Middle,1,Fountain,0.0,232.91
+1,Studio,34.67,1.23,1.03,\E>Y(,1,,0.0,76.93
+4,3BHK,31.74,1.77,0.92,,0,,0.0,141.34
+-33,Bungalow,25.0,2.36,1.05,Rich,0,Swimming Pool,0.0,252.54
+2,1BHK,21.11,1.24,1.573683361989275,Low,0,Jacuzzi,0.0,73.46
+5,2BHK,31.5,2.04,0.98,Upper Middle,0,,0.0,171.34
+3,2BHK,12.11,1.31,1.31,Middle,0,,0.0,136.34
+5,2BHK,19.61,2.85,1.38,Upper Middle,1,Fountain,1.0,379.75
+4,3BHK,21.43,2.02,1.08,Upper Middle,0,,1.0,187.75
+5,2BHK,16.99,2.29,0.98,Upper Middle,1,,1.0,216.27
+2,Cottage,24.87,1.17,0.87,rUjj3,1,,0.0,78.79
+4,2BHK,14.08,2.65,1.01,Upper Middle,0,Jacuzzi,0.0,155.82
+4,2BHK,11.07,1.68,0.82,Middle,0,,1.0,98.85
+5,2BHK,26.47,1.73,1.1,Upper Middle,0,,0.0,173.5
+2,1BHK,14.0,1.59,1.05,Middle,0,Fountain,0.0,92.17
+5,Bungalow,15.03,-99.0,1.21,Upper Middle,1,Fountain,0.0,250.54
+3,1BHK,29.89,1.68,1.17,Low,0,Garden,0.0,123.2
+2,Cottage,20.34,1.28,0.82,Middle,0,Swimming Pool,1.0,103.92
+5,Detached,17.46,2.84,1.46,Rich,0,Fountain,1.0,388.83
+5,Bungalow,12.59,2.55,1.36,Upper Middle,0,Swimming Pool,0.0,247.51
+2,1BHK,,1.01,0.86,Low,0,Garden,0.0,63.23
+3,1BHK,19.93,1.68,1.21,Middle,1,Garden,1.0,169.42
+3,2BHK,28.74,1.61,0.97,Middle,1,,0.0,144.45
+4,Detached,,1.52,0.87,Rich,1,,1.0,198.98
+4,2BHK,23.29,-11.0,0.87,Upper Middle,1,Fountain,1.0,157.42
+3,Cottage,11.33,1.26,1.17,Middle,0,Fountain,0.0,109.55
+5,2BHK,28.98,1.75,1.14,Middle,0,,0.0,160.69
+3,1BHK,17.13,1.6,1.16,Middle,1,,0.0,129.33
+3,2BHK,25.34,1.62,1.18,Middle,0,Fountain,,154.94
+3,Bungalow,12.22,2.31,1.03,Upper Middle,0,Jacuzzi,0.0,116.03
+2,Cottage,31.7,1.12,0.97,,0,,0.0,87.48
+2,1BHK,14.62,1.57,1.23,Middle,0,Garden,,93.32
+4,2BHK,23.24,2.34,0.88,Upper Middle,0,Garden,1.0,167.05
+3,Cottage,27.52,1.32,1.17,Middle,0,Jacuzzi,0.0,151.19
+5,2BHK,20.52,1.74,1.28,Middle,1,,0.0,228.02
+2,1BHK,10.78,1.5,1.04,Middle,0,,0.0,70.1
+2,1BHK,19.05,1.49,1.09,Low,0,Garden,0.0,89.01
+3,1BHK,30.55,1.27,1.38,Middle,0,Jacuzzi,1.0,207.13
+5,3BHK,34.99,1.92,0.99,Upper Middle,0,Fountain,1.0,299.98
+5,2BHK,30.78,1.04,0.98,Middle,0,,0.0,160.86
+3,Bungalow,11.59,1.65,1.25,Upper Middle,1,Jacuzzi,0.0,184.48
+5,,10.42,1.72,1.11,Upper Middle,0,Swimming Pool,0.0,216.33
+4,Bungalow,10.26,2.68,1.35,Upper Middle,0,Jacuzzi,0.0,215.2
+2,1BHK,24.01,1.02,1.3,Middle,0,,0.0,102.64
+3,2BHK,23.61,1.12,0.82,Middle,0,,0.0,96.08
+3,1BHK,25.59,1.2,1.13,Middle,0,Fountain,0.0,136.66
+5,2BHK,20.65,1.54,1.46,Middle,1,Jacuzzi,0.0,311.39
+2,1BHK,31.22,1.09,1.26,Middle,1,,0.0,151.51
+4,2BHK,24.44,1.21,1.04,Middle,1,,0.0,163.65
+3,1BHK,34.25,1.42,1.09,Low,0,Garden,0.0,124.46
+2,1BHK,25.33,-88.0,1.19,Low,0,Fountain,0.0,104.05
+3,1BHK,,-66.0,0.94,Middle,0,Swimming Pool,1.0,126.28
+3,Detached,19.74,1.92,1.12,Rich,0,Fountain,0.0,186.99
+3,Cottage,,1.28,1.05,Middle,0,,0.0,113.42
+2,1BHK,24.75,1.24,1.43,Low,0,Garden,0.0,106.34
+2,Cottage,13.2,1.74,0.81,Middle,0,Fountain,0.0,71.55
+3,1BHK,15.58,1.57,1.22,Low,1,Fountain,0.0,140.08
+3,3BHK,16.6,1.9,1.44,Rich,0,Swimming Pool,0.0,228.7
+2,Cottage,10.5,1.1,1.49,Middle,1,,0.0,128.94
+-88,2BHK,13.34,1.06,1.32,Middle,1,,0.0,194.15
+1,Studio,30.26,1.29,1.22,Low,-1,Garden,0.0,64.33
+3,Bungalow,29.1,2.61,1.1,Upper Middle,1,Fountain,0.0,188.1
+2,Cottage,25.47,-33.0,0.98,Middle,1,Garden,0.0,104.74
+4,Bungalow,34.29,2.26,1.02,Rich,0,Jacuzzi,1.0,264.13
+3,Detached,15.23,2.16,1.0,Rich,1,Swimming Pool,0.0,220.09
+2,Studio,28.62,1.09,1.33,,0,Garden,0.0,100.91
+3,2BHK,29.72,2.66,1.37,,1,Swimming Pool,0.0,249.66
+3,1BHK,12.74,1.38,1.41,Low,0,Garden,0.0,115.32
+4,Bungalow,19.91,2.54,1.23,Rich,1,Swimming Pool,0.0,316.06
+5,Bungalow,25.83,2.14,1.28,Upper Middle,1,Garden,1.0,319.64
+4,2BHK,10.93,1.35,1.31,Middle,0,,1.0,165.43
+5,2BHK,10.89,1.75,1.11,Middle,0,,0.0,153.53
+2,1BHK,14.65,1.01,1.4,Low,0,,0.0,103.62
+3,Detached,30.43,2.75,1.41,Rich,1,Fountain,0.0,345.38
+3,2BHK,30.52,1.66,1.46,Middle,1,Fountain,1.0,279.53
+3,Detached,22.12,2.4,1.23,Rich,0,Garden,1.0,234.37
+5,Detached,26.26,1.62,0.85,Rich,0,,0.0,166.27
+2,Cottage,11.35,1.65,1.22,Middle,0,Garden,0.0,87.8
+3,Bungalow,,1.94,1.34,,0,Garden,0.0,126.91
+5,Bungalow,33.76,2.53,0.83,Upper Middle,0,,0.0,135.67
+2,Studio,30.97,1.16,0.82,Low,0,,,60.39
+3,Bungalow,10.84,2.85,0.86,Upper Middle,0,Garden,1.0,110.03
+4,2BHK,30.28,-77.0,1.9522978682523984,,0,,0.0,177.06
+3,1BHK,24.51,1.5,0.99,Low,0,,0.0,99.18
+5,2BHK,,2.43,0.8,Upper Middle,0,,0.0,109.55
+4,3BHK,26.1,2.8,1.31,Upper Middle,1,Fountain,1.0,322.17
+4,3BHK,21.45,2.83,1.25,Upper Middle,0,Garden,0.0,204.76
+5,Detached,14.18,2.06,1.48,Rich,0,Swimming Pool,0.0,371.0
+5,Bungalow,29.21,2.36,1.42,Upper Middle,1,Swimming Pool,0.0,362.3
+3,2BHK,10.36,1.32,1.09,Middle,0,,0.0,94.62
+5,3BHK,32.65,2.09,1.23,Upper Middle,0,,0.0,234.96
+2,Cottage,10.34,1.5,1.38,Middle,0,Garden,0.0,102.92
+5,2BHK,22.25,2.83,0.82,Upper Middle,1,,0.0,145.15
+3,1BHK,10.41,1.47,1.37,Low,0,,0.0,100.61
+1,Studio,10.37,1.25,0.96,Low,1,Garden,0.0,62.56
+3,3BHK,27.56,2.32,0.88,Upper Middle,0,,0.0,115.25
+3,1BHK,31.69,1.54,0.99,Low,0,Fountain,0.0,115.25
+3,2BHK,10.42,2.72,1.37,Upper Middle,0,Jacuzzi,0.0,158.75
+2,,11.8,1.32,1.45,Middle,0,Swimming Pool,0.0,141.62
+4,3BHK,26.07,2.88,1.48,Upper Middle,0,,0.0,233.06
+3,1BHK,20.93,1.22,1.15,Low,0,,1.0,120.83
+3,Cottage,27.34,-44.0,1.13,Middle,0,,0.0,113.22
+5,3BHK,16.4,1.65,1.03,Upper Middle,0,,0.0,151.31
+2,Cottage,13.86,1.38,1.31,Middle,0,,0.0,87.54
+1,Studio,34.5,1.56,1.08,Low,0,Garden,0.0,65.78
+2,Studio,15.26,1.33,0.8,Low,0,,0.0,44.42
+3,3BHK,12.98,1.83,1.21,Upper Middle,0,Swimming Pool,0.0,188.96
+4,3BHK,10.74,2.66,1.24,Upper Middle,0,Swimming Pool,0.0,184.5
+5,2BHK,14.55,2.21,0.85,Upper Middle,0,,0.0,119.86
+2,Cottage,16.41,1.04,1.29,Middle,0,Swimming Pool,0.0,136.22
+5,2BHK,26.76,1.68,0.9,Upper Middle,1,Fountain,1.0,216.82
+4,2BHK,19.5,-77.0,0.86,Upper Middle,0,Fountain,0.0,126.7
+2,,28.77,1.27,0.88,Middle,1,Swimming Pool,0.0,119.44
+3,2BHK,34.25,1.43,1.09,Middle,0,,1.0,142.06
+4,3BHK,18.17,1.53,1.36,|8*CE,0,Fountain,0.0,244.97
+3,Cottage,24.22,1.41,1.24,Middle,1,,1.0,172.42
+2,Cottage,33.31,1.2,0.86,Middle,0,Jacuzzi,0.0,102.59
+5,Bungalow,14.63,2.38,0.89,Upper Middle,1,Jacuzzi,1.0,218.89
+5,3BHK,11.84,2.64,1.3,Upper Middle,1,Jacuzzi,0.0,312.34
+3,Cottage,19.41,1.38,1.19,Middle,0,Garden,0.0,128.43
+3,Bungalow,32.72,2.99,1.2,Upper Middle,0,,0.0,145.69
+5,,29.78,1.52,0.82,Upper Middle,0,,1.0,170.44
+2,1BHK,26.84,1.45,1.0,Low,0,,0.0,83.69
+5,Bungalow,32.09,1.95,1.02,Upper Middle,0,Swimming Pool,0.0,246.56
+3,Cottage,17.34,1.72,1.11,Middle,1,Garden,0.0,114.86
+2,1BHK,32.72,1.34,1.12,Low,0,,0.0,86.88
+3,3BHK,26.15,2.73,0.82,Rich,0,Fountain,0.0,143.32
+2,1BHK,12.04,1.41,1.04,Low,1,,,92.92
+5,3BHK,33.24,2.4,0.92,Upper Middle,1,Fountain,0.0,241.44
+-22,Detached,25.72,2.77,1.47,Rich,0,Fountain,0.0,296.71
+4,2BHK,13.88,1.46,1.18,Middle,0,Swimming Pool,0.0,184.84
+5,Detached,34.82,2.8,1.42,Rich,0,Fountain,1.0,424.97
+5,2BHK,32.72,1.38,0.82,Middle,0,,0.0,134.07
+2,1BHK,34.33,1.02,1.35,Low,0,,0.0,108.1
+4,Detached,32.94,1.69,1.09,Rich,1,Jacuzzi,1.0,395.51
+4,2BHK,18.85,1.79,1.02,Upper Middle,0,Jacuzzi,1.0,189.14
+2,Studio,10.23,1.72,0.92,Low,0,Swimming Pool,0.0,62.22
+5,3BHK,33.42,2.44,0.95,Rich,1,Fountain,0.0,266.25
+5,2BHK,28.03,2.26,1.06,Upper Middle,0,Garden,0.0,201.45
+2,Cottage,10.96,1.15,0.82,Middle,1,Garden,0.0,71.79
+3,2BHK,27.78,1.27,0.97,&W^}X,0,,0.0,111.31
+5,3BHK,19.17,2.84,1.48,Upper Middle,1,Jacuzzi,0.0,327.01
+5,Detached,21.19,2.32,1.44,Rich,1,Swimming Pool,0.0,485.7
+2,Cottage,17.14,1.39,1.33,Middle,0,,0.0,108.6
+5,3BHK,27.44,2.59,0.93,Rich,0,Jacuzzi,1.0,264.87
+2,1BHK,33.58,1.78,1.23,Low,0,Garden,0.0,100.59
+5,2BHK,,2.73,1.48,Upper Middle,0,,0.0,248.15
+2,1BHK,32.46,1.22,0.8937180147509699,Middle,0,Fountain,1.0,113.42
+1,Studio,33.62,1.46,0.96,Low,0,Garden,0.0,57.45
+4,Bungalow,32.74,2.1,1.27,Rich,0,Garden,0.0,263.16
+1,Studio,25.32,1.38,1.35,Low,0,,1.0,76.62
+5,Bungalow,26.56,1.71,1.07,Upper Middle,0,,1.0,202.91
+3,1BHK,34.45,1.55,1.36,Low,0,,0.0,142.12
+3,Cottage,27.99,1.75,1.44,Middle,0,,,162.7
+3,2BHK,15.55,1.41,1.39,Middle,0,,0.0,152.18
+4,Bungalow,21.63,1.51,1.27,Upper Middle,0,,0.0,153.93
+4,3BHK,22.09,1.77,1.5881934898799115,Upper Middle,0,Swimming Pool,0.0,194.85
+5,2BHK,14.49,1.8,1.43,Upper Middle,0,Jacuzzi,0.0,255.62
+2,1BHK,30.07,-55.0,1.12,Middle,1,Garden,0.0,119.15
+2,Studio,23.47,1.76,1.18,Low,0,,0.0,65.6
+3,2BHK,29.75,1.4,0.94,Middle,0,,0.0,109.97
+5,2BHK,22.83,1.32,1.15,Middle,0,Garden,0.0,167.46
+3,2BHK,30.17,2.07,1.42,Upper Middle,0,Swimming Pool,0.0,234.01
+1,Studio,22.9,1.22,0.9,Low,1,,0.0,56.11
+2,Cottage,16.8,1.46,0.98,Middle,0,,0.0,68.37
+3,2BHK,15.36,1.39,1.25,Middle,1,,0.0,160.52
+3,3BHK,20.21,2.15,1.28,_9/&L,0,,0.0,151.65
+4,Bungalow,10.99,1.54,1.22,Upper Middle,0,Swimming Pool,0.0,201.22
+4,Detached,31.14,2.28,1.33,Rich,0,Swimming Pool,,296.0
+3,1BHK,27.53,1.45,1.29,Middle,0,,1.0,162.54
+4,Bungalow,20.64,1.89,0.92,,1,Fountain,0.0,197.88
+4,Bungalow,19.57,2.44,0.88,Upper Middle,0,Fountain,1.0,165.32
+3,Bungalow,15.41,2.15,1.04,Upper Middle,1,Jacuzzi,0.0,176.24
+5,Bungalow,29.55,1.54,0.97,Rich,1,,0.0,231.1
+3,Cottage,28.6,1.63,1.49,Middle,1,,0.0,139.19
+1,Studio,,1.43,1.26,Low,0,Garden,0.0,65.84
+3,2BHK,13.89,2.85,0.94,Upper Middle,0,,1.0,100.05
+1,Studio,27.84,1.67,1.33,Low,0,Garden,0.0,80.21
+3,Bungalow,28.66,2.99,1.19,Upper Middle,1,Jacuzzi,0.0,173.53
+2,1BHK,,1.37,1.29,Middle,0,,,96.06
+3,1BHK,34.97,1.42,0.86,Middle,0,,0.0,101.1
+3,2BHK,15.17,2.09,1.46,Upper Middle,0,,0.0,158.14
+4,2BHK,33.19,1.93,1.32,,0,Garden,1.0,241.95
+4,2BHK,19.14,1.4,0.97,Middle,0,,0.0,118.64
+3,Cottage,12.28,1.28,1.31,Middle,0,,0.0,110.74
+2,Cottage,31.12,1.63,1.26,Middle,0,,0.0,95.57
+2,1BHK,24.2,1.06,1.38,Low,1,,1.0,152.33
+3,2BHK,,1.3,1.28,Middle,0,,0.0,131.13
+3,3BHK,14.07,2.57,0.96,Upper Middle,1,,,129.66
+3,3BHK,28.59,2.32,1.31,Rich,1,Fountain,1.0,342.31
+5,Bungalow,21.18,2.4,1.39,Upper Middle,0,,0.0,222.68
+3,1BHK,15.06,1.06,0.97,Middle,0,,0.0,93.25
+5,3BHK,24.19,2.14,0.85,,0,Fountain,0.0,181.4
+5,2BHK,26.86,2.73,1.13,,0,,1.0,233.1
+1,Studio,30.39,1.19,1.46,Low,0,,0.0,87.2
+5,2BHK,33.81,1.88,1.24,Upper Middle,1,,0.0,272.6
+2,Studio,19.09,1.15,1.44,Low,0,,0.0,98.41
+5,2BHK,26.54,1.06,0.7256857969114612,Middle,1,,0.0,289.69
+5,2BHK,26.05,2.29,0.85,Upper Middle,1,Swimming Pool,0.0,227.07
+2,1BHK,33.61,1.7,1.09,Low,0,Garden,1.0,106.54
+3,2BHK,31.84,2.29,1.24,Upper Middle,0,Swimming Pool,,184.8
+4,3BHK,14.71,2.22,1.34,Upper Middle,1,,0.0,209.24
+3,3BHK,13.07,2.84,1.09,Upper Middle,0,,0.0,131.95
+3,1BHK,29.73,1.0,1.41,Low,0,,0.0,141.99
+5,Detached,30.39,2.7,1.33,X{^K[,1,Jacuzzi,0.0,395.5
+2,1BHK,21.19,1.67,1.14,Middle,0,Jacuzzi,1.0,129.84
+5,Detached,32.57,2.19,1.49,Rich,0,Jacuzzi,0.0,399.95
+3,2BHK,27.32,2.89,0.91,Upper Middle,0,Garden,0.0,111.23
+3,2BHK,18.93,2.15,0.9,Upper Middle,0,Fountain,1.0,139.35
+3,2BHK,30.17,1.04,1.3,Middle,0,,0.0,181.86
+2,Studio,12.79,1.43,1.29,Low,0,Garden,0.0,84.8
+4,Bungalow,24.86,1.82,1.11,Upper Middle,0,,0.0,172.22
+4,Bungalow,21.69,2.16,1.45,Upper Middle,0,Fountain,0.0,228.81
+3,2BHK,22.6,1.29,0.84,Middle,0,Jacuzzi,0.0,111.56
+1,Studio,14.1,1.26,0.95,Low,1,,0.0,51.98
+5,2BHK,27.71,1.52,0.89,,0,Swimming Pool,0.0,150.51
+2,1BHK,10.57,1.29,1.32,Middle,0,,0.0,97.36
+3,1BHK,11.49,1.39,1.11,Middle,0,,1.0,106.86
+2,Studio,16.27,1.5,1.08,Low,0,,0.0,65.25
+5,3BHK,30.91,2.46,1.04,Upper Middle,1,,1.0,236.85
+5,2BHK,28.65,1.61,1.31,Middle,1,,0.0,266.41
+4,3BHK,11.88,2.03,1.43,Rich,0,Swimming Pool,,297.69
+3,1BHK,12.1,1.15,1.12,Low,1,,0.0,114.05
+4,2BHK,28.67,1.09,1.38,Middle,1,,0.0,226.74
+3,Bungalow,14.64,-33.0,1.12,Rich,1,Swimming Pool,1.0,277.16
+5,2BHK,20.84,2.4,1.42,Upper Middle,1,Garden,0.0,263.45
+3,3BHK,26.43,2.13,0.89,Upper Middle,0,Swimming Pool,0.0,143.78
+2,Cottage,10.48,1.24,0.82,Middle,0,Garden,0.0,65.19
+2,1BHK,30.61,1.13,0.9,Middle,0,,0.0,86.46
+5,2BHK,12.08,1.22,0.88,Middle,0,,0.0,118.51
+2,Cottage,32.82,1.27,0.93,Middle,0,Garden,1.0,93.92
+2,Studio,23.37,1.78,1.25,Low,0,,0.0,99.86
+2,Cottage,27.87,1.44,1.34,Middle,0,Garden,0.0,131.44
+5,Bungalow,22.8,2.47,1.36,Upper Middle,0,,0.0,216.5
+2,1BHK,32.14,1.31,0.81,Low,0,Swimming Pool,0.0,86.96
+2,1BHK,,1.26,1.34,Low,0,Garden,0.0,103.1
+4,3BHK,28.41,2.43,1.17,Upper Middle,0,,0.0,169.23
+3,1BHK,26.65,1.01,1.49,Middle,1,,0.0,196.2
+2,Cottage,22.68,1.61,1.44,Middle,0,Fountain,0.0,130.4
+3,Bungalow,16.91,2.57,1.33,Upper Middle,0,,0.0,148.68
+4,2BHK,20.58,2.94,1.21,Upper Middle,0,,0.0,156.17
+3,Bungalow,29.6,2.79,1.3,Upper Middle,0,Garden,0.0,177.52
+4,2BHK,22.25,1.69,0.93,Upper Middle,1,Garden,1.0,162.68
+-99,Studio,25.15,1.49,1.06,Low,0,Garden,0.0,77.09
+2,1BHK,25.6,1.48,1.27,Low,0,,0.0,99.7
+4,3BHK,28.1,2.98,0.91,Rich,0,Jacuzzi,0.0,207.43
+1,Studio,,1.45,1.37,Low,1,Swimming Pool,0.0,108.07
+2,1BHK,29.95,1.53,0.81,Low,0,,0.0,64.53
+2,1BHK,33.46,1.01,0.84,Middle,1,Garden,0.0,96.01
+2,1BHK,13.54,1.69,1.11,Middle,0,,0.0,81.03
+4,2BHK,22.02,1.78,1.17,Upper Middle,0,Swimming Pool,0.0,207.79
+2,Studio,,1.48,1.21,Low,0,Jacuzzi,0.0,117.56
+3,3BHK,23.38,2.01,0.93,Upper Middle,0,,1.0,145.63
+-99,,30.95,1.64,1.4,Middle,0,,1.0,121.49
+2,Cottage,23.4,1.67,0.99,Middle,0,,0.0,81.51
+5,,13.37,1.74,1.24,Rich,1,Swimming Pool,0.0,330.04
+4,Detached,24.2,2.28,1.42,Rich,1,Fountain,0.0,412.03
+3,2BHK,12.63,1.83,1.2,Upper Middle,0,Garden,0.0,142.04
+5,2BHK,11.04,1.11,1.31,Middle,1,Fountain,1.0,291.01
+4,Bungalow,28.9,2.4,1.08,Upper Middle,1,,0.0,207.25
+4,3BHK,33.49,1.91,1.12,Rich,0,,1.0,258.26
+3,,19.5,1.12,1.37,Middle,0,Garden,0.0,160.95
+4,2BHK,12.85,1.12,1.37,Middle,0,Garden,0.0,166.61
+5,2BHK,27.35,1.44,1.35,Middle,-1,,1.0,256.88
+3,Cottage,28.84,1.65,1.27,Middle,0,Garden,0.0,145.87
+4,Bungalow,15.37,2.55,0.84,Rs/9[,0,,0.0,108.42
+3,2BHK,20.02,1.58,1.11,?#@7~,0,,0.0,111.0
+4,3BHK,,2.06,1.09,Upper Middle,0,Jacuzzi,0.0,164.06
+2,1BHK,13.01,1.58,1.49,Low,0,Jacuzzi,0.0,108.17
+5,Bungalow,20.91,2.63,1.21,Rich,1,Jacuzzi,0.0,358.5
+2,1BHK,29.49,1.2,0.97,Low,0,,1.0,88.01
+3,Cottage,29.17,1.79,1.15,Middle,0,Garden,0.0,136.3
+5,3BHK,30.1,2.34,0.98,Upper Middle,0,Swimming Pool,0.0,251.38
+2,Studio,19.64,1.14,0.81,Low,0,Fountain,0.0,69.06
+3,3BHK,,1.67,1.43,Rich,1,,0.0,275.4
+5,3BHK,24.08,-44.0,1.3,Upper Middle,0,Swimming Pool,0.0,295.78
+3,Bungalow,30.78,2.55,1.22,Upper Middle,0,,0.0,149.73
+2,Cottage,18.89,1.78,0.86,Middle,1,Swimming Pool,0.0,102.49
+1,Studio,27.31,1.01,0.96,Low,0,,0.0,54.74
+4,3BHK,13.03,1.6,1.26,Upper Middle,0,Fountain,0.0,212.14
+3,Bungalow,15.73,2.97,1.1,Upper Middle,1,Garden,0.0,131.92
+4,Bungalow,33.66,2.67,1.24,Upper Middle,0,Jacuzzi,0.0,188.61
+3,2BHK,34.11,1.02,1.4,Middle,1,,0.0,216.66
+4,,24.04,1.95,0.9,Upper Middle,0,Garden,0.0,144.06
+3,Cottage,11.22,1.59,0.91,Middle,0,,0.0,72.34
+2,Cottage,34.98,1.12,1.09,Middle,0,Garden,1.0,123.6
+5,2BHK,18.74,1.37,0.84,Middle,0,,,115.7
+4,Detached,25.76,2.89,1.4614969382660383,Rich,0,Garden,0.0,159.62
+1,Studio,33.19,1.77,1.47,Low,1,,0.0,99.44
+4,2BHK,20.15,2.92,0.84,Upper Middle,0,Jacuzzi,0.0,129.29
+3,Cottage,32.99,1.03,1.47,Middle,1,Swimming Pool,0.0,279.11
+4,3BHK,22.87,2.61,1.46,Upper Middle,1,Jacuzzi,0.0,317.81
+3,1BHK,18.79,1.36,1.36,Middle,0,Fountain,1.0,168.67
+5,2BHK,24.86,2.77,0.9,Upper Middle,0,,0.0,144.42
+4,2BHK,27.69,1.37,1.38,Middle,1,Garden,0.0,214.74
+4,Bungalow,22.28,2.48,1.13,Upper Middle,0,,0.0,136.98
+5,3BHK,22.86,2.15,0.97,GF@y\,0,,1.0,181.68
+1,Studio,14.98,1.73,1.18,Low,0,,0.0,55.83
+5,2BHK,34.0,1.24,1.04,Middle,0,,0.0,185.05
+3,1BHK,,1.72,0.85,Low,0,,0.0,64.08
+1,Studio,15.66,1.3,1.13,Low,0,,0.0,58.18
+2,1BHK,33.68,1.3,0.87,Middle,0,Garden,0.0,84.69
+5,3BHK,11.62,2.23,0.87,Upper Middle,0,,0.0,143.77
+3,Bungalow,19.44,2.43,1.17,Upper Middle,-1,,0.0,126.89
+2,Cottage,10.26,1.22,1.47,Middle,0,,0.0,101.32
+3,,32.78,2.81,1.21,Rich,0,Jacuzzi,0.0,192.37
+3,Bungalow,30.9,1.7,1.13,Upper Middle,0,Swimming Pool,0.0,201.41
+3,2BHK,29.19,1.8,1.03,Upper Middle,0,,1.0,152.06
+2,1BHK,16.26,1.63,0.89,Low,0,Garden,0.0,60.24
+1,Studio,28.77,1.55,1.33,Low,0,,0.0,75.33
+2,Studio,10.54,1.12,1.19,Low,0,,0.0,78.54
+5,3BHK,32.4,2.08,0.93,Upper Middle,0,Swimming Pool,1.0,274.84
+5,3BHK,23.15,2.75,1.29,Upper Middle,0,Swimming Pool,0.0,280.24
+3,1BHK,21.2,1.53,1.32,,1,Garden,0.0,141.61
+5,3BHK,12.84,1.71,0.95,Upper Middle,0,Garden,0.0,155.23
+3,1BHK,34.47,1.07,1.26,Middle,0,,0.0,144.84
+2,1BHK,19.2,1.61,1.2,Low,1,,0.0,105.02
+4,Bungalow,23.49,1.98,1.44,,1,Jacuzzi,0.0,293.87
+2,1BHK,29.37,1.72,1.46,,1,,0.0,155.84
+5,3BHK,14.88,2.86,1.08,Upper Middle,0,,1.0,199.24
+3,Cottage,10.72,1.58,0.81,Middle,0,Jacuzzi,0.0,83.73
+4,Bungalow,28.88,2.16,1.44,Upper Middle,1,Swimming Pool,0.0,337.33
+3,1BHK,29.28,1.41,1.45,Middle,0,Garden,0.0,170.47
+2,Studio,20.17,1.05,1.15,Low,1,Jacuzzi,0.0,108.95
+5,2BHK,16.43,1.06,0.95,Middle,0,Swimming Pool,1.0,172.2
+4,2BHK,23.78,1.26,2.133695183012604,c&8%1,1,Jacuzzi,0.0,303.59
+5,2BHK,17.11,2.62,1.49,Upper Middle,0,Swimming Pool,,271.27
+4,2BHK,12.64,2.6,0.89,Upper Middle,0,Garden,0.0,104.66
+2,Studio,12.46,1.32,1.2,Low,0,Garden,,71.17
+5,3BHK,11.25,1.91,0.91,Upper Middle,0,Swimming Pool,0.0,181.8
+3,1BHK,20.92,1.2,1.32,N2lpC,0,Garden,1.0,128.47
+3,1BHK,29.85,1.24,0.88,Low,0,,0.0,89.58
+5,2BHK,13.58,1.0,1.33,Middle,0,Jacuzzi,1.0,265.82
+4,3BHK,22.77,2.61,-0.0140125589325311,Upper Middle,1,,0.0,240.22
+4,3BHK,34.67,1.51,0.85,Rich,0,Swimming Pool,0.0,214.57
+2,1BHK,23.17,1.24,1.39,Low,0,Garden,,127.11
+2,Studio,31.54,1.03,0.82,Low,0,,0.0,61.69
+5,3BHK,18.36,2.43,1.29,Upper Middle,0,,0.0,209.66
+4,3BHK,28.66,2.81,1.21,Upper Middle,1,Swimming Pool,0.0,295.4
+2,Cottage,21.9,1.43,1.37,Middle,0,Garden,0.0,113.17
+2,Studio,18.87,1.47,1.41,Low,0,,0.0,90.74
+4,2BHK,20.42,2.11,1.12,,0,Garden,0.0,159.61
+2,1BHK,34.18,1.61,0.95,Middle,1,Garden,0.0,110.58
+3,,24.21,2.51,0.85,Rich,0,Jacuzzi,1.0,177.57
+4,2BHK,12.79,1.47,1.01,Middle,1,Garden,1.0,155.65
+5,2BHK,17.82,1.34,1.46,Middle,0,Garden,,244.75
+5,Detached,12.66,2.19,0.9,Rich,0,Garden,0.0,177.56
+3,Cottage,11.98,1.05,1.16,Middle,0,Garden,0.0,106.07
+2,1BHK,19.13,1.08,1.19,Low,0,,0.0,87.96
+3,Cottage,16.97,1.32,1.41,Middle,0,,0.0,132.11
+5,2BHK,27.23,1.5,1.3,N^q-p,0,Fountain,0.0,242.37
+3,1BHK,23.26,1.8,1.04,Low,1,,0.0,109.95
+3,1BHK,34.88,1.17,0.85,Low,1,,0.0,99.04
+5,2BHK,27.53,1.77,1.05,Middle,1,Garden,0.0,238.7
+3,1BHK,16.38,1.42,1.4,Middle,1,,0.0,135.9
+3,3BHK,11.8,2.37,0.83,Upper Middle,0,,0.0,99.96
+3,Cottage,16.6,1.27,1.06,Middle,0,Fountain,0.0,116.38
+1,Studio,28.75,1.31,0.91,Low,0,Fountain,1.0,67.48
+4,Bungalow,31.18,2.68,0.94,Rich,0,Fountain,0.0,223.29
+5,3BHK,13.61,1.79,1.22,Rich,0,Fountain,0.0,308.13
+-22,2BHK,12.61,1.53,1.0,Middle,0,,0.0,112.84
+4,Bungalow,19.58,2.35,0.96,Rich,1,Fountain,0.0,221.07
+2,1BHK,12.22,1.29,0.96,Middle,0,Garden,0.0,76.67
+3,3BHK,31.95,2.98,2.1620879799509467,Upper Middle,1,Garden,0.0,121.11
+5,2BHK,33.62,2.67,1.4,Upper Middle,0,,0.0,214.8
+5,2BHK,30.17,1.46,1.03,Middle,1,,0.0,203.06
+3,2BHK,33.53,2.06,1.41,Upper Middle,1,Fountain,0.0,221.34
+5,2BHK,11.1,1.28,1.32,Middle,0,Fountain,0.0,229.8
+3,1BHK,27.02,1.48,0.93,Middle,1,Garden,1.0,136.75
+4,3BHK,15.33,2.18,0.97,Upper Middle,0,,0.0,174.93
+3,1BHK,11.89,1.33,0.88,Low,0,,0.0,64.23
+5,2BHK,17.5,3.0,1.36,I=Yme,-1,,0.0,174.31
+3,1BHK,10.4,1.09,0.94,Middle,1,Jacuzzi,1.0,133.34
+3,2BHK,19.77,1.01,1.34,Middle,0,Fountain,0.0,167.7
+5,3BHK,32.49,1.72,1.48,Upper Middle,0,,0.0,281.59
+4,3BHK,31.68,1.63,0.93,Upper Middle,1,Jacuzzi,1.0,280.32
+5,2BHK,14.89,1.16,0.96,Middle,0,Fountain,0.0,153.97
+3,1BHK,20.79,1.22,0.93,Middle,0,Fountain,0.0,105.04
+2,Cottage,21.04,1.23,1.25,Middle,0,,0.0,100.2
+3,3BHK,15.08,2.17,1.43,Upper Middle,0,Swimming Pool,0.0,213.64
+3,Bungalow,19.36,2.15,1.21,Rich,1,Swimming Pool,0.0,256.62
+3,1BHK,21.1,1.23,1.43,o0&[1,0,,0.0,140.27
+-88,,13.8,1.07,1.5,Middle,0,,0.0,102.92
+5,3BHK,24.37,1.53,1.37,Rich,1,Garden,0.0,389.3
+2,Cottage,31.89,1.42,0.9,Middle,1,Swimming Pool,1.0,142.52
+3,1BHK,22.89,1.36,1.14,Middle,1,,0.0,112.09
+2,1BHK,24.11,1.67,0.94,Low,0,,0.0,67.19
+5,Bungalow,14.14,-44.0,0.92,Rich,0,Fountain,,178.07
+2,1BHK,30.55,1.62,1.02,Low,0,,0.0,75.77
+4,3BHK,20.81,2.36,1.1,Upper Middle,1,,0.0,205.98
+3,Bungalow,23.88,2.66,1.47,Upper Middle,0,,0.0,170.59
+2,Studio,26.25,1.62,0.8,Low,1,,0.0,66.27
+3,1BHK,16.91,1.03,0.95,Middle,0,,1.0,112.98
+3,Cottage,28.78,1.26,0.82,Middle,0,Jacuzzi,1.0,121.64
+2,1BHK,28.12,1.54,1.04,,0,Fountain,0.0,90.4
+5,Bungalow,21.87,2.59,1.1,Upper Middle,0,Swimming Pool,0.0,226.51
+3,Bungalow,,2.2,0.89,Rich,0,Swimming Pool,1.0,160.31
+5,3BHK,12.96,2.99,1.24,Upper Middle,0,Swimming Pool,0.0,263.69
+2,Studio,34.88,1.22,0.85,Low,0,,1.0,72.03
+3,1BHK,34.27,1.15,1.33,Low,0,,0.0,139.24
+4,3BHK,15.2,2.01,0.99,S!PEi,0,Swimming Pool,0.0,187.18
+3,Cottage,19.18,1.04,1.21,Middle,0,Garden,0.0,137.41
+5,2BHK,13.91,2.89,1.09,Upper Middle,0,,0.0,133.81
+3,Cottage,19.58,1.75,1.04,Middle,0,,0.0,103.07
+5,2BHK,14.47,1.03,0.82,Middle,1,,0.0,151.18
+3,2BHK,22.85,1.33,1.47,Middle,0,,1.0,177.54
+4,2BHK,32.08,1.26,0.95,Middle,0,,0.0,141.53
+5,Bungalow,20.31,2.87,1.34,Rich,1,,0.0,268.24
+2,Cottage,32.68,1.09,1.03,"B6,/}",0,,0.0,100.71
+3,,18.19,1.52,1.09,Middle,1,,0.0,131.84
+2,Cottage,28.35,1.41,1.0,Middle,1,,1.0,124.46
+3,3BHK,31.17,2.71,1.16,Upper Middle,1,Jacuzzi,,218.35
+4,Bungalow,29.54,2.51,0.83,Upper Middle,0,Jacuzzi,0.0,149.68
+2,Cottage,23.72,1.62,1.01,Middle,1,Garden,1.0,123.83
+3,1BHK,29.32,1.58,1.5,Middle,0,Fountain,1.0,221.41
+3,2BHK,33.75,1.9,1.34,Upper Middle,1,,1.0,235.63
+4,2BHK,12.44,1.4,1.44,Middle,0,Fountain,0.0,199.42
+2,1BHK,26.0,1.11,1.27,Low,1,Garden,1.0,148.55
+2,1BHK,17.05,1.74,0.83,Middle,0,,0.0,61.59
+4,Bungalow,16.57,2.84,1.47,Upper Middle,0,Garden,0.0,188.04
+4,3BHK,15.56,-22.0,1.23,Upper Middle,0,Swimming Pool,0.0,233.09
+3,3BHK,19.61,2.41,1.6738573028361543,Upper Middle,0,Swimming Pool,0.0,157.89
+5,2BHK,17.69,1.49,0.89,Middle,0,Fountain,0.0,139.45
+3,Cottage,33.79,1.37,1.32,Middle,0,,0.0,157.62
+4,3BHK,16.67,2.13,1.39,Rich,0,Jacuzzi,0.0,285.47
+3,2BHK,24.27,1.28,0.83,Middle,1,Fountain,0.0,141.18
+3,1BHK,34.69,1.47,1.42,Middle,0,Swimming Pool,0.0,189.56
+4,2BHK,26.38,2.27,0.97,,0,,0.0,129.09
+4,2BHK,16.7,2.52,0.5614288541553667,Upper Middle,0,Fountain,0.0,188.59
+4,2BHK,14.67,2.24,1.13,Upper Middle,0,Swimming Pool,0.0,173.67
+4,Bungalow,15.03,1.89,1.18,Upper Middle,1,Fountain,0.0,218.69
+4,Bungalow,28.91,1.92,1.2,Upper Middle,0,Garden,1.0,204.88
+1,Studio,16.34,1.11,1.34,Low,1,Garden,1.0,99.61
+4,Detached,10.85,2.92,1.27,Rich,0,,0.0,166.95
+2,1BHK,31.58,1.29,1.15,Middle,0,,0.0,103.71
+1,Studio,30.64,1.41,1.19,Low,0,Garden,0.0,71.18
+4,2BHK,15.09,1.67,1.24,Middle,1,Jacuzzi,0.0,220.81
+2,Cottage,23.52,1.72,1.04,Middle,0,Garden,0.0,83.62
+3,1BHK,19.71,1.44,0.94,Low,0,,0.0,73.93
+5,Bungalow,32.87,3.0,0.86,Rich,0,Fountain,,245.66
+3,Cottage,28.56,1.29,1.42,Middle,0,,1.0,188.38
+2,1BHK,17.12,1.6,1.38,Middle,0,,0.0,107.49
+4,Bungalow,21.17,2.16,0.89,Upper Middle,1,Jacuzzi,0.0,189.02
+2,1BHK,34.94,1.42,1.16,Middle,0,Jacuzzi,0.0,131.48
+3,3BHK,18.71,1.91,1.47,Rich,0,,,232.83
+4,3BHK,21.93,2.57,1.09,Upper Middle,0,,0.0,149.38
+3,Bungalow,26.59,2.96,0.96,Upper Middle,0,,0.0,126.84
+3,Cottage,11.56,1.11,1.13,,1,,0.0,117.14
+2,Cottage,23.85,1.12,0.8,Middle,0,,0.0,64.34
+4,3BHK,,1.95,1.48,Upper Middle,0,Swimming Pool,0.0,320.78
+4,3BHK,14.37,1.9,1.49,Upper Middle,1,,0.0,273.59
+5,Bungalow,30.79,2.07,0.84,c(J5N,0,,0.0,147.68
+3,2BHK,15.33,1.67,1.24,Middle,0,Garden,1.0,149.53
+3,Cottage,22.11,1.26,1.09,Middle,0,,0.0,101.02
+3,Cottage,10.12,1.49,1.3,Middle,1,,0.0,137.08
+5,2BHK,28.24,2.1,0.92,Upper Middle,0,,0.0,153.51
+2,Studio,12.37,1.1,0.82,Low,0,,0.0,54.34
+1,Studio,26.56,1.11,1.22,jRBLn,1,,0.0,72.93
+4,2BHK,32.81,2.28,1.18,Upper Middle,1,Garden,0.0,246.97
+2,1BHK,,1.47,1.6417336873385036,Middle,0,Fountain,0.0,97.65
+4,3BHK,16.71,2.04,1.5,Upper Middle,0,,0.0,213.74
+5,Detached,11.84,2.56,1.02,Rich,0,Fountain,0.0,241.87
+2,,30.0,1.14,0.93,Low,0,Garden,0.0,76.43
+3,Cottage,16.87,1.02,1.21,Middle,0,Fountain,0.0,138.64
+4,Detached,10.15,2.42,1.18,Rich,0,Swimming Pool,1.0,308.87
+3,Bungalow,32.8,2.49,1.14,Upper Middle,1,Garden,0.0,176.23
+5,3BHK,25.01,1.71,0.83,Rich,1,Swimming Pool,0.0,278.33
+4,Bungalow,34.75,2.91,1.27,Upper Middle,0,,1.0,177.33
+3,3BHK,19.84,2.93,1.23,Upper Middle,0,Swimming Pool,1.0,199.62
+5,3BHK,31.82,1.75,1.27,Rich,0,,1.0,328.98
+4,2BHK,27.29,1.04,1.3,Middle,0,Garden,0.0,188.3
+3,2BHK,14.98,1.88,1.21,Upper Middle,0,Jacuzzi,0.0,150.25
+3,Bungalow,30.72,2.44,1.0,Upper Middle,0,,1.0,137.08
+5,2BHK,19.17,2.12,1.25,Upper Middle,0,,1.0,209.06
+4,Detached,14.1,2.73,0.94,Rich,0,Fountain,0.0,170.8
+5,Detached,13.59,1.91,1.03,Rich,1,Jacuzzi,0.0,292.79
+2,Cottage,25.4,1.01,1.24,Middle,1,,0.0,131.53
+4,Bungalow,32.77,1.54,0.8,Upper Middle,0,Garden,0.0,126.61
+3,2BHK,21.18,-55.0,1.09,Middle,0,Jacuzzi,0.0,154.28
+-99,1BHK,22.8,1.03,1.13,Middle,1,,0.0,135.41
+4,2BHK,21.51,1.06,1.15,Middle,0,Garden,0.0,141.86
+1,Studio,15.65,1.45,1.4,Low,1,Swimming Pool,0.0,102.94
+5,2BHK,19.44,1.34,1.39,Middle,0,Fountain,1.0,253.07
+3,Bungalow,22.97,2.11,0.86,Upper Middle,0,,0.0,99.16
+3,1BHK,15.08,1.7,1.47,Low,0,,0.0,127.57
+3,Detached,,2.36,1.43,Rich,0,Swimming Pool,0.0,257.43
+3,Cottage,22.56,1.55,1.05,Middle,0,,0.0,90.07
+-11,2BHK,17.44,2.17,1.19,Upper Middle,0,Garden,0.0,132.97
+3,1BHK,14.26,1.43,1.12,Middle,1,,0.0,139.99
+3,Cottage,25.68,1.54,1.43,Middle,1,,0.0,179.02
+5,Bungalow,31.49,1.85,1.42,Upper Middle,0,Swimming Pool,1.0,373.08
+3,Cottage,10.36,1.7,1.28,Middle,0,Garden,0.0,124.16
+3,3BHK,34.57,1.69,1.31,Upper Middle,1,Fountain,0.0,243.18
+3,2BHK,20.63,1.61,1.8828490535124236,Middle,0,,0.0,109.66
+2,1BHK,28.68,1.2,1.27,Middle,-1,Garden,0.0,124.35
+1,Studio,25.43,1.7,1.15,Low,0,,0.0,70.45
+3,Detached,16.62,1.61,0.92,Rich,1,Fountain,0.0,184.5
+3,1BHK,17.42,1.13,1.02,Low,0,,0.0,92.93
+3,1BHK,14.04,1.11,0.89,Middle,0,Jacuzzi,1.0,123.43
+3,2BHK,18.14,1.88,0.95,Upper Middle,0,Swimming Pool,1.0,157.02
+3,2BHK,32.78,1.42,0.92,Middle,0,,0.0,106.58
+5,3BHK,,1.53,1.15,Upper Middle,0,,1.0,247.54
+4,2BHK,21.43,2.08,0.82,Upper Middle,0,,0.0,108.68
+4,Bungalow,31.68,2.3,1.8182800617644796,Rich,0,Fountain,1.0,313.29
+3,2BHK,12.45,2.23,1.37,Upper Middle,1,,0.0,163.59
+2,Studio,25.32,1.01,1.21,Low,0,Garden,0.0,76.18
+3,Cottage,33.97,1.02,1.02,Middle,1,,0.0,133.82
+3,3BHK,32.5,2.46,1.09,Upper Middle,0,Garden,1.0,186.93
+4,2BHK,25.47,2.2,1.27,Upper Middle,0,,0.0,192.03
+2,Cottage,12.35,1.07,0.93,Middle,1,Jacuzzi,0.0,104.17
+3,Cottage,32.26,1.23,0.91,Middle,1,,0.0,120.92
+3,1BHK,32.95,1.09,1.24,Low,0,Garden,0.0,135.64
+2,Studio,30.45,1.2,1.24,Low,0,,0.0,83.44
+5,2BHK,34.49,1.68,1.16,Middle,0,Jacuzzi,1.0,311.74
+4,2BHK,32.72,1.51,1.47,Middle,0,Garden,0.0,219.35
+3,1BHK,30.21,1.49,1.02,Low,0,,0.0,101.2
+3,3BHK,12.8,1.54,0.92,Upper Middle,-1,,1.0,119.86
+3,Cottage,25.83,1.01,1.27,Middle,0,Fountain,0.0,174.58
+2,1BHK,21.51,1.1,0.81,Middle,0,Fountain,0.0,82.91
+5,3BHK,19.68,2.38,0.81,Upper Middle,1,Garden,0.0,162.98
+3,1BHK,30.0,1.38,1.46,Middle,0,Garden,0.0,158.93
+5,3BHK,17.92,2.52,1.06,Upper Middle,0,Garden,0.0,174.91
+5,3BHK,16.99,1.73,1.27,Upper Middle,0,Garden,0.0,213.03
+4,3BHK,20.61,2.07,0.93,Rich,1,Fountain,0.0,242.79
+3,Cottage,12.26,1.14,1.13,Middle,0,Jacuzzi,0.0,144.12
+5,Bungalow,24.3,2.61,1.49,Upper Middle,1,,0.0,294.12
+2,1BHK,13.7,1.78,1.01,Middle,0,Garden,1.0,98.87
+5,2BHK,18.13,1.05,1.5,Middle,0,Garden,1.0,272.69
+4,Bungalow,21.24,1.56,0.98,Upper Middle,0,Jacuzzi,0.0,165.4
+2,Studio,23.16,1.12,1.3,Low,0,Fountain,0.0,111.56
+4,2BHK,28.9,1.52,1.2,Upper Middle,1,Garden,0.0,233.16
+2,Studio,11.54,1.02,1.16,Low,1,,0.0,81.32
+3,Bungalow,17.57,2.69,1.43,Upper Middle,0,,0.0,141.88
+3,Cottage,27.01,1.75,1.14,Middle,1,Garden,0.0,142.38
+3,1BHK,10.79,1.6,1.27,Middle,1,,1.0,155.79
+4,Detached,24.67,2.08,1.39,Rich,0,Swimming Pool,0.0,321.1
+3,2BHK,20.55,2.99,1.16,Upper Middle,0,,0.0,121.11
+-77,Detached,12.8,2.55,1.03,Rich,0,Fountain,0.0,192.3
+-99,2BHK,11.51,1.5,1.25,Middle,0,Fountain,0.0,190.25
+3,Cottage,14.1,1.22,1.894867805246529,Middle,0,Jacuzzi,0.0,134.56
+3,1BHK,24.8,1.33,0.84,Middle,1,,1.0,125.22
+5,Bungalow,26.18,1.96,0.99,Upper Middle,0,Swimming Pool,0.0,207.39
+3,3BHK,30.16,2.75,1.07,Upper Middle,0,Swimming Pool,0.0,190.95
+3,2BHK,29.55,2.3,0.82,Upper Middle,0,,0.0,97.23
+3,2BHK,11.43,2.47,0.89,Upper Middle,0,,0.0,88.85
+4,3BHK,29.11,1.81,1.27,,0,Garden,0.0,263.21
+3,Cottage,24.25,1.71,1.02,Middle,1,Fountain,0.0,165.06
+4,Detached,12.43,2.44,1.24,Rich,1,Swimming Pool,0.0,316.71
+5,Bungalow,29.38,2.03,1.5,Upper Middle,0,,0.0,253.35
+1,Studio,13.16,1.19,1.22,,0,Garden,0.0,59.05
+5,2BHK,13.0,1.55,0.89,Upper Middle,0,,0.0,128.26
+2,Cottage,25.64,1.63,1.36,Middle,1,Fountain,0.0,169.05
+3,1BHK,34.27,1.05,1.02,Middle,0,Garden,1.0,112.48
+3,1BHK,22.91,1.27,0.98,Middle,0,,1.0,97.94
+2,Cottage,34.11,1.28,0.91,Middle,1,,0.0,93.4
+-11,2BHK,17.88,1.65,0.83,Middle,0,Swimming Pool,0.0,120.77
+4,3BHK,22.52,2.59,1.33,Upper Middle,0,Garden,0.0,206.75
+3,Cottage,21.95,1.64,1.28,Middle,0,Garden,0.0,139.38
+5,Bungalow,33.15,2.75,1.1,Rich,0,Swimming Pool,0.0,298.65
+2,1BHK,16.42,1.52,1.31,Middle,1,Swimming Pool,0.0,160.72
+4,2BHK,19.2,1.87,1.11,Ts1f5,0,Fountain,0.0,178.78
+3,1BHK,13.16,1.34,1.11,Middle,1,Jacuzzi,0.0,151.91
+2,Cottage,28.85,1.71,1.32,Middle,0,Swimming Pool,0.0,145.63
+2,1BHK,32.92,1.44,0.92,Middle,1,Jacuzzi,0.0,138.97
+4,2BHK,19.17,1.73,1.2,Middle,1,,0.0,192.53
+2,Cottage,17.98,1.47,1.26,uAwbA,1,,0.0,114.94
+2,1BHK,16.65,1.76,1.33,Middle,0,Garden,0.0,120.21
+3,2BHK,16.69,1.53,1.01,Middle,0,,0.0,108.66
+5,3BHK,22.34,2.37,1.24,,1,Fountain,1.0,463.13
+3,Cottage,26.47,1.13,1.19,Middle,0,Jacuzzi,1.0,166.53
+2,1BHK,19.21,1.35,1.22,r7a|h,0,Fountain,0.0,99.07
+5,Bungalow,16.16,1.73,1.27,Upper Middle,0,Swimming Pool,0.0,240.26
+3,1BHK,29.94,1.14,1.18,Middle,1,,0.0,164.3
+3,,12.42,1.21,0.89,Middle,1,Swimming Pool,0.0,137.64
+2,1BHK,28.62,1.1,1.16,Middle,0,,0.0,93.01
+2,Cottage,34.06,1.16,0.9,Middle,0,Garden,0.0,86.77
+2,1BHK,11.2,1.19,1.713567556525152,Middle,0,,1.0,95.24
+2,Studio,17.55,1.63,1.19,Low,1,Swimming Pool,0.0,101.42
+5,3BHK,19.02,1.72,1.28,Rich,0,Swimming Pool,0.0,340.98
+4,Bungalow,31.53,2.79,0.99,Rich,0,Swimming Pool,0.0,218.05
+3,2BHK,28.51,3.0,1.44,Upper Middle,0,Garden,0.0,194.77
+3,1BHK,33.36,1.65,1.12,Low,0,Swimming Pool,0.0,136.19
+5,3BHK,14.42,1.65,0.82,Upper Middle,0,,0.0,133.42
+1,Studio,19.26,1.16,1.38,Low,0,Garden,0.0,71.41
+5,2BHK,13.29,1.93,1.37,Upper Middle,0,Swimming Pool,0.0,249.32
+5,2BHK,18.98,1.71,1.0,Middle,0,,1.0,151.29
+5,Detached,15.42,2.01,1.0,Rich,0,,0.0,177.69
+4,3BHK,23.02,2.57,1.02,Rich,0,,1.0,189.23
+2,Cottage,11.8,1.54,0.95,Middle,0,Garden,1.0,87.26
+5,2BHK,19.58,-77.0,0.98,,0,Garden,0.0,164.13
+3,3BHK,13.93,2.92,1.03,Upper Middle,0,Jacuzzi,0.0,140.79
+3,Bungalow,28.87,1.97,1.38,Upper Middle,1,Garden,0.0,206.34
+2,1BHK,30.02,1.47,1.27,Low,0,,0.0,94.15
+4,3BHK,27.56,2.38,0.86,Upper Middle,0,,1.0,168.76
+2,Cottage,12.42,1.39,1.21,Middle,0,Swimming Pool,1.0,138.12
+3,Bungalow,17.41,2.3,1.02,Upper Middle,0,Swimming Pool,0.0,153.53
+3,Bungalow,34.69,2.05,1.19,Rich,0,Swimming Pool,0.0,244.2
+3,1BHK,21.07,1.1,1.49,Low,0,,0.0,133.39
+3,Bungalow,12.6,2.73,1.19,Rich,0,Swimming Pool,0.0,196.57
+3,,27.2,1.6,1.09,Middle,1,Fountain,0.0,155.02
+4,Bungalow,22.42,1.75,0.88,Upper Middle,0,,0.0,120.94
+3,Bungalow,14.47,2.43,1.44,,0,Garden,0.0,187.35
+4,3BHK,31.85,2.84,1.01,Upper Middle,0,Fountain,0.0,176.71
+3,1BHK,30.58,1.77,1.47,Low,0,,0.0,124.41
+2,1BHK,27.05,1.24,0.86,Low,0,Fountain,0.0,78.61
+-44,Bungalow,11.87,2.1,1.02,Rich,0,Fountain,0.0,222.99
+2,1BHK,10.92,1.06,1.5,Low,0,,0.0,102.65
+3,1BHK,22.88,1.49,1.32,Middle,0,,0.0,137.65
+5,Bungalow,16.97,1.61,1.48,Upper Middle,0,,1.0,274.46
+3,,26.8,1.28,1.3,Middle,0,,0.0,135.56
+5,3BHK,30.36,2.33,1.34,Upper Middle,0,Garden,0.0,257.21
+4,2BHK,33.77,1.6,1.3,Middle,0,,1.0,212.37
+2,Cottage,31.31,1.76,0.9,Middle,1,Fountain,1.0,135.12
+3,2BHK,25.82,1.09,0.99,Middle,0,,1.0,133.53
+3,Cottage,26.75,1.14,1.16,Middle,0,,0.0,111.38
+4,2BHK,19.81,2.7,0.87,Upper Middle,1,,0.0,138.55
+3,2BHK,11.01,1.04,1.29,Middle,1,Fountain,0.0,144.17
+3,1BHK,24.71,1.65,1.15,Middle,0,,0.0,107.22
+3,1BHK,25.83,1.65,1.04,Low,1,Garden,1.0,141.09
+3,Bungalow,23.39,2.55,0.87,Upper Middle,0,Jacuzzi,0.0,139.15
+3,1BHK,26.95,1.76,1.25,Middle,0,Fountain,0.0,163.6
+2,1BHK,10.37,-55.0,1.46,Middle,1,Fountain,0.0,149.25
+4,2BHK,32.65,1.46,0.97,Middle,1,Garden,1.0,160.74
+5,Bungalow,21.49,2.41,1.29,,0,Fountain,0.0,305.64
+4,Bungalow,29.8,2.87,1.28,Upper Middle,1,,0.0,222.71
+3,2BHK,15.78,1.69,1.14,Middle,1,Swimming Pool,0.0,183.31
+3,1BHK,32.31,1.25,1.43,Middle,0,Fountain,0.0,164.5
+5,2BHK,20.71,1.17,1.29,Middle,0,Jacuzzi,0.0,247.61
+3,Cottage,20.64,1.78,1.11,Middle,1,,1.0,150.89
+3,Cottage,11.06,1.3,1.01,Middle,1,Fountain,0.0,143.91
+3,1BHK,21.83,1.47,0.86,Low,0,Garden,0.0,78.93
+5,Bungalow,30.49,2.8,1.23,Rich,1,Swimming Pool,0.0,402.05
+3,Bungalow,,2.47,1.5,Upper Middle,0,Garden,0.0,159.4
+5,2BHK,17.27,1.02,0.92,Middle,0,,0.0,125.45
+3,,10.08,2.09,1.43,Upper Middle,0,,1.0,182.01
+1,Studio,27.82,1.55,0.6278636094858223,Low,-1,Swimming Pool,0.0,91.55
+3,1BHK,22.6,1.68,1.01,Low,0,,0.0,80.22
+5,3BHK,25.73,2.14,1.1,Upper Middle,0,,1.0,203.98
+5,2BHK,24.85,1.91,1.11,Upper Middle,1,Swimming Pool,0.0,268.42
+3,2BHK,30.45,2.67,1.39,Upper Middle,-1,Jacuzzi,0.0,198.17
+-66,,11.02,2.51,1.3,Upper Middle,1,Swimming Pool,0.0,175.24
+3,Cottage,10.38,1.7,1.17,Middle,1,Jacuzzi,0.0,140.6
+5,3BHK,28.22,2.74,1.3,,1,,0.0,291.22
+5,Detached,22.61,2.35,1.18,Rich,0,Fountain,0.0,295.29
+4,2BHK,23.08,2.31,1.2,Upper Middle,1,Fountain,0.0,223.4
+3,Detached,10.91,1.99,1.36,Rich,1,Swimming Pool,0.0,281.11
+4,Bungalow,18.51,1.74,1.42,Upper Middle,0,,0.0,200.03
+2,1BHK,28.69,1.38,0.87,Middle,0,,0.0,67.12
+3,2BHK,34.37,2.4,1.31,Upper Middle,1,,0.0,187.27
+4,3BHK,27.51,2.01,1.47,Rich,0,Swimming Pool,0.0,358.72
+2,1BHK,33.42,1.2,0.88,Middle,0,Garden,0.0,91.91
+3,1BHK,31.99,1.56,1.13,Middle,0,,0.0,126.39
+2,1BHK,16.45,1.75,1.1,Middle,1,,1.0,117.39
+3,1BHK,16.25,1.16,1.17,Middle,0,,0.0,114.31
+2,1BHK,17.94,1.52,1.46,Low,0,Fountain,,114.45
+2,Cottage,27.42,1.58,1.2,Middle,1,,0.0,125.05
+5,3BHK,14.51,2.78,1.38,Upper Middle,0,,0.0,203.82
+5,Bungalow,19.53,1.79,1.36,Upper Middle,0,,0.0,205.36
+2,1BHK,22.22,1.61,1.45,Low,0,Garden,0.0,116.42
+3,2BHK,27.89,2.35,1.60745259030061,Upper Middle,0,,0.0,114.02
+3,2BHK,14.18,2.82,1.36,Upper Middle,0,Garden,0.0,143.86
+2,Studio,,1.16,0.93,Low,0,Jacuzzi,1.0,97.19
+4,Bungalow,29.76,1.88,1.28,Upper Middle,1,Garden,0.0,257.22
+2,Studio,28.45,1.47,0.81,Low,0,,0.0,61.06
+5,3BHK,14.5,1.98,1.4,Upper Middle,0,Swimming Pool,0.0,302.2
+4,2BHK,30.8,1.2,0.85,Middle,0,,0.0,111.8
+2,Studio,29.73,1.54,0.83,Low,1,,,84.18
+4,Bungalow,15.28,2.18,1.22,Upper Middle,1,Garden,0.0,163.86
+4,2BHK,22.0,2.07,0.96,Upper Middle,0,Garden,0.0,137.67
+3,,30.46,1.03,1.28,Middle,0,,0.0,155.2
+3,2BHK,26.17,1.29,1.1,Middle,0,,0.0,111.93
+3,Cottage,18.46,1.65,0.88,Middle,0,,0.0,79.17
+4,2BHK,14.84,1.61,1.43,Upper Middle,0,Swimming Pool,1.0,270.38
+3,2BHK,25.91,1.73,1.19,Upper Middle,0,Swimming Pool,0.0,201.39
+3,,29.36,2.34,1.48,Rich,0,Swimming Pool,1.0,308.71
+5,3BHK,27.3,2.22,1.23,Upper Middle,0,Jacuzzi,1.0,268.34
+3,2BHK,27.45,1.23,0.81,Middle,0,Fountain,1.0,107.53
+2,Cottage,33.54,1.45,0.9,Middle,0,,0.0,89.02
+4,Bungalow,28.57,2.26,1.43,Upper Middle,1,Jacuzzi,0.0,313.94
+4,2BHK,11.69,1.55,1.38,Upper Middle,0,Garden,0.0,180.41
+3,1BHK,16.95,1.78,1.02,kAOqv,0,,1.0,102.64
+3,Bungalow,11.37,2.76,1.26,Upper Middle,0,Fountain,1.0,177.99
+2,1BHK,15.96,-22.0,1.02,Low,1,,0.0,89.97
+3,Bungalow,30.01,2.71,1.3,Upper Middle,0,Jacuzzi,1.0,242.06
+4,2BHK,34.89,1.6,1.29,%E|0!,1,,0.0,211.81
+4,2BHK,22.24,1.35,0.84,Middle,0,Garden,1.0,112.04
+3,1BHK,15.59,1.16,0.86,Low,0,,0.0,71.76
+3,1BHK,25.72,1.42,1.3,Low,0,,1.0,116.0
+3,1BHK,24.76,1.13,1.19,Low,0,,0.0,108.7
+4,2BHK,,1.14,1.23,Middle,0,Fountain,1.0,212.12
+2,1BHK,15.24,1.17,1.4,Low,0,Garden,0.0,99.08
+2,Cottage,10.26,1.2,0.85,Middle,1,,0.0,68.98
+5,Detached,35.0,1.63,1.15,Rich,1,Swimming Pool,0.0,471.27
+3,2BHK,17.84,2.05,1.26,Upper Middle,1,Jacuzzi,1.0,232.91
+5,3BHK,31.31,2.63,1.21,Upper Middle,1,,,322.92
+2,Cottage,29.3,1.14,1.19,Middle,0,,1.0,107.93
+1,Studio,10.96,1.31,1.03,Low,0,Garden,1.0,51.24
+5,3BHK,14.11,2.82,1.37,,0,Jacuzzi,0.0,272.33
+3,1BHK,26.48,1.66,1.47,Middle,0,Garden,0.0,142.5
+3,1BHK,33.46,1.08,0.81,Low,1,Garden,0.0,92.55
+2,1BHK,28.07,1.76,1.06,Middle,-1,,1.0,105.49
+2,1BHK,26.51,1.26,0.87,Middle,0,Swimming Pool,1.0,118.92
+3,1BHK,15.59,1.58,1.02,CU9mP,0,Garden,0.0,107.03
+1,Studio,15.61,1.23,1.41,Low,0,Swimming Pool,0.0,90.81
+2,Studio,23.34,-22.0,1.4,Low,0,,0.0,91.25
+4,2BHK,33.69,2.3,0.98,Upper Middle,1,Swimming Pool,0.0,276.02
+2,1BHK,14.29,1.41,1.41,Middle,1,,1.0,143.12
+3,2BHK,16.85,1.32,0.85,Middle,0,Garden,0.0,88.29
+2,Studio,16.05,1.17,0.84,Low,0,Swimming Pool,0.0,70.69
+5,3BHK,10.36,2.15,1.09,Rich,1,Swimming Pool,0.0,280.37
+4,2BHK,12.26,1.08,0.97,Middle,1,,0.0,145.48
+2,Cottage,29.47,1.42,1.43,Middle,1,,0.0,140.05
+2,1BHK,33.75,1.8,1.45,Middle,1,Garden,0.0,163.66
+4,3BHK,12.11,2.59,1.12,Rich,0,,0.0,191.61
+2,Cottage,24.3,1.78,1.2,Middle,0,Fountain,1.0,116.37
+4,Bungalow,25.03,1.86,1.18,Upper Middle,1,Jacuzzi,0.0,245.01
+3,2BHK,24.07,1.4,1.42,Middle,1,Garden,0.0,203.26
+3,Cottage,24.32,1.21,0.92,Middle,0,Jacuzzi,0.0,113.83
+5,2BHK,16.7,1.07,1.26,Middle,0,Garden,0.0,179.8
+3,Bungalow,12.37,2.26,1.35,Rich,0,Swimming Pool,0.0,226.32
+2,1BHK,18.01,1.69,1.29,Low,0,,1.0,106.07
+3,Bungalow,26.06,2.44,1.5,Upper Middle,0,,0.0,163.81
+2,Cottage,25.7,1.07,1.03,Middle,0,,0.0,88.9
+4,Bungalow,21.36,1.88,0.86,?+|mo,0,Swimming Pool,1.0,196.57
+4,Bungalow,32.99,2.68,1.14,Rich,1,Fountain,0.0,278.44
+3,Cottage,13.89,1.27,1.33,Middle,1,Garden,1.0,171.39
+4,,24.11,1.29,1.49,Middle,1,,0.0,210.26
+2,1BHK,33.09,1.31,1.46,Middle,1,,1.0,192.02
+3,,10.94,1.12,1.4,Low,0,,0.0,97.69
+5,3BHK,27.3,1.73,1.22,Rich,0,Fountain,1.0,361.55
+1,Studio,11.89,1.05,1.27,Low,1,Swimming Pool,0.0,92.46
+3,2BHK,22.14,1.05,1.46,Middle,0,Fountain,0.0,173.05
+1,Studio,22.27,1.55,0.99,Low,0,Garden,0.0,49.43
+3,Cottage,13.87,1.46,0.83,Middle,0,Garden,0.0,82.87
+1,Studio,33.35,1.46,0.83,Low,0,,0.0,44.99
+2,Cottage,21.59,1.34,0.92,Middle,0,,0.0,83.32
+1,Studio,11.48,1.29,1.44,Low,0,,0.0,67.84
+5,Bungalow,12.67,2.27,1.41,Rich,0,Swimming Pool,1.0,395.21
+2,1BHK,19.28,1.03,1.27,,0,Garden,0.0,102.53
+5,2BHK,24.44,1.68,1.05,Middle,0,,0.0,158.37
+5,2BHK,14.33,1.01,1.45,Middle,1,,0.0,237.85
+2,Cottage,26.73,1.54,1.04,Middle,0,Swimming Pool,0.0,113.75
+2,1BHK,28.35,1.7,0.96,Middle,1,Swimming Pool,1.0,155.6
+2,Studio,31.39,1.36,1.03,Low,0,,0.0,76.48
+3,1BHK,34.88,1.58,0.99,Low,1,Jacuzzi,0.0,109.13
+3,Cottage,20.3,1.73,1.32,Middle,0,Swimming Pool,0.0,169.27
+4,3BHK,20.18,2.14,1.04,({9!q,1,,0.0,187.29
+3,Cottage,11.33,1.08,1.13,Middle,1,Fountain,0.0,132.7
+3,3BHK,30.87,2.77,0.88,Upper Middle,0,,0.0,126.8
+3,,16.64,1.22,1.24,Low,0,Garden,1.0,121.33
+4,Detached,18.39,2.16,1.17,Rich,0,,0.0,190.46
+2,Cottage,24.74,1.33,1.03,Middle,0,Jacuzzi,0.0,99.38
+2,Studio,34.23,1.4,1.39,Low,1,,0.0,120.62
+4,2BHK,32.13,1.21,1.03,Middle,1,,0.0,181.53
+3,1BHK,13.27,1.11,0.2492790667240313,Low,0,Garden,0.0,81.37
+3,Bungalow,22.2,1.68,1.37,Upper Middle,0,Swimming Pool,1.0,242.83
+3,1BHK,15.1,1.31,1.15,Middle,0,,0.0,108.75
+4,3BHK,29.47,1.82,1.3,Rich,0,,1.0,273.11
+2,Cottage,17.72,1.07,1.5,Middle,1,Fountain,0.0,161.72
+5,Bungalow,18.76,2.86,1.3,Upper Middle,0,,0.0,176.28
+4,Bungalow,18.93,2.79,1.41,{Z.we,1,,0.0,221.19
+4,,22.87,2.18,1.48,,0,,1.0,232.85
+4,2BHK,16.34,1.55,1.07,Middle,0,,0.0,142.51
+4,3BHK,17.44,2.87,1.0,Upper Middle,1,Fountain,1.0,238.47
+3,2BHK,33.24,2.11,0.95,Upper Middle,0,Swimming Pool,0.0,170.14
+2,1BHK,22.33,1.69,0.96,Middle,0,Jacuzzi,1.0,103.21
+1,Studio,30.43,1.46,1.06,Low,1,,,64.48
+3,Cottage,20.74,1.33,1.28,Middle,0,,0.0,117.58
+2,,33.41,1.1,1.48,Low,1,,0.0,138.89
+5,2BHK,21.59,1.36,0.84,Middle,1,Swimming Pool,0.0,175.78
+5,2BHK,23.98,1.58,1.41,Upper Middle,1,,0.0,267.18
+3,1BHK,28.47,1.23,1.07,Low,0,,1.0,112.74
+3,Cottage,,1.15,1.47,Middle,0,,0.0,124.05
+4,3BHK,22.41,2.86,1.23,Rich,0,Fountain,,259.11
+3,1BHK,25.38,1.8,0.92,Low,0,,0.0,81.08
+4,Detached,28.97,2.55,0.83,Rich,0,,0.0,156.35
+3,2BHK,20.09,1.79,1.46,Middle,1,,0.0,169.32
+1,Studio,22.75,1.79,1.28,aogTf,0,Garden,0.0,62.97
+-22,1BHK,33.8,1.23,1.42,Low,0,Garden,0.0,122.06
+3,2BHK,24.25,2.21,1.41,Upper Middle,0,Swimming Pool,,199.03
+4,Bungalow,23.03,-22.0,0.81,Upper Middle,0,Fountain,0.0,134.18
+3,1BHK,30.61,1.67,1.47,Middle,0,,1.0,171.96
+3,1BHK,13.7,1.06,1.02,Middle,0,Garden,0.0,108.15
+4,2BHK,11.23,1.99,0.96,Upper Middle,0,,0.0,104.15
+4,2BHK,16.95,1.68,1.49,Middle,1,Swimming Pool,0.0,277.43
+4,3BHK,25.74,1.6,1.12,Upper Middle,1,Fountain,0.0,295.34
+3,Cottage,18.06,1.05,0.96,Middle,0,,0.0,84.73
+5,2BHK,16.34,1.17,1.25,Middle,1,Jacuzzi,0.0,289.74
+2,1BHK,30.82,1.38,1.47,Low,1,Swimming Pool,0.0,195.21
+3,Bungalow,30.26,2.21,1.24,Rich,0,,,238.05
+2,1BHK,27.83,1.24,1.16,,0,Garden,0.0,109.97
+5,Bungalow,22.21,1.95,1.2,Upper Middle,1,Garden,0.0,223.73
+5,3BHK,19.14,2.15,0.95,Upper Middle,0,Jacuzzi,0.0,205.97
+4,2BHK,19.66,-33.0,1.35,Middle,-1,,1.0,200.61
+2,1BHK,23.12,1.47,1.35,Middle,0,,0.0,102.57
+3,1BHK,16.57,1.38,1.08,Low,-1,,0.0,86.22
+2,Cottage,29.52,1.34,1.46,Middle,0,,0.0,121.21
+3,3BHK,29.33,2.24,1.25,Upper Middle,0,,0.0,161.92
+5,2BHK,31.83,1.64,1.09,Middle,1,,0.0,250.21
+3,2BHK,16.42,2.87,1.25,Upper Middle,0,Fountain,1.0,180.08
+4,2BHK,24.31,1.33,0.98,"fP;,!",0,Garden,0.0,145.41
+5,Bungalow,14.73,2.82,1.39,Upper Middle,0,Jacuzzi,0.0,230.47
+-88,3BHK,31.93,2.49,1.14,Upper Middle,0,,0.0,148.25
+4,3BHK,15.38,1.93,1.09,Rich,1,Jacuzzi,0.0,285.84
+5,Bungalow,25.12,1.66,1.13,Rich,0,Jacuzzi,0.0,245.09
+4,2BHK,12.95,2.31,1.02,Upper Middle,0,,0.0,138.96
+5,Bungalow,25.95,2.88,0.81,,0,Jacuzzi,0.0,168.72
+1,Studio,33.07,1.52,1.07,Low,0,Garden,0.0,71.45
+2,1BHK,20.19,1.77,1.22,Low,0,Jacuzzi,,112.86
+2,Studio,16.43,1.79,1.18,Low,0,,0.0,77.1
+3,1BHK,13.18,1.42,1.15,Low,0,Garden,1.0,109.71
+2,Cottage,20.27,1.5,1.1,Middle,1,,0.0,107.21
+4,2BHK,19.2,1.61,0.99,Middle,0,,0.0,129.28
+2,1BHK,16.54,1.38,1.19,Middle,0,,0.0,83.91
+3,1BHK,23.45,1.09,0.98,Low,0,Garden,0.0,90.89
+4,2BHK,32.63,1.65,0.91,Middle,0,Garden,1.0,154.4
+2,1BHK,23.18,1.29,0.92,Middle,0,Fountain,0.0,96.67
+4,2BHK,12.36,1.54,1.4,Upper Middle,0,Jacuzzi,0.0,223.08
+3,2BHK,13.65,1.21,0.81,Middle,0,Jacuzzi,1.0,129.41
+3,2BHK,32.39,1.53,1.48,Middle,0,Jacuzzi,1.0,246.82
+3,2BHK,10.97,1.41,1.27,Middle,1,,0.0,143.3
+2,Studio,32.69,1.3,1.2,Low,0,,0.0,82.75
+3,Cottage,13.86,1.48,1.09,Middle,0,,0.0,99.78
+5,3BHK,26.47,2.87,1.2,Upper Middle,0,Garden,0.0,205.5
+4,3BHK,30.56,1.99,0.83,Upper Middle,0,Jacuzzi,1.0,179.72
+3,Cottage,10.99,1.52,1.09,Middle,0,,0.0,97.81
+4,2BHK,29.81,2.83,1.18,Upper Middle,-1,Jacuzzi,1.0,205.49
+4,Bungalow,33.34,2.62,0.85,Rich,1,Swimming Pool,0.0,235.19
+5,2BHK,32.96,1.23,1.28,Middle,0,Jacuzzi,1.0,326.13
+-66,Cottage,24.94,1.09,1.47,,1,,0.0,139.07
+4,3BHK,27.74,2.46,1.07,Upper Middle,1,Swimming Pool,0.0,310.1
+3,Cottage,33.31,1.03,1.43,Middle,0,Garden,0.0,170.27
+2,Cottage,28.48,1.09,0.81,Middle,0,,1.0,81.33
+3,3BHK,20.26,2.97,1.08,Upper Middle,0,Jacuzzi,0.0,179.15
+2,1BHK,30.44,1.58,1.03,Low,1,Garden,0.0,104.94
+5,2BHK,26.73,3.0,1.49,Upper Middle,0,Swimming Pool,0.0,294.25
+4,3BHK,21.6,1.71,1.12,Rich,1,Jacuzzi,0.0,324.79
+2,Studio,,1.52,1.33,Low,0,Garden,0.0,90.74
+4,2BHK,30.75,1.61,1.0,,0,Jacuzzi,1.0,204.48
+5,2BHK,,1.53,0.85,,0,Jacuzzi,1.0,193.15
+4,3BHK,10.32,1.88,1.02,,1,,0.0,163.49
+3,Cottage,20.08,1.35,1.46,Middle,0,,0.0,144.47
+-55,2BHK,32.49,1.1,0.84,Middle,0,Fountain,0.0,145.84
+2,Cottage,27.53,1.75,1.31,Middle,1,Garden,0.0,123.6
+2,Studio,13.95,1.31,0.83,Low,1,,0.0,56.7
+4,3BHK,22.3,2.11,1.06,Upper Middle,0,Fountain,0.0,189.07
+4,2BHK,14.57,1.56,1.2,Middle,0,Garden,1.0,191.3
+4,2BHK,25.59,2.36,0.166320506002526,Upper Middle,1,Garden,0.0,113.6
+3,2BHK,28.14,2.23,1.41,Upper Middle,0,Fountain,1.0,234.39
+2,Cottage,26.68,1.44,1.12,,0,,0.0,86.95
+5,2BHK,21.03,1.87,1.22,Upper Middle,1,Fountain,0.0,276.37
+5,,32.21,2.34,1.06,Rich,0,Garden,0.0,238.03
+5,2BHK,31.65,1.06,1.34,Middle,0,,0.0,207.91
+4,2BHK,34.51,-22.0,1.33,Upper Middle,0,Jacuzzi,0.0,260.34
+2,Cottage,25.31,1.49,1.25,Middle,0,,0.0,107.7
+3,1BHK,20.73,1.69,0.4363169468183084,Middle,0,,0.0,104.34
+3,Cottage,18.75,1.26,1.41,Middle,0,,0.0,142.18
+5,3BHK,23.65,1.8,1.39,Upper Middle,0,Jacuzzi,0.0,310.45
+5,3BHK,12.82,2.11,1.06,Rich,0,Garden,0.0,198.22
+3,2BHK,14.62,1.55,0.8,Upper Middle,0,,1.0,92.09
+4,2BHK,13.78,2.04,1.05,Upper Middle,0,Garden,1.0,147.84
+5,2BHK,31.74,1.92,1.26,Upper Middle,1,Swimming Pool,0.0,360.83
+4,2BHK,27.7,1.56,1.27,Upper Middle,0,Swimming Pool,0.0,261.92
+2,Cottage,31.38,1.68,1.06,Middle,0,,0.0,90.99
+3,2BHK,10.67,1.49,1.21,Middle,0,Garden,1.0,151.56
+3,1BHK,22.8,1.79,1.5,,0,,0.0,139.89
+-33,2BHK,26.94,1.72,1.3,Middle,0,Garden,0.0,160.01
+5,Bungalow,32.72,1.88,1.4,Upper Middle,1,Swimming Pool,0.0,369.83
+3,1BHK,10.42,1.27,1.19,Low,0,Garden,1.0,116.21
+5,3BHK,30.72,1.61,1.09,Upper Middle,1,,0.0,269.41
+4,Bungalow,18.98,2.82,0.83,Upper Middle,0,Fountain,0.0,112.44
+1,Studio,21.88,1.53,1.16,Low,1,,0.0,76.03
+3,Cottage,23.59,1.4,1.02,Middle,0,,0.0,104.56
+3,2BHK,33.14,2.49,1.3,Upper Middle,0,Garden,0.0,180.54
+2,Cottage,20.21,1.6,0.85,Middle,0,,0.0,64.55
+5,2BHK,12.28,1.67,1.32,Middle,0,Garden,1.0,240.04
+3,2BHK,17.57,1.6,0.86,Upper Middle,1,Jacuzzi,1.0,175.77
+2,1BHK,20.58,1.58,1.31,Middle,0,,0.0,98.41
+5,2BHK,30.99,1.44,1.3,Middle,0,,1.0,231.74
+4,2BHK,24.86,2.33,1.35,Upper Middle,1,Garden,0.0,221.71
+2,Cottage,22.19,1.18,0.95,Middle,0,Garden,0.0,86.93
+3,1BHK,26.74,1.64,0.91,Low,0,,0.0,84.98
+3,3BHK,28.22,2.5,1.15,Upper Middle,0,Fountain,1.0,172.9
+2,1BHK,32.61,1.44,1.06,Middle,0,,0.0,94.91
+4,Bungalow,10.14,2.75,1.36,Upper Middle,0,Garden,0.0,165.88
+4,Bungalow,34.85,2.22,0.82,Upper Middle,0,Jacuzzi,,188.67
+3,3BHK,34.74,1.94,1.28,Rich,1,Garden,0.0,261.9
+3,1BHK,22.61,1.75,1.12,Low,1,Garden,0.0,119.37
+3,2BHK,24.44,1.62,1.5,Upper Middle,0,Fountain,0.0,219.54
+5,2BHK,23.4,1.54,1.25,Middle,1,Garden,0.0,208.2
+5,2BHK,30.55,1.11,1.15,Middle,0,Fountain,1.0,267.59
+3,Cottage,27.93,1.66,1.4,Middle,0,Fountain,0.0,196.63
+2,1BHK,27.37,1.62,1.46,Middle,0,Jacuzzi,0.0,158.32
+4,3BHK,17.69,2.44,0.96,Upper Middle,1,,0.0,158.57
+3,2BHK,13.36,1.7,1.31,Middle,0,Swimming Pool,0.0,171.75
+5,2BHK,17.77,1.21,1.11,Middle,0,Fountain,0.0,200.5
+3,1BHK,24.87,1.29,0.97,Low,1,,0.0,108.31
+3,1BHK,16.75,1.46,0.2857608744322409,Middle,0,Fountain,0.0,103.29
+4,2BHK,15.11,1.64,1.42,Middle,0,,0.0,161.37
+2,Cottage,32.75,1.4,1.0,Middle,1,,0.0,110.27
+4,Bungalow,16.4,2.03,1.13,Upper Middle,1,Jacuzzi,0.0,202.8
+2,Cottage,22.16,1.28,1.9085595660527668,Middle,0,,0.0,95.33
+2,1BHK,14.08,1.17,1.04,,0,Garden,0.0,81.03
+4,3BHK,29.36,2.25,1.38,6r$QG,1,,0.0,255.34
+3,2BHK,16.93,1.29,0.91,Middle,0,,0.0,99.67
+3,2BHK,14.2,1.51,1.34,Middle,0,Swimming Pool,0.0,184.3
+5,Bungalow,29.11,2.27,0.87,Upper Middle,1,Fountain,0.0,196.2
+2,Cottage,17.93,1.42,1.48,Middle,0,Garden,0.0,112.78
+2,1BHK,16.19,1.2,1.38,Middle,0,,0.0,123.23
+2,Cottage,24.16,1.6,1.35,Middle,0,,1.0,115.65
+3,2BHK,14.81,2.93,1.11,Upper Middle,0,,0.0,111.81
+3,1BHK,23.48,1.58,0.92,Middle,0,,1.0,99.26
+2,Studio,11.94,1.4,1.45,Low,0,,0.0,87.06
+5,2BHK,33.7,2.94,0.92,4fo*V,0,Garden,0.0,168.62
+3,1BHK,10.9,1.4,1.28,Middle,1,Garden,0.0,149.48
+4,Detached,10.38,2.64,0.87,Rich,0,Swimming Pool,0.0,199.14
+3,1BHK,20.21,1.4,1.16,,0,,0.0,120.69
+2,,23.26,1.26,1.43,4KTM4,1,Garden,1.0,159.37
+3,Bungalow,19.19,2.25,1.02,Rich,0,Fountain,0.0,147.99
+3,Cottage,,1.42,1.32,Middle,1,Jacuzzi,1.0,207.2
+3,Bungalow,12.83,2.1,0.89,Upper Middle,1,Jacuzzi,0.0,120.06
+2,Studio,29.53,1.04,1.18,Low,0,Garden,1.0,93.26
+3,Detached,13.91,2.51,1.28,Rich,0,Garden,0.0,184.07
+2,Cottage,19.54,1.41,0.85,Middle,1,,0.0,90.98
+3,Cottage,15.07,1.36,0.6107007459961415,,1,Garden,0.0,135.59
+-66,Cottage,32.27,1.47,0.92,Middle,1,,1.0,110.7
+2,1BHK,30.82,1.37,1.11,xEJ5?,0,Fountain,0.0,103.63
+4,2BHK,10.17,1.64,1.03,,0,,0.0,113.4
+3,3BHK,22.65,1.82,1.05,Rich,1,Fountain,0.0,242.73
+2,Cottage,30.91,-99.0,0.95,Middle,0,Garden,0.0,85.72
+3,Bungalow,26.07,2.37,0.0706542298504667,Upper Middle,0,Garden,0.0,174.57
+3,1BHK,22.9,1.74,1.12,Low,0,,0.0,106.94
+2,1BHK,21.81,1.21,1.06,Middle,0,,0.0,88.42
+3,2BHK,20.72,2.1,1.29,Upper Middle,0,,0.0,162.4
+3,3BHK,26.43,2.69,1.08,Rich,1,Swimming Pool,0.0,250.79
+2,1BHK,10.54,1.16,0.83,Middle,1,Fountain,1.0,103.88
+4,Bungalow,23.67,2.79,1.2,Upper Middle,1,Garden,0.0,201.41
+3,3BHK,10.0,2.6,1.48,Upper Middle,0,Swimming Pool,0.0,206.5
+5,2BHK,32.62,1.72,0.89,Middle,0,,0.0,126.79
+2,1BHK,10.56,1.18,0.91,Middle,0,,0.0,67.3
+3,1BHK,26.6,1.77,1.9935917877520628,Low,0,Garden,0.0,149.67
+4,,18.12,2.21,1.32,Rich,0,Jacuzzi,0.0,277.76
+3,2BHK,10.99,1.19,0.99,Middle,0,,0.0,99.72
+3,2BHK,26.9,1.25,1.25,Middle,0,,1.0,180.69
+3,1BHK,10.27,1.65,1.04,Low,0,,0.0,77.08
+3,Cottage,29.85,1.45,1.43,Middle,1,,,183.82
+5,2BHK,16.09,2.34,1.22,Upper Middle,0,,0.0,193.97
+3,2BHK,11.73,2.05,1.16,Upper Middle,0,Garden,0.0,115.66
+2,Studio,18.47,1.24,1.05,Low,0,,0.0,62.17
+3,1BHK,20.96,1.72,1.04,Middle,0,,1.0,100.95
+3,2BHK,18.64,2.2,1.42,Upper Middle,0,Jacuzzi,0.0,223.33
+5,2BHK,26.14,2.69,1.17,Upper Middle,0,Swimming Pool,0.0,252.43
+5,3BHK,14.7,2.47,0.96,Rich,0,Fountain,1.0,242.9
+3,Cottage,12.3,1.16,0.83,Middle,0,,0.0,76.85
+5,2BHK,33.32,2.6,1.34,Upper Middle,0,,1.0,260.85
+3,2BHK,29.07,1.49,1.34,Middle,0,Fountain,,194.79
+5,2BHK,11.97,1.49,1.48,Middle,0,,0.0,200.22
+4,Bungalow,23.49,2.67,1.16,Upper Middle,0,Swimming Pool,0.0,206.37
+5,3BHK,33.82,2.5,1.0,Rich,0,Fountain,0.0,254.86
+5,3BHK,27.61,2.28,1.28,Upper Middle,0,Swimming Pool,0.0,296.26
+3,3BHK,26.12,2.63,0.96,Upper Middle,0,Garden,0.0,130.09
+5,3BHK,34.6,-88.0,1.29,Upper Middle,1,Jacuzzi,0.0,374.37
+5,2BHK,16.52,1.23,1.9643926839971493,Middle,0,Garden,0.0,204.2
+2,Cottage,32.19,1.17,1.07,Middle,0,,0.0,98.16
+5,2BHK,26.58,1.08,0.91,Middle,0,,1.0,157.74
+5,2BHK,23.99,1.5,0.8,Middle,0,,1.0,144.25
+3,2BHK,26.54,1.14,1.06,Middle,0,,0.0,128.21
+3,1BHK,27.66,1.56,1.24,Low,1,,0.0,144.24
+3,3BHK,24.95,2.76,1.35,Upper Middle,0,Garden,0.0,184.03
+3,Cottage,28.13,1.02,1.11,Middle,0,Garden,0.0,118.3
+3,,10.04,1.27,0.82,Middle,1,Fountain,0.0,103.24
+3,3BHK,28.55,2.12,1.35,Upper Middle,1,,0.0,201.23
+3,2BHK,21.26,1.8,1.47,Upper Middle,1,Jacuzzi,1.0,304.34
+2,1BHK,30.52,1.16,0.82,,1,,0.0,90.71
+4,Bungalow,,2.07,1.02,Upper Middle,1,Jacuzzi,0.0,217.94
+2,Cottage,24.24,1.47,0.99,Middle,1,,1.0,127.07
+3,2BHK,24.47,2.76,0.86,Upper Middle,0,,0.0,93.44
+3,1BHK,30.59,1.42,1.4,Middle,1,Jacuzzi,0.0,221.94
+2,Cottage,19.16,1.35,0.83,Middle,1,,1.0,88.77
+3,1BHK,29.42,1.6,1.34,Low,0,,0.0,133.11
+2,,20.74,1.44,1.42,Middle,0,,1.0,129.52
+3,Cottage,11.12,1.45,1.11,Middle,-1,Garden,1.0,117.98
+3,Cottage,27.86,1.43,1.06,Middle,0,,0.0,111.36
+5,Bungalow,23.28,2.12,1.49,Upper Middle,0,Jacuzzi,0.0,305.75
+5,3BHK,16.05,2.21,1.48,Upper Middle,0,,0.0,243.58
+5,Bungalow,24.51,2.89,1.6456485140081496,Rich,1,,1.0,253.7
+3,3BHK,12.05,2.13,1.26,Upper Middle,0,Fountain,0.0,172.18
+3,1BHK,24.56,1.64,1.28,Middle,1,,0.0,151.97
+4,2BHK,25.45,1.15,1.03,Middle,0,,1.0,150.76
+3,2BHK,13.23,1.4,0.87,Middle,0,,0.0,98.29
+3,2BHK,21.73,2.44,1.08,Upper Middle,0,Jacuzzi,0.0,142.78
+5,3BHK,22.46,1.57,1.32,Upper Middle,1,,0.0,249.5
+5,3BHK,14.91,2.39,1.01,Upper Middle,0,,0.0,154.26
+4,Bungalow,14.21,2.7,1.25,Upper Middle,0,Garden,1.0,184.3
+3,1BHK,30.45,1.01,1.24,Middle,1,Garden,0.0,171.93
+2,Cottage,13.66,1.48,0.82,Middle,1,Swimming Pool,0.0,99.12
+5,2BHK,,1.56,0.89,Upper Middle,0,Fountain,0.0,170.71
+5,2BHK,26.21,1.46,0.88,Middle,0,Swimming Pool,1.0,221.09
+4,2BHK,23.79,1.52,1.4,Middle,0,Fountain,0.0,209.76
+3,1BHK,25.19,1.11,1.35,,-1,,0.0,148.89
+2,Cottage,13.62,1.69,1.43,Middle,0,,0.0,111.13
+3,3BHK,12.54,2.44,1.34,Rich,0,Fountain,0.0,220.48
+3,1BHK,22.88,1.58,1.11,Middle,-1,Jacuzzi,0.0,130.68
+-22,2BHK,19.49,1.49,1.04,Middle,0,Garden,0.0,125.49
+5,3BHK,31.94,2.96,1.31,Upper Middle,0,Swimming Pool,0.0,305.12
+1,Studio,30.52,1.59,1.26,Low,0,,0.0,73.48
+-66,3BHK,28.77,1.76,0.98,Upper Middle,-1,Fountain,0.0,182.21
+3,1BHK,32.16,1.67,1.5,Low,0,,0.0,153.78
+3,1BHK,21.82,-11.0,1.07,Low,0,Garden,0.0,103.17
+1,Studio,24.33,1.01,0.98,Low,0,,0.0,57.56
+3,2BHK,17.65,1.44,1.22,Middle,0,,0.0,122.96
+1,Studio,32.6,1.42,0.86,Low,0,,0.0,42.72
+3,1BHK,15.98,1.79,1.5,Middle,0,Swimming Pool,0.0,193.63
+2,Cottage,23.39,1.18,0.96,Middle,1,,0.0,101.93
+3,Cottage,16.29,1.04,1.11,Middle,1,Swimming Pool,0.0,153.93
+-99,Studio,21.02,1.25,1.17,Low,0,,0.0,59.06
+5,,26.07,2.98,1.71254066565854,Upper Middle,1,Garden,0.0,218.98
+4,2BHK,20.94,1.49,1.05,Middle,0,,0.0,136.04
+2,Cottage,,1.75,0.83,Middle,0,,0.0,72.0
+5,Bungalow,17.56,1.7,0.81,Upper Middle,1,Garden,0.0,167.54
+5,Bungalow,23.56,2.03,0.95,Upper Middle,1,Jacuzzi,1.0,281.41
+5,Bungalow,24.72,1.87,1.49,e=YV|,0,Jacuzzi,0.0,353.24
+2,,34.58,1.27,1.06,Middle,1,,0.0,115.97
+3,Bungalow,23.91,2.23,0.87,Upper Middle,0,Garden,1.0,113.59
+2,Cottage,20.65,1.76,1.35,Middle,0,Fountain,0.0,120.33
+5,Bungalow,26.87,2.73,1.29,Upper Middle,1,Garden,0.0,236.98
+3,2BHK,11.92,1.64,0.93,Middle,0,,0.0,88.92
+2,Studio,13.77,1.33,1.0,Low,0,,0.0,69.92
+3,,21.99,2.47,0.85,,0,,0.0,90.5
+2,Cottage,25.82,1.79,1.49,Middle,0,,0.0,111.94
+4,3BHK,33.62,1.67,1.29,Upper Middle,0,Jacuzzi,1.0,297.73
+3,1BHK,10.4,1.26,1.36,Low,0,,0.0,101.45
+2,Cottage,34.99,1.44,0.85,Middle,0,Jacuzzi,0.0,100.69
+4,3BHK,18.13,2.86,1.37,Upper Middle,0,Swimming Pool,0.0,233.03
+3,1BHK,10.75,1.58,1.09,Middle,0,,1.0,102.9
+5,2BHK,31.39,2.78,1.45,Upper Middle,0,Garden,0.0,248.57
+4,Bungalow,27.12,1.86,1.26,Rich,1,,0.0,260.92
+3,3BHK,27.16,2.32,0.97,Upper Middle,0,Jacuzzi,1.0,184.94
+5,2BHK,34.54,1.38,0.98,Middle,1,Garden,1.0,238.77
+3,2BHK,,1.51,1.24,Middle,0,,0.0,127.55
+2,Cottage,30.41,1.66,1.43,Middle,0,Jacuzzi,0.0,136.16
+2,Cottage,33.32,1.48,1.39,Middle,0,,1.0,128.23
+4,2BHK,13.49,2.03,1.06,Upper Middle,0,,1.0,154.41
+3,2BHK,11.4,2.7,1.13,,0,,0.0,110.74
+4,2BHK,27.0,1.11,0.87,,0,,0.0,120.02
+2,Cottage,22.47,1.17,1.39,Middle,0,Swimming Pool,0.0,151.15
+2,1BHK,28.45,1.58,1.4,Low,0,,0.0,106.88
+2,1BHK,16.52,1.76,1.41,Middle,0,Jacuzzi,0.0,131.73
+3,1BHK,11.91,1.09,0.84,Low,0,Garden,0.0,62.64
+3,2BHK,16.47,1.14,1.21,Middle,0,Garden,0.0,140.54
+3,2BHK,22.29,1.01,1.34,Middle,0,,0.0,154.55
+2,1BHK,12.76,1.62,1.0,Low,1,Garden,1.0,94.66
+4,Detached,29.09,2.21,1.36,Rich,0,Fountain,0.0,298.35
+5,Bungalow,26.99,2.72,1.29,Upper Middle,1,,0.0,245.79
+3,1BHK,21.38,1.35,1.26,Low,1,Garden,,144.4
+3,1BHK,11.39,1.58,1.8719111502080787,Middle,1,Garden,0.0,148.18
+3,2BHK,27.2,2.82,1.16,Upper Middle,1,Fountain,0.0,203.99
+4,2BHK,24.56,1.51,0.83,Middle,0,Garden,0.0,110.6
+4,3BHK,16.22,2.54,1.05,Upper Middle,1,,,151.25
+3,3BHK,13.06,1.76,1.05,Upper Middle,1,,1.0,174.68
+2,Studio,34.02,1.24,1.23,Low,1,,0.0,100.03
+5,3BHK,,2.07,0.87,WXv=],0,,0.0,146.74
+2,Cottage,33.73,1.2,1.4,Middle,0,,0.0,130.54
+3,Bungalow,25.42,1.9,1.17,Upper Middle,0,,0.0,153.3
+-55,Studio,21.27,1.5,0.84,Low,0,,0.0,60.93
+4,Bungalow,11.65,2.76,0.93,Upper Middle,0,Fountain,0.0,147.09
+4,Detached,33.21,2.62,1.35,Rich,1,Jacuzzi,0.0,408.9
+2,1BHK,22.21,1.74,0.99,Middle,0,,1.0,89.47
+3,Detached,25.57,2.48,0.88,Rich,0,Jacuzzi,0.0,175.44
+2,Studio,24.87,1.33,1.37,Low,0,Garden,0.0,99.15
+4,2BHK,20.22,1.74,1.16,Middle,0,,,151.15
+1,Studio,,1.69,1.663953606225321,Low,-1,,0.0,41.59
+3,Cottage,16.25,1.16,0.87,Middle,0,Swimming Pool,0.0,103.92
+4,Bungalow,20.42,1.83,0.88,Upper Middle,0,,0.0,108.12
+5,2BHK,31.08,1.06,1.06,Middle,0,Fountain,0.0,221.73
+2,Studio,18.6,1.58,1.28,Low,0,Swimming Pool,0.0,107.1
+3,3BHK,25.69,1.81,1.21,Rich,1,Swimming Pool,1.0,320.47
+5,2BHK,27.6,1.59,1.2,Middle,0,Garden,1.0,227.11
+5,Bungalow,24.28,2.3,1.27,Rich,1,Fountain,1.0,419.83
+4,3BHK,12.9,2.16,0.99,Upper Middle,1,Fountain,0.0,167.65
+4,2BHK,10.55,1.48,0.91,Middle,2,Garden,0.0,123.42
+5,Bungalow,12.81,2.85,1.02,Upper Middle,1,,,177.59
+4,3BHK,23.86,2.32,0.97,Rich,0,,0.0,167.93
+4,3BHK,28.22,2.83,0.95,Upper Middle,0,Garden,0.0,136.53
+3,1BHK,34.73,1.62,1.16,Middle,0,Garden,0.0,137.81
+3,Detached,31.53,1.88,1.34,Rich,0,Fountain,,295.58
+2,Cottage,30.59,1.18,1.5,Middle,0,,0.0,128.99
+2,Cottage,24.9,1.75,1.17,Middle,1,Garden,0.0,109.75
+3,1BHK,29.52,1.46,1.45,Low,0,Garden,0.0,150.32
+4,2BHK,10.43,2.82,0.86,Upper Middle,1,Jacuzzi,1.0,173.47
+5,Detached,20.6,2.11,1.43,Rich,0,,1.0,340.15
+3,Cottage,26.91,1.71,1.04,Middle,0,,0.0,110.04
+2,Cottage,31.21,-22.0,1.1,Middle,0,Jacuzzi,0.0,120.61
+4,2BHK,24.68,1.75,0.9,Middle,0,Jacuzzi,0.0,129.29
+4,Bungalow,27.16,2.53,0.86,Upper Middle,1,Fountain,0.0,200.83
+5,Bungalow,30.07,1.82,1.31,Upper Middle,0,,0.0,225.33
+-66,2BHK,23.68,2.01,0.88,Upper Middle,1,Jacuzzi,0.0,218.52
+3,1BHK,21.43,1.57,1.39,Low,0,Garden,0.0,136.26
+3,Cottage,16.35,1.12,0.96,Middle,0,Garden,0.0,89.13
+3,Cottage,24.59,1.2,0.99,Middle,0,Fountain,0.0,127.73
+2,1BHK,21.3,1.43,0.96,Middle,0,Swimming Pool,0.0,102.05
+3,Detached,19.1,1.82,0.89,Rich,0,Jacuzzi,0.0,162.35
+3,2BHK,32.55,-88.0,0.89,Upper Middle,1,Garden,0.0,147.56
+2,1BHK,13.91,1.36,1.29,Middle,0,Jacuzzi,0.0,123.99
+4,2BHK,22.33,1.37,1.33,Middle,0,Fountain,1.0,242.66
+3,Bungalow,14.18,2.86,1.48,Rich,1,Swimming Pool,0.0,307.06
+2,1BHK,17.57,1.36,0.98,Middle,0,Swimming Pool,0.0,104.39
+4,2BHK,16.38,2.05,0.85,Upper Middle,0,,0.0,109.63
+3,3BHK,17.87,2.68,1.13,Upper Middle,0,Swimming Pool,0.0,161.18
+3,1BHK,26.46,1.29,0.82,Middle,1,Garden,0.0,115.4
+3,1BHK,10.26,1.7,0.95,Middle,0,Garden,0.0,91.18
+2,Cottage,13.52,1.58,0.81,Middle,1,Garden,0.0,71.52
+3,Detached,24.3,1.65,1.45,66|Sd,1,Garden,1.0,351.06
+3,1BHK,14.46,1.04,1.26,Middle,0,Jacuzzi,0.0,149.47
+1,Studio,,1.43,0.84,Low,0,Jacuzzi,0.0,67.59
+4,3BHK,,1.88,1.22,Upper Middle,0,Swimming Pool,0.0,216.21
+5,3BHK,26.63,2.23,1.32,Upper Middle,1,Fountain,0.0,315.68
+3,2BHK,24.98,1.49,1.02,Middle,1,,0.0,129.36
+3,1BHK,32.92,1.37,1.35,mmh}8,0,,0.0,147.37
+3,Detached,,2.55,1.04,Rich,0,Jacuzzi,0.0,230.94
+3,Cottage,25.62,1.75,0.93,Middle,1,,1.0,138.31
+2,Cottage,20.92,1.06,1.49,Middle,0,,1.0,132.47
+3,2BHK,19.19,2.84,0.99,Upper Middle,0,Swimming Pool,0.0,133.27
+2,Cottage,32.16,1.75,0.82,Middle,0,Swimming Pool,0.0,96.95
+2,1BHK,10.23,1.46,0.89,Low,0,,0.0,53.88
+3,Cottage,14.78,1.57,1.26,Middle,1,Garden,1.0,164.15
+4,2BHK,15.63,1.36,1.34,Middle,0,,0.0,159.78
+5,Detached,15.1,2.09,1.13,Rich,0,Jacuzzi,1.0,339.02
+2,1BHK,30.37,1.62,0.83,Middle,-1,Fountain,1.0,102.74
+5,3BHK,10.42,1.67,0.3788678783427377,Upper Middle,0,Fountain,0.0,188.01
+2,1BHK,11.17,1.28,1.1,Middle,1,Fountain,0.0,105.05
+3,Detached,29.96,1.69,1.34,Rich,0,Swimming Pool,0.0,306.04
+3,1BHK,10.95,1.69,0.94,Middle,0,Jacuzzi,0.0,98.24
+2,Studio,12.61,1.39,1.3,Low,0,,1.0,83.78
+3,Cottage,29.26,1.49,1.21,Middle,0,,1.0,141.33
+3,2BHK,16.89,1.33,1.03,Middle,0,,1.0,125.71
+4,Bungalow,32.22,2.97,1.06,Upper Middle,0,,0.0,153.27
+3,2BHK,21.99,1.06,1.09,Middle,0,Jacuzzi,0.0,139.86
+3,2BHK,15.33,1.96,0.96,Upper Middle,1,Jacuzzi,0.0,159.92
+2,1BHK,22.89,1.69,1.4,Middle,0,Garden,0.0,118.9
+1,Studio,17.92,1.47,1.12,Low,0,,0.0,52.8
+5,2BHK,22.25,1.73,0.88,Upper Middle,0,,0.0,145.69
+2,Cottage,10.6,1.48,1.39,Middle,1,Garden,0.0,120.69
+3,2BHK,11.77,1.92,0.98,Upper Middle,0,,0.0,98.93
+1,Studio,18.24,1.4,1.29,Low,0,,0.0,59.85
+2,1BHK,18.58,1.09,1.44,Middle,0,,0.0,119.98
+2,1BHK,18.41,1.79,0.81,Middle,0,Fountain,0.0,72.46
+3,2BHK,28.45,2.45,0.96,Upper Middle,0,,0.0,107.71
+2,1BHK,10.66,1.46,1.17,Low,-1,,,72.18
+4,2BHK,17.85,1.27,0.9,Middle,0,Fountain,0.0,137.03
+4,2BHK,16.93,1.69,1.43,Middle,0,,0.0,176.08
+3,Cottage,20.53,1.35,0.81,Middle,0,,0.0,79.59
+5,3BHK,11.42,2.42,1.16,Upper Middle,1,,,215.39
+2,1BHK,31.38,1.34,0.3413071908581375,Low,0,,0.0,68.48
+3,Cottage,15.38,1.7,0.88,Middle,1,,0.0,83.52
+3,1BHK,24.0,1.43,1.6020845012766944,Low,1,,0.0,95.48
+5,Bungalow,31.44,2.36,1.47,Upper Middle,1,Garden,1.0,346.42
+3,Cottage,25.29,1.15,1.4,Middle,0,,0.0,154.45
+4,2BHK,33.43,1.78,1.43,Middle,0,,0.0,226.81
+3,Cottage,14.72,1.71,0.91,Middle,0,,0.0,78.61
+5,Bungalow,26.96,2.59,1.17,Rich,1,Swimming Pool,0.0,335.38
+3,Cottage,15.12,1.24,1.2,,1,Fountain,1.0,180.08
+2,,24.66,1.14,0.93,Middle,1,,0.0,84.67
+5,Bungalow,22.4,1.75,1.5,Upper Middle,1,Swimming Pool,0.0,387.75
+2,Cottage,18.46,1.06,1.0,Middle,1,Swimming Pool,0.0,103.28
+3,Cottage,31.33,1.64,1.15,Middle,0,,0.0,108.72
+5,3BHK,19.04,2.13,1.42,Upper Middle,1,Garden,0.0,285.8
+4,3BHK,34.62,2.15,1.23,Upper Middle,0,,0.0,220.46
+5,2BHK,29.19,2.68,1.5,Upper Middle,0,Fountain,0.0,292.74
+3,Cottage,26.05,1.2,1.18,Middle,0,,0.0,119.98
+3,3BHK,21.37,2.04,1.48,Upper Middle,0,Jacuzzi,0.0,221.62
+4,Bungalow,23.49,2.25,0.97,Upper Middle,1,,0.0,182.64
+5,2BHK,10.84,1.19,0.88,Middle,0,Swimming Pool,0.0,167.52
+4,2BHK,19.76,1.6,1.07,Upper Middle,0,Fountain,,185.82
+2,Studio,,1.57,1.49,Low,1,,1.0,152.1
+3,1BHK,15.59,1.13,1.46,Middle,1,,0.0,137.37
+3,1BHK,10.33,1.77,1.38,Low,0,Swimming Pool,0.0,129.14
+4,Detached,12.49,2.43,1.02,Rich,0,,0.0,150.4
+2,1BHK,10.92,1.29,0.7007671115482917,Middle,0,,0.0,100.12
+2,1BHK,28.43,1.5,1.16,Middle,0,Fountain,0.0,106.63
+2,Cottage,20.32,1.58,1.31,Middle,0,Garden,1.0,122.36
+5,Bungalow,32.89,1.81,1.34,Rich,0,Swimming Pool,0.0,382.8
+3,Cottage,18.8,1.44,1.04,Middle,0,,0.0,94.61
+1,Studio,32.8,1.08,0.84,Low,1,,0.0,55.4
+4,Bungalow,13.33,1.9,1.37,Upper Middle,0,Garden,0.0,171.91
+3,1BHK,25.03,1.61,1.34,Middle,0,,0.0,132.48
+3,1BHK,17.76,1.52,1.46,Middle,1,Swimming Pool,0.0,243.31
+2,1BHK,14.47,1.18,0.86,Middle,1,,1.0,79.02
+2,Cottage,13.18,1.44,1.38,Middle,0,Garden,0.0,96.24
+4,3BHK,29.63,2.83,1.18,Upper Middle,0,,0.0,182.24
+3,2BHK,34.1,1.55,1.19,Middle,1,Fountain,1.0,246.6
+2,1BHK,32.16,1.38,1.49,Middle,0,Garden,1.0,148.2
+2,1BHK,,1.63,0.91,Middle,0,Jacuzzi,0.0,114.14
+4,Bungalow,31.5,2.8,1.41,Rich,0,Jacuzzi,0.0,294.24
+4,2BHK,16.16,1.44,0.97,Middle,1,,0.0,143.14
+2,Studio,21.09,1.0,0.95,Low,0,,,62.36
+3,Bungalow,14.39,2.6,1.11,Upper Middle,1,,0.0,146.51
+5,Detached,27.88,2.05,1.36,Rich,0,Garden,0.0,289.15
+1,Studio,16.63,1.2,1.23,Low,0,Garden,1.0,73.56
+4,2BHK,28.13,2.82,0.97,Upper Middle,0,,1.0,170.62
+4,Bungalow,21.3,2.78,1.09,Rich,0,Swimming Pool,0.0,213.0
+3,Bungalow,10.14,2.77,1.21,Rich,0,Garden,0.0,165.09
+3,Bungalow,11.89,2.89,1.34,Upper Middle,0,Fountain,0.0,162.66
+4,Bungalow,27.5,1.99,0.83,Upper Middle,0,Fountain,0.0,134.58
+3,1BHK,29.92,1.49,0.86,Middle,0,Jacuzzi,0.0,122.14
+3,Cottage,27.27,1.46,0.89,Middle,0,,0.0,80.4
+5,3BHK,33.33,2.64,0.95,Upper Middle,1,Jacuzzi,0.0,265.41
+2,Cottage,,1.72,1.1,Middle,1,Jacuzzi,0.0,137.69
+2,1BHK,18.98,-66.0,1.38,Middle,0,,0.0,111.42
+5,2BHK,34.14,1.91,1.25,Upper Middle,0,Jacuzzi,0.0,252.78
+3,2BHK,26.23,1.61,0.82,Middle,0,Jacuzzi,0.0,108.08
+3,2BHK,14.85,1.43,1.19,KMaT7,0,,1.0,132.05
+5,Bungalow,20.69,1.99,0.92,Upper Middle,1,Fountain,0.0,209.9
+2,1BHK,27.84,1.28,1.04,Low,1,Garden,0.0,91.5
+2,1BHK,16.38,1.19,1.26,Middle,0,,1.0,111.53
+3,1BHK,32.37,1.14,1.34,Middle,0,Jacuzzi,0.0,177.46
+2,1BHK,34.27,1.01,1.41,Middle,0,Fountain,0.0,148.17
+2,1BHK,11.11,1.23,1.5,Middle,1,,1.0,154.71
+2,Cottage,19.89,1.17,1.28,Middle,1,Garden,0.0,124.49
+3,3BHK,11.35,2.86,1.11,Rich,0,Garden,0.0,146.15
+-55,3BHK,24.61,2.42,1.02,Rich,0,Jacuzzi,,202.48
+2,Cottage,23.83,1.33,1.33,Middle,1,,0.0,125.61
+2,1BHK,23.21,1.23,1.6781127678854515,Low,1,,1.0,96.0
+2,Studio,30.17,1.7,0.88,Low,0,,0.0,60.37
+1,Studio,14.22,1.64,1.49,Low,0,,0.0,78.35
+2,1BHK,11.51,1.68,1.32,Low,0,,0.0,89.27
+2,1BHK,12.7,1.72,0.81,Middle,1,,0.0,66.56
+-11,2BHK,11.27,2.48,1.18,Upper Middle,1,,,173.34
+2,Cottage,21.01,1.43,0.84,Middle,0,,1.0,77.16
+3,1BHK,18.94,1.11,1.38,Middle,1,,,150.21
+2,1BHK,12.67,1.17,1.11,Middle,0,,0.0,83.07
+3,2BHK,18.68,1.16,0.91,Middle,1,,0.0,110.61
+4,2BHK,21.6,2.51,1.41,Upper Middle,0,Garden,0.0,206.22
+4,3BHK,30.55,2.41,1.22,Rich,0,Garden,0.0,271.64
+2,Studio,33.38,1.49,1.07,Low,1,Garden,0.0,100.57
+5,3BHK,25.96,1.6,0.81,Upper Middle,0,,0.0,145.0
+5,2BHK,34.26,1.72,0.84,Upper Middle,0,Swimming Pool,1.0,223.41
+5,2BHK,10.89,2.5,1.28,Upper Middle,0,Jacuzzi,0.0,200.58
+5,,33.18,1.21,1.45,Middle,0,,1.0,265.91
+5,2BHK,33.48,1.27,1.27,Middle,0,Swimming Pool,0.0,284.07
+2,Cottage,21.13,1.66,1.18,Middle,0,,1.0,105.38
+2,1BHK,34.3,1.68,1.44,Middle,0,,0.0,141.0
+5,2BHK,11.74,1.6,1.47,Middle,0,Jacuzzi,0.0,250.9
+3,Bungalow,29.21,1.81,1.07,Rich,0,Fountain,0.0,160.52
+4,2BHK,17.17,1.0,1.03,Middle,0,,0.0,120.65
+3,2BHK,20.47,1.34,1.47,Middle,0,,0.0,144.54
+3,Detached,33.58,2.7,1.4,Rich,0,Fountain,0.0,262.9
+2,Cottage,10.3,1.07,0.83,Middle,1,,0.0,68.01
+5,3BHK,16.49,-44.0,1.46,Rich,1,Fountain,0.0,399.86
+2,1BHK,25.5,1.62,0.99,Middle,0,,0.0,75.15
+5,3BHK,33.69,2.64,1.23,Upper Middle,0,Fountain,0.0,276.08
+4,3BHK,19.69,2.34,1.01,Rich,0,Swimming Pool,1.0,254.5
+4,2BHK,17.24,1.21,1.32,Middle,1,Garden,0.0,188.43
+3,Bungalow,,1.65,1.22,Upper Middle,0,Swimming Pool,0.0,174.17
+3,1BHK,15.42,1.66,1.34,Low,1,,0.0,148.62
+2,1BHK,15.44,1.36,1.28,Middle,0,Jacuzzi,0.0,130.8
+5,2BHK,14.98,1.03,1.46,Middle,1,Jacuzzi,0.0,303.32
+3,1BHK,26.94,1.63,1.34,Low,1,,0.0,152.13
+3,Bungalow,25.49,2.54,1.12,Rich,0,Swimming Pool,0.0,199.52
+3,Bungalow,13.84,1.75,1.41,Rich,0,,0.0,186.47
+5,2BHK,32.5,1.31,0.86,Middle,0,Garden,1.0,178.27
+5,Bungalow,24.51,2.88,1.22,Upper Middle,1,Jacuzzi,,271.32
+3,Bungalow,15.55,1.53,1.27,Upper Middle,0,Swimming Pool,0.0,171.16
+3,Bungalow,29.83,2.43,1.23,Upper Middle,0,,0.0,164.38
+3,Cottage,18.59,1.52,0.84,Middle,0,Fountain,1.0,103.88
+4,2BHK,14.96,1.72,1.33,Middle,0,,1.0,169.32
+5,Bungalow,12.48,2.22,1.29,Upper Middle,0,,0.0,167.25
+5,2BHK,31.96,2.34,1.11,Upper Middle,1,,0.0,220.37
+2,Cottage,34.42,1.67,0.93,Middle,0,,0.0,78.61
+2,Cottage,19.85,1.49,1.07,Middle,0,,0.0,83.9
+4,2BHK,30.52,2.69,1.37,Upper Middle,0,Jacuzzi,1.0,276.76
+3,Cottage,,1.19,0.93,Middle,0,,0.0,96.92
+1,Studio,30.24,1.77,1.26,Low,0,,1.0,79.75
+3,2BHK,27.23,1.4,0.94,Middle,0,Fountain,0.0,140.73
+3,3BHK,29.97,2.31,0.95,Upper Middle,0,Jacuzzi,0.0,151.67
+5,3BHK,14.95,-11.0,0.84,Rich,0,Swimming Pool,1.0,245.63
+3,2BHK,33.39,2.64,0.84,Upper Middle,0,Garden,1.0,124.35
+4,Detached,28.0,1.51,1.24,Rich,1,Fountain,0.0,362.82
+5,Detached,15.9,1.53,1.17,Rich,1,Garden,0.0,299.08
+4,3BHK,13.65,2.68,1.41,Upper Middle,0,Garden,1.0,218.75
+3,3BHK,11.43,1.92,0.82,Rich,0,Swimming Pool,0.0,134.4
+2,1BHK,18.83,1.77,1.08,Low,0,,1.0,78.18
+4,Bungalow,27.99,2.42,1.35,Rich,0,Swimming Pool,0.0,291.42
+2,Cottage,14.19,1.1,1.33,Middle,1,Garden,0.0,131.9
+3,Cottage,29.56,1.7,0.96,Middle,0,,0.0,91.84
+3,1BHK,15.4,1.17,1.37,Middle,0,Swimming Pool,0.0,182.99
+4,2BHK,20.53,1.83,1.48,Upper Middle,1,Swimming Pool,0.0,342.62
+5,2BHK,32.81,1.46,1.25,Middle,1,,1.0,287.29
+3,Cottage,27.25,1.78,1.09,Middle,0,,0.0,110.5
+2,Studio,24.86,1.21,1.32,Low,0,,1.0,102.18
+-55,Bungalow,12.41,2.04,1.12,Upper Middle,0,,0.0,113.28
+2,1BHK,32.44,1.19,1.14,Y%sM^,0,Fountain,0.0,119.18
+1,Studio,13.99,1.5,1.29,Low,0,Garden,0.0,65.19
+4,3BHK,17.43,1.92,0.88,Rich,1,Swimming Pool,1.0,306.01
+3,3BHK,27.87,2.71,1.46,Upper Middle,0,Fountain,0.0,221.69
+3,2BHK,25.59,1.76,0.94,Middle,0,,0.0,96.84
+3,1BHK,20.52,1.19,1.47,,1,Swimming Pool,0.0,196.31
+4,3BHK,23.48,2.43,1.22,Upper Middle,0,Swimming Pool,0.0,225.07
+3,1BHK,17.59,-55.0,0.1367372193739782,6Y:{W,1,Swimming Pool,0.0,124.37
+1,Studio,31.55,1.73,1.39,Low,1,,0.0,91.63
+4,2BHK,29.71,1.39,1.4,Middle,0,Garden,1.0,226.18
+3,Cottage,12.89,1.69,1.06,Middle,0,Jacuzzi,0.0,117.23
+3,Cottage,25.02,1.31,1.23,Middle,1,Swimming Pool,1.0,232.15
+5,Bungalow,23.95,2.42,0.86,Upper Middle,0,,0.0,132.86
+4,Bungalow,29.51,2.54,1.01,,0,Swimming Pool,0.0,239.12
+5,Bungalow,17.6,2.31,1.43,Upper Middle,1,,0.0,262.07
+2,1BHK,19.01,1.02,1.01,Middle,0,,1.0,97.21
+3,2BHK,,1.53,0.82,Middle,0,Fountain,0.0,95.92
+4,3BHK,11.62,2.86,1.12,Upper Middle,1,Swimming Pool,0.0,212.19
+2,,,1.25,0.82,Low,1,,0.0,62.75
+4,3BHK,27.27,1.63,1.26,Rich,0,Fountain,1.0,319.34
+2,Studio,18.18,1.79,1.49,Low,1,Swimming Pool,0.0,135.52
+3,2BHK,29.99,1.61,0.84,Middle,0,,0.0,101.8
+5,3BHK,33.03,2.61,1.04,Upper Middle,1,Garden,0.0,231.21
+3,Cottage,33.83,1.74,0.89,U-G&@,0,,0.0,81.54
+3,,29.63,1.74,1.14,Middle,0,,0.0,135.72
+2,1BHK,34.46,1.38,1.38,Middle,0,,0.0,127.89
+4,2BHK,22.23,1.58,0.82,Upper Middle,0,Fountain,1.0,142.22
+2,1BHK,23.54,1.09,1.41,Low,0,,1.0,131.81
+2,Cottage,18.83,1.36,1.37,Middle,1,Fountain,0.0,137.13
+3,3BHK,26.86,1.64,1.0,Upper Middle,-1,,0.0,132.34
+5,3BHK,20.82,2.43,1.13,Rich,1,Garden,0.0,273.39
+2,Cottage,13.74,1.79,0.9,Middle,0,Garden,0.0,69.16
+3,Bungalow,32.79,1.95,0.81,Rich,1,Swimming Pool,0.0,212.52
+3,Bungalow,26.96,2.92,1.39,Rich,1,Swimming Pool,0.0,334.29
+3,1BHK,29.04,1.63,0.4480350365339798,Middle,-1,Swimming Pool,1.0,171.42
+3,1BHK,22.14,1.18,1.01,Low,0,,0.0,93.63
+3,1BHK,32.72,1.69,1.31,Low,1,,0.0,151.79
+2,Studio,34.46,1.37,1.07,Low,0,,0.0,77.71
+2,Cottage,28.15,1.36,0.96,Middle,1,Fountain,0.0,117.73
+3,Cottage,29.75,1.55,0.82,Middle,0,,0.0,85.71
+4,2BHK,21.97,2.35,1.2,Upper Middle,0,Garden,0.0,180.81
+3,3BHK,17.78,1.76,1.21,Upper Middle,0,Jacuzzi,1.0,213.8
+4,Bungalow,29.99,1.64,0.82,Upper Middle,0,,0.0,123.37
+2,Studio,14.9,1.05,1.39,Low,1,,1.0,109.36
+5,2BHK,17.43,1.59,1.45,Middle,0,,0.0,216.9
+2,Studio,32.39,1.03,1.49,Low,1,Fountain,0.0,161.43
+4,Bungalow,30.8,2.35,1.13,Upper Middle,0,Swimming Pool,0.0,221.91
+5,Bungalow,13.13,2.14,0.87,Upper Middle,0,Swimming Pool,0.0,170.94
+2,1BHK,18.41,1.29,1.2,Middle,0,,1.0,102.68
+3,2BHK,14.26,1.13,0.97,Middle,0,Swimming Pool,0.0,116.91
+3,2BHK,11.02,1.08,1.17,Middle,0,Swimming Pool,1.0,160.71
+5,2BHK,16.09,1.04,0.88,8!zeE,0,,0.0,121.31
+3,Bungalow,34.37,2.13,1.19,Upper Middle,1,,0.0,189.64
+3,,18.16,2.89,1.32,Rich,1,Fountain,0.0,231.88
+2,Cottage,21.17,1.33,0.81,Middle,0,Garden,0.0,68.57
+2,1BHK,24.4,1.7,1.34,Middle,0,Swimming Pool,1.0,159.86
+4,3BHK,,1.91,1.38,Upper Middle,0,Jacuzzi,0.0,255.38
+3,3BHK,20.34,2.26,1.38,Rich,0,Swimming Pool,0.0,289.28
+4,3BHK,15.4,1.58,0.8,Upper Middle,0,Fountain,0.0,138.32
+2,1BHK,29.19,1.05,1.16,Middle,0,Garden,0.0,121.36
+3,1BHK,33.64,1.11,0.87,Middle,1,,0.0,125.74
+2,Cottage,18.18,1.02,1.46,Middle,0,Swimming Pool,0.0,146.25
+1,Studio,21.6,1.24,0.88,Low,0,,0.0,38.32
+2,1BHK,14.27,1.04,1.2,Middle,0,Jacuzzi,0.0,123.64
+5,Detached,27.42,1.89,1.41,Rich,0,Swimming Pool,1.0,475.21
+2,Studio,15.23,1.51,1.38,Low,0,,0.0,86.78
+3,,20.6,1.63,1.32,Middle,0,Fountain,0.0,171.68
+5,2BHK,16.72,1.35,1.48,Middle,0,,0.0,214.44
+3,2BHK,19.82,1.69,1.32,Middle,0,Swimming Pool,0.0,199.77
+3,1BHK,26.18,1.47,1.48,Middle,0,,0.0,146.04
+5,Bungalow,28.18,2.79,1.03,Rich,1,Swimming Pool,0.0,254.13
+3,Bungalow,13.51,1.83,1.12,Upper Middle,-1,Jacuzzi,0.0,154.64
+3,2BHK,23.53,2.83,0.86,Upper Middle,1,,0.0,111.04
+5,Bungalow,13.88,1.57,0.2112712640235234,Upper Middle,1,Swimming Pool,0.0,202.53
+4,3BHK,14.83,2.48,1.49,",`#'/",0,,0.0,234.14
+3,1BHK,21.87,1.06,1.1,Low,0,Garden,1.0,133.9
+4,Bungalow,23.19,-88.0,1.09,Rich,0,Garden,1.0,201.69
+3,Cottage,24.74,1.6,0.88,Middle,0,Swimming Pool,0.0,114.94
+5,2BHK,25.06,2.2,1.2,Upper Middle,1,Garden,1.0,286.99
+3,2BHK,10.34,1.54,1.08,Upper Middle,0,Fountain,0.0,125.53
+1,Studio,27.42,1.25,0.82,Low,0,,0.0,50.39
+4,Bungalow,30.13,2.87,1.43,Upper Middle,0,,0.0,179.71
+4,3BHK,33.77,1.5,1.39,Rich,0,,0.0,325.03
+3,Cottage,28.76,1.18,1.09,Middle,1,,0.0,126.77
+4,2BHK,12.04,1.27,1.24,Middle,0,Swimming Pool,0.0,181.59
+3,1BHK,33.49,1.71,1.0,Middle,1,,0.0,136.45
+3,1BHK,15.79,1.25,0.3414412484668487,Middle,0,Fountain,0.0,114.74
+4,3BHK,33.19,2.58,1.37,Upper Middle,0,Swimming Pool,0.0,298.42
+4,3BHK,16.51,1.79,1.01,Upper Middle,0,Jacuzzi,0.0,183.28
+3,3BHK,12.09,2.97,0.99,Upper Middle,0,Swimming Pool,0.0,141.98
+3,Cottage,19.85,1.55,1.3,Middle,0,Garden,0.0,130.33
+-11,2BHK,,1.28,0.86,Middle,0,,1.0,134.61
+4,2BHK,29.45,2.03,1.4,Upper Middle,0,Fountain,0.0,251.68
+2,Cottage,11.78,1.45,1.37,Middle,0,Jacuzzi,1.0,139.67
+4,2BHK,13.34,2.63,1.24,Upper Middle,0,,0.0,154.97
+3,Bungalow,32.34,2.79,1.28,Rich,0,,0.0,191.71
+2,Cottage,28.13,1.67,1.36,Middle,0,,0.0,121.33
+3,1BHK,16.75,1.25,1.11,Middle,0,Jacuzzi,0.0,136.86
+5,2BHK,30.44,2.15,0.81,Upper Middle,1,Garden,0.0,160.77
+2,1BHK,20.91,1.66,1.37,Middle,1,Fountain,0.0,173.5
+3,2BHK,27.41,1.6,1.08,Middle,0,Garden,0.0,141.12
+4,2BHK,19.6,1.64,1.24,MD&Pb,0,,0.0,193.5
+5,2BHK,19.14,1.41,1.16,Middle,0,,0.0,165.28
+2,1BHK,12.32,1.06,1.15,Middle,0,Garden,0.0,91.23
+5,Bungalow,11.83,2.84,1.15,F-M4;,0,Fountain,0.0,193.55
+4,3BHK,21.13,2.46,1.45,Upper Middle,1,Jacuzzi,0.0,339.08
+2,1BHK,30.85,1.29,1.29,,0,,1.0,127.71
+5,Bungalow,13.22,1.9,0.86,Upper Middle,1,,0.0,141.68
+4,Detached,34.56,1.78,1.26,Rich,1,Swimming Pool,0.0,423.78
+5,Bungalow,28.03,2.16,1.17,Upper Middle,0,,0.0,188.51
+5,2BHK,20.29,1.56,1.25,,0,Swimming Pool,,264.42
+3,1BHK,16.73,1.12,0.84,Low,0,,0.0,71.89
+3,Cottage,23.03,1.38,1.37,Middle,1,,0.0,164.77
+3,1BHK,18.55,1.73,1.41,Low,1,,0.0,136.38
+3,Bungalow,28.66,2.94,1.44,Upper Middle,0,Fountain,,238.57
+3,2BHK,28.37,1.29,1.35,Middle,0,Jacuzzi,0.0,182.25
+3,Cottage,18.64,1.38,1.16,z-l)s,0,Garden,0.0,119.06
+4,2BHK,32.32,2.94,0.2501874855362452,Upper Middle,0,Swimming Pool,0.0,187.54
+4,,29.23,1.74,1.49,Middle,1,,1.0,304.52
+4,2BHK,22.34,1.54,1.7755219845879475,Middle,1,Swimming Pool,1.0,240.71
+2,Cottage,16.08,1.75,1.42,Middle,0,,0.0,132.75
+1,Studio,14.31,1.22,0.87,Low,0,Swimming Pool,0.0,60.15
+4,Bungalow,10.45,1.99,0.85,Rich,1,Swimming Pool,0.0,207.71
+3,Detached,26.95,1.7,1.29,Rich,0,Swimming Pool,0.0,266.2
+3,Cottage,12.06,1.6,0.96,Middle,0,,0.0,77.51
+5,Bungalow,29.75,2.98,0.86,Upper Middle,1,Fountain,,195.2
+5,Bungalow,10.97,2.51,1.45,Upper Middle,0,Garden,0.0,232.49
+2,1BHK,29.81,1.33,0.81,Middle,1,Garden,0.0,94.96
+4,Bungalow,32.5,2.7,1.03,Upper Middle,1,Jacuzzi,0.0,228.0
+3,2BHK,19.34,1.73,0.83,Upper Middle,0,Garden,0.0,102.63
+1,Studio,11.4,1.12,1.46,Low,0,Jacuzzi,0.0,86.55
+4,2BHK,33.84,1.58,1.38,Middle,0,Swimming Pool,0.0,242.55
+4,,26.52,2.5,1.19,Rich,0,Garden,0.0,225.44
+3,2BHK,16.83,1.65,1.08,Upper Middle,0,,0.0,114.62
+5,,31.77,1.57,1.39,Middle,0,Fountain,0.0,283.55
+4,3BHK,,2.81,1.46,Rich,1,Fountain,1.0,494.24
+3,2BHK,16.57,1.48,1.01,Middle,1,,0.0,117.35
+3,Bungalow,27.05,1.61,0.96,Upper Middle,0,Jacuzzi,0.0,165.31
+3,1BHK,21.18,1.66,1.23,Middle,0,Garden,1.0,146.52
+2,Cottage,19.45,1.56,0.9,Middle,0,Garden,0.0,71.13
+3,1BHK,22.29,1.28,1.7079484449641789,Middle,1,Garden,0.0,143.17
+3,Bungalow,12.73,1.93,1.24,,0,Garden,0.0,128.09
+5,,27.36,1.73,0.85,Middle,1,,0.0,144.31
+2,Studio,24.71,1.37,1.35,Low,1,,1.0,128.12
+5,2BHK,12.95,1.02,1.27,Middle,0,Garden,0.0,172.48
+5,3BHK,30.3,2.29,1.3,Upper Middle,0,Garden,0.0,256.15
+2,1BHK,24.62,1.54,1.42,Middle,0,,1.0,142.54
+5,Bungalow,14.08,3.0,1.42,Rich,0,Swimming Pool,0.0,311.53
+4,2BHK,16.79,2.78,1.01,Upper Middle,0,,0.0,118.65
+4,Detached,15.15,2.14,1.11,Rich,0,Swimming Pool,0.0,227.18
+4,3BHK,28.0,2.96,1.44,Upper Middle,1,Fountain,0.0,293.93
+2,1BHK,14.25,1.36,1.13,Middle,0,,0.0,85.52
+2,1BHK,31.07,1.79,1.09,Middle,0,Swimming Pool,0.0,130.33
+3,1BHK,10.28,1.18,1.45,Middle,1,,0.0,154.74
+3,1BHK,15.03,1.65,0.85,Middle,0,,0.0,75.9
+3,3BHK,28.27,2.17,0.89,Upper Middle,0,,1.0,139.12
+2,Cottage,32.43,1.17,0.83,Middle,0,Jacuzzi,0.0,96.28
+4,2BHK,24.89,1.53,1.15,Middle,0,,1.0,186.01
+3,Cottage,16.02,1.53,1.4,Middle,2,Swimming Pool,0.0,210.25
+5,2BHK,33.94,2.59,1.23,,1,Jacuzzi,0.0,337.09
+5,Bungalow,34.57,2.32,0.98,Rich,1,Swimming Pool,0.0,340.03
+3,1BHK,19.52,1.57,0.82,,0,,0.0,73.86
+2,1BHK,29.11,1.02,1.43,Middle,0,,0.0,134.61
+4,Bungalow,21.59,2.3,0.89,Upper Middle,0,Swimming Pool,0.0,153.83
+3,1BHK,21.51,1.64,1.16,Low,0,,,96.47
+2,1BHK,22.18,1.75,0.98,Middle,0,Swimming Pool,0.0,95.55
+5,3BHK,22.71,1.72,1.19,ET\O#,0,Garden,0.0,219.5
+3,3BHK,10.72,2.79,1.5,Upper Middle,0,Jacuzzi,0.0,205.82
+5,Bungalow,12.66,1.63,1.36,Rich,0,Garden,0.0,238.13
+3,Cottage,24.06,1.69,1.38,Middle,0,Swimming Pool,0.0,179.54
+5,Bungalow,10.58,2.9,1.34,"O',Hf",1,Fountain,1.0,315.93
+4,2BHK,14.19,2.27,0.88,Upper Middle,0,Swimming Pool,0.0,131.54
+5,2BHK,34.11,1.72,1.05,Upper Middle,0,Fountain,1.0,243.68
+3,1BHK,13.7,1.3,1.43,Low,0,Jacuzzi,0.0,136.68
+3,2BHK,27.56,1.62,1.16,Middle,1,,1.0,217.59
+3,Bungalow,26.11,1.72,1.0,Rich,0,Fountain,1.0,211.56
+4,Bungalow,29.05,2.05,0.95,Rich,0,,0.0,171.1
+3,2BHK,10.42,2.09,0.98,Upper Middle,1,,0.0,116.26
+3,1BHK,22.34,1.34,1.01,Low,1,Swimming Pool,0.0,148.06
+3,Bungalow,25.11,2.65,1.21,Upper Middle,1,,0.0,175.96
+5,3BHK,15.04,2.16,1.45,Upper Middle,-1,,1.0,273.01
+2,,30.04,1.12,1.06,Middle,0,Garden,0.0,98.21
+3,Bungalow,27.16,1.59,0.89,Upper Middle,1,Garden,0.0,134.42
+5,3BHK,22.08,2.15,1.5,Upper Middle,1,Garden,0.0,315.82
+2,Studio,21.61,1.07,1.1,Low,1,Garden,0.0,90.47
+3,Bungalow,18.29,2.89,1.12,Upper Middle,1,,1.0,177.05
+2,1BHK,,1.32,1.14,Middle,0,Fountain,1.0,118.93
+2,Studio,11.01,1.46,1.41,Low,0,,1.0,95.48
+2,1BHK,24.08,1.29,1.13,Low,1,Garden,1.0,120.3
+5,2BHK,23.91,1.03,1.43,Middle,0,Fountain,0.0,263.02
+4,Bungalow,20.32,1.52,1.05,Upper Middle,0,,0.0,139.69
+2,Cottage,22.27,1.7,1.11,Middle,0,,0.0,92.56
+3,Cottage,29.53,1.7,1.29,Middle,1,Fountain,0.0,202.33
+2,1BHK,14.73,1.36,0.89,Middle,0,Fountain,0.0,84.27
+1,Studio,13.59,1.52,0.99,Low,0,,0.0,48.69
+5,2BHK,30.92,2.49,1.26,Upper Middle,0,Swimming Pool,1.0,307.94
+3,1BHK,17.87,1.37,1.28,Low,0,Jacuzzi,0.0,136.44
+2,Cottage,30.08,1.46,1.31,Middle,0,,0.0,114.88
+5,2BHK,22.61,1.44,0.87,Middle,0,Garden,0.0,135.41
+3,2BHK,26.76,1.82,1.26,Upper Middle,0,Swimming Pool,0.0,210.46
+3,Bungalow,32.31,2.64,1.14,Upper Middle,0,Fountain,0.0,179.02
+3,Cottage,31.21,1.29,1.39,Middle,0,Fountain,0.0,186.48
+2,1BHK,23.01,1.26,0.9,R0+c/,1,,0.0,71.83
+3,1BHK,31.79,1.26,1.49,Low,0,,1.0,164.94
+3,Cottage,23.72,1.39,1.01,Middle,0,Swimming Pool,0.0,138.05
+2,1BHK,11.15,1.53,1.39,Middle,1,Garden,0.0,117.94
+3,3BHK,15.41,1.64,0.93,Upper Middle,0,,1.0,119.87
+3,2BHK,21.01,2.77,1.04,Upper Middle,1,,1.0,144.4
+4,3BHK,10.24,2.49,0.87,,0,,0.0,112.11
+4,,23.89,2.9,0.97,,-1,,0.0,128.31
+3,Bungalow,30.97,1.62,1.29,Upper Middle,1,Jacuzzi,0.0,254.74
+3,Detached,33.2,1.69,1.26,Rich,1,Jacuzzi,0.0,337.56
+2,1BHK,15.59,1.21,1.21,Middle,0,,0.0,98.44
+5,,,2.15,1.2,Rich,0,Swimming Pool,0.0,348.72
+-99,Studio,34.85,-11.0,1.41,Low,0,,1.0,90.71
+-77,2BHK,25.93,2.61,1.47,Upper Middle,0,Fountain,0.0,171.79
+4,Bungalow,10.63,2.06,1.09,Upper Middle,-1,Swimming Pool,1.0,163.56
+5,2BHK,23.09,1.45,1.11,Middle,0,Fountain,0.0,206.86
+5,Detached,14.91,2.54,0.95,Rich,1,Fountain,0.0,284.43
+5,Bungalow,10.57,2.49,1.47,Upper Middle,0,Garden,0.0,217.07
+4,3BHK,34.12,2.4,1.14,Upper Middle,1,Swimming Pool,0.0,293.1
+2,1BHK,34.29,1.49,1.17,Low,1,Fountain,0.0,135.68
+3,Bungalow,30.56,2.19,0.96,Upper Middle,0,,1.0,133.72
+5,3BHK,22.67,2.83,1.29,Upper Middle,0,Jacuzzi,0.0,274.3
+3,Bungalow,28.21,2.38,1.13,Upper Middle,1,Fountain,1.0,226.97
+5,Bungalow,25.48,2.75,1.36,Upper Middle,1,Garden,0.0,251.75
+3,Cottage,12.5,1.61,1.36,Middle,1,,0.0,155.51
+5,Detached,31.82,2.01,1.09,Rich,1,Fountain,1.0,402.51
+3,,30.69,1.63,1.4,Upper Middle,1,,0.0,247.34
+3,1BHK,21.31,1.76,1.05,Middle,0,Fountain,0.0,134.72
+2,1BHK,20.88,1.28,0.97,Middle,0,Jacuzzi,1.0,107.11
+3,1BHK,29.74,1.32,1.08,Middle,0,,1.0,119.67
+2,Cottage,18.55,1.16,1.13,Middle,0,Jacuzzi,0.0,110.19
+4,Bungalow,12.56,1.92,1.29,Rich,0,Swimming Pool,0.0,267.16
+5,3BHK,12.42,2.35,1.28,Upper Middle,0,Swimming Pool,1.0,317.66
+3,1BHK,15.66,1.22,1.2,Middle,1,,0.0,148.2
+4,3BHK,22.57,2.65,1.03,,1,Jacuzzi,0.0,231.34
+2,Cottage,23.32,1.25,1.11,Middle,0,,1.0,116.74
+5,Bungalow,28.36,2.12,0.81,Upper Middle,1,Garden,0.0,193.1
+2,Cottage,20.13,1.25,0.8351270265109829,Middle,0,,0.0,110.44
+5,2BHK,14.01,1.31,1.49,Middle,0,,0.0,208.91
+3,3BHK,31.61,2.55,1.19,Upper Middle,0,,1.0,185.1
+3,,31.26,3.0,0.99,Upper Middle,1,Jacuzzi,0.0,162.89
+3,Bungalow,33.52,2.2,0.87,Rich,1,Jacuzzi,0.0,183.57
+3,2BHK,16.74,1.92,1.44,Upper Middle,0,Garden,0.0,166.11
+5,2BHK,16.69,2.21,0.82,Upper Middle,0,Fountain,1.0,170.87
+3,Bungalow,33.57,2.98,1.06,Upper Middle,1,Garden,,154.13
+3,Cottage,27.05,1.18,1.03,Middle,1,Garden,1.0,166.72
+4,3BHK,,1.54,0.3578583942064874,Upper Middle,1,Fountain,1.0,233.94
+4,2BHK,31.31,1.52,1.04,Middle,1,,0.0,179.66
+3,Detached,25.6,2.77,1.09,Rich,1,Fountain,0.0,240.13
+4,2BHK,29.9,2.2,0.98,Upper Middle,0,Swimming Pool,0.0,190.82
+3,1BHK,15.18,1.59,1.01,Middle,0,Jacuzzi,0.0,108.86
+3,,13.33,1.25,0.91,Middle,0,Garden,0.0,100.05
+-33,2BHK,24.16,1.4,1.38,Middle,0,,0.0,202.03
+3,2BHK,10.2,2.12,1.5,Upper Middle,0,Jacuzzi,1.0,227.29
+1,Studio,15.3,1.03,1.33,,1,,0.0,73.04
+3,2BHK,20.48,2.81,1.13,Upper Middle,1,,1.0,170.25
+5,3BHK,13.43,2.74,1.48,Upper Middle,0,,0.0,238.01
+3,Cottage,26.27,1.32,1.43,Middle,0,Jacuzzi,0.0,185.43
+3,Bungalow,22.66,2.48,0.91,Rich,1,Swimming Pool,0.0,204.47
+1,Studio,26.16,1.15,0.96,Low,0,,0.0,47.88
+2,Cottage,32.64,1.17,0.93,Middle,1,Swimming Pool,0.0,130.89
+-11,2BHK,26.98,1.12,0.89,Middle,0,,0.0,130.78
+3,Cottage,30.74,1.07,1.27,Middle,0,Jacuzzi,0.0,172.75
+5,Detached,34.91,-22.0,1.41,Rich,0,Jacuzzi,0.0,421.15
+3,Bungalow,24.41,2.2,0.96,Rich,0,Swimming Pool,0.0,158.86
+3,1BHK,13.45,1.37,1.3,Low,1,,1.0,129.27
+3,3BHK,24.65,1.69,1.13,,0,Swimming Pool,1.0,223.56
+2,1BHK,26.02,-66.0,1.17,Low,0,,0.0,92.27
+3,3BHK,,1.84,1.37,Rich,0,Swimming Pool,1.0,262.1
+3,3BHK,33.43,2.95,1.16,,0,,0.0,166.81
+1,Studio,14.17,1.45,1.44,Low,0,Garden,0.0,70.48
+1,Studio,26.55,1.25,1.49,Low,0,,0.0,76.49
+4,Bungalow,32.02,2.76,1.02,Upper Middle,0,Jacuzzi,1.0,204.44
+2,1BHK,21.96,1.25,0.86,Middle,0,Jacuzzi,1.0,103.02
+5,3BHK,21.86,1.5,0.95,Upper Middle,0,,0.0,145.03
+3,2BHK,34.87,1.75,1.09,Middle,0,,0.0,129.32
+3,Bungalow,14.56,1.66,1.1,Upper Middle,0,,0.0,118.7
+2,Cottage,16.7,1.15,1.37,Middle,1,,0.0,106.05
+3,3BHK,11.55,2.4,1.24,Upper Middle,0,Swimming Pool,0.0,189.07
+3,2BHK,30.03,1.66,2.0293223989682705,Middle,0,,0.0,163.61
+3,1BHK,11.95,1.65,0.89,Middle,0,,0.0,75.08
+3,Bungalow,18.81,1.73,1.28,Upper Middle,0,,1.0,172.09
+5,Bungalow,21.4,2.25,1.43,Upper Middle,0,,0.0,228.4
+4,Bungalow,29.87,2.45,1.15,Upper Middle,0,,0.0,170.37
+4,Bungalow,34.6,2.94,0.84,Upper Middle,1,,0.0,139.34
+2,1BHK,29.52,1.62,1.1,o;^g`,0,Garden,0.0,97.56
+4,Detached,31.94,2.51,1.28,Rich,0,,0.0,257.56
+5,Bungalow,25.23,2.92,1.18,Rich,0,Swimming Pool,0.0,255.1
+2,1BHK,23.07,1.28,1.17,Low,0,Garden,0.0,95.99
+2,1BHK,33.15,1.03,0.81,Middle,0,,0.0,73.98
+3,3BHK,14.87,1.54,1.4,Upper Middle,1,Jacuzzi,0.0,263.57
+4,3BHK,30.48,2.02,1.15,Upper Middle,0,Jacuzzi,0.0,245.35
+5,Bungalow,29.3,2.24,1.0,Rich,1,Swimming Pool,0.0,316.39
+3,3BHK,12.49,2.94,0.9,Upper Middle,0,,0.0,96.93
+2,Studio,10.69,1.2,1.18,Low,0,,0.0,69.8
+2,1BHK,29.12,1.23,1.01,Middle,0,,0.0,86.7
+3,Cottage,20.42,1.42,1.24,Middle,1,Garden,,160.5
+3,1BHK,26.15,1.73,1.15,,1,,0.0,139.31
+3,Bungalow,25.34,1.95,1.22,Upper Middle,1,Garden,0.0,195.23
+4,2BHK,25.61,1.06,0.88,Middle,0,,0.0,120.67
+2,1BHK,24.98,1.77,0.89,Low,0,,0.0,64.0
+4,3BHK,20.3,1.97,1.07,Rich,0,Swimming Pool,0.0,231.6
+2,,10.13,1.55,0.92,Middle,0,,1.0,80.76
+3,1BHK,30.52,1.25,0.91,Low,0,,0.0,87.34
+3,Cottage,34.87,1.08,1.29,Middle,1,,1.0,219.89
+4,2BHK,31.66,1.76,1.46,Middle,0,Garden,1.0,245.02
+2,1BHK,21.49,1.01,1.46,Middle,0,Jacuzzi,0.0,161.45
+3,2BHK,25.56,1.78,1.03,Upper Middle,0,Garden,0.0,137.16
+4,2BHK,10.22,1.14,1.47,Middle,0,Jacuzzi,0.0,216.17
+3,2BHK,20.82,2.86,1.08,Upper Middle,0,Swimming Pool,0.0,166.37
+3,1BHK,14.98,1.79,1.31,Low,0,,0.0,97.84
+2,Cottage,33.05,1.55,1.37,Middle,1,Jacuzzi,,182.75
+3,Bungalow,25.89,1.95,1.46,Rich,1,,1.0,320.18
+5,2BHK,32.85,2.24,1.0,Upper Middle,0,Jacuzzi,0.0,228.43
+5,2BHK,27.74,1.1,1.26,Middle,0,Jacuzzi,0.0,247.01
+2,1BHK,14.0,1.11,1.49,Middle,0,Garden,0.0,121.16
+3,1BHK,34.08,1.62,0.82,Low,0,,0.0,83.74
+3,Bungalow,16.85,1.88,0.87,Upper Middle,0,Jacuzzi,0.0,119.1
+3,Cottage,29.79,1.72,0.92,Middle,1,,0.0,120.02
+4,2BHK,16.12,1.58,1.07,Middle,0,Swimming Pool,0.0,143.23
+3,2BHK,33.17,1.92,1.28,Upper Middle,1,,1.0,247.41
+2,Studio,22.81,1.66,0.85,VjsA/,1,,1.0,76.91
+3,Cottage,15.07,1.59,0.83,Middle,1,,0.0,84.41
+3,2BHK,26.33,2.95,1.32,Upper Middle,1,Garden,0.0,181.49
+3,Cottage,25.88,1.05,1.19,Middle,0,,1.0,151.26
+2,1BHK,22.35,1.48,1.22,Middle,0,Jacuzzi,0.0,108.95
+4,Bungalow,27.54,1.69,0.91,Upper Middle,0,Garden,1.0,168.35
+3,1BHK,12.86,1.27,1.15,Low,0,Garden,,102.09
+3,1BHK,33.29,1.04,1.3,Middle,0,,0.0,134.12
+4,Bungalow,14.83,2.25,1.42,Upper Middle,0,,0.0,206.49
+5,Bungalow,19.82,2.06,1.884874716420598,Upper Middle,0,Swimming Pool,0.0,249.45
+1,Studio,16.58,1.35,1.46,Low,0,Swimming Pool,0.0,91.26
+5,2BHK,10.64,1.7,1.17,,0,,0.0,151.13
+5,Bungalow,23.96,2.74,0.3867791647679564,Upper Middle,1,Garden,0.0,174.65
+3,Cottage,20.9,1.69,1.09,Middle,1,,0.0,115.02
+4,Bungalow,31.39,2.13,1.34,Upper Middle,0,Fountain,0.0,264.02
+5,2BHK,25.26,1.69,0.83,Middle,1,Garden,0.0,139.57
+2,Cottage,29.06,1.75,1.19,Middle,0,Garden,0.0,103.3
+4,2BHK,20.39,2.15,0.92,Upper Middle,0,,1.0,133.99
+2,Studio,21.92,1.17,1.19,Low,1,Fountain,0.0,111.85
+5,3BHK,20.18,2.87,0.97,Rich,1,Swimming Pool,0.0,268.97
+5,,31.86,2.68,1.44,Upper Middle,0,,1.0,290.59
+5,3BHK,32.15,2.22,1.25,,1,Swimming Pool,1.0,455.25
+4,Detached,28.21,2.86,0.96,Rich,0,,0.0,170.12
+2,Cottage,14.08,1.74,0.92,Middle,0,Jacuzzi,1.0,93.3
+3,2BHK,32.79,1.66,1.49,Middle,1,Garden,0.0,232.41
+2,1BHK,31.72,1.19,1.02,Middle,0,Garden,0.0,89.81
+3,3BHK,16.65,2.32,0.9,Upper Middle,0,Fountain,1.0,138.87
+2,1BHK,26.08,1.07,1.23,Gl{+S,0,,0.0,103.79
+3,1BHK,32.43,1.28,1.23,Middle,0,Jacuzzi,0.0,196.07
+3,1BHK,10.61,1.65,1.36,Middle,1,Fountain,0.0,154.43
+4,Detached,21.94,1.95,1.3,Rich,0,Fountain,,249.19
+5,Bungalow,11.44,2.46,1.31,Upper Middle,0,Garden,1.0,237.48
+1,Studio,18.69,1.02,0.82,Low,0,Garden,0.0,43.64
+3,Detached,30.94,2.65,1.21,Rich,0,Garden,0.0,200.38
+1,Studio,28.04,1.56,1.2993050081957995,Low,0,,0.0,70.0
+2,1BHK,10.42,1.58,0.87,Middle,1,,1.0,82.56
+2,1BHK,23.81,1.3,1.41,Middle,1,,0.0,123.95
+1,Studio,32.15,1.57,1.13,Low,0,,0.0,63.61
+2,Studio,11.47,1.65,0.98,Low,1,,0.0,69.46
+4,Detached,16.43,1.78,1.29,Rich,0,Swimming Pool,,282.75
+5,2BHK,28.42,2.46,0.93,Upper Middle,1,,0.0,194.16
+4,Bungalow,10.18,1.74,1.23,Upper Middle,1,Fountain,0.0,199.55
+5,3BHK,21.23,1.95,0.83,Upper Middle,0,,0.0,132.96
+3,2BHK,14.8,1.01,1.23,Middle,0,Garden,0.0,129.15
+5,2BHK,29.45,1.88,1.19,,0,Swimming Pool,0.0,305.46
+2,Studio,26.59,1.13,1.17,Low,0,,0.0,89.96
+5,2BHK,25.81,1.31,1.12,Middle,0,,0.0,186.23
+3,Cottage,24.58,1.0,1.11,Middle,1,Jacuzzi,0.0,185.02
+3,2BHK,12.14,1.95,1.26,Upper Middle,0,,0.0,135.45
+3,Cottage,24.06,1.31,1.07,Middle,0,,0.0,90.35
+2,Studio,19.74,1.74,0.88,Low,0,,0.0,48.86
+3,3BHK,15.9,2.49,1.24,Upper Middle,0,Jacuzzi,0.0,177.86
+5,2BHK,18.46,1.73,1.43,Middle,0,,0.0,207.15
+4,2BHK,24.71,1.41,1.04,Middle,0,Jacuzzi,1.0,207.03
+3,Cottage,25.53,1.5,1.12,Middle,1,,,130.97
+3,Bungalow,19.73,2.59,0.85,Rich,0,Swimming Pool,1.0,159.05
+4,Detached,33.89,1.53,1.02,Rich,1,Garden,0.0,269.75
+5,2BHK,18.34,1.74,1.03,Middle,0,,0.0,139.16
+3,,30.29,1.56,1.02,Middle,1,,0.0,138.47
+4,Detached,16.71,1.89,1.42,Rich,0,Fountain,0.0,328.86
+5,Detached,21.42,2.58,1.04,Rich,1,Swimming Pool,0.0,306.57
+3,Bungalow,32.42,2.23,1.02,Upper Middle,0,Swimming Pool,0.0,169.04
+-88,1BHK,16.92,1.51,1.02,+XFxQ,0,Fountain,0.0,110.71
+3,1BHK,26.19,1.3,1.12,Low,0,Garden,0.0,108.96
+1,,25.71,1.17,1.23,Low,0,Garden,0.0,71.17
+3,3BHK,11.79,1.79,1.02,Rich,0,Swimming Pool,0.0,166.62
+5,2BHK,26.83,1.3,1.36,Middle,0,Garden,0.0,219.66
+1,Studio,,1.66,1.41,Low,1,,0.0,79.01
+4,3BHK,26.56,2.99,0.87,Upper Middle,1,Jacuzzi,0.0,209.45
+5,2BHK,14.15,1.7,1.43,V&p*z,0,,0.0,192.05
+1,Studio,32.8,1.16,0.85,Low,0,,0.0,46.13
+4,2BHK,34.36,1.75,1.1,Middle,1,,0.0,195.43
+2,Studio,12.87,1.12,0.82,Low,0,Garden,0.0,51.14
+3,2BHK,19.33,1.38,0.84,Middle,0,Swimming Pool,0.0,115.12
+3,Bungalow,16.64,2.15,1.23,,0,Swimming Pool,0.0,184.94
+3,1BHK,32.75,1.12,1.03,Middle,0,,0.0,114.71
+3,1BHK,27.44,1.16,0.2429465918553618,Middle,0,,0.0,95.22
+5,Bungalow,31.1,2.56,0.89,Upper Middle,0,,0.0,152.77
+3,Bungalow,25.96,1.67,0.92,Rich,1,Jacuzzi,0.0,211.68
+5,3BHK,34.7,1.61,1.28,Upper Middle,0,Garden,1.0,333.95
+5,2BHK,25.06,1.33,1.07,Middle,2,,0.0,224.99
+3,,27.79,2.03,0.7265846588131575,Upper Middle,0,Fountain,0.0,199.36
+5,2BHK,20.38,1.55,1.29,Middle,0,,1.0,195.58
+3,1BHK,20.06,1.16,1.3,Middle,0,,0.0,130.66
+5,3BHK,11.35,2.68,1.42,Upper Middle,1,Swimming Pool,0.0,314.31
+2,1BHK,22.26,1.02,1.38,Low,0,Garden,1.0,122.28
+3,3BHK,24.87,2.26,1.37,Upper Middle,0,,1.0,202.21
+3,3BHK,11.25,2.32,1.48,Upper Middle,0,,0.0,157.06
+5,3BHK,24.78,2.33,0.84,Upper Middle,0,Garden,0.0,168.76
+3,2BHK,11.52,2.91,0.98,Upper Middle,1,Jacuzzi,1.0,137.46
+5,2BHK,25.74,2.25,0.91,Upper Middle,1,Fountain,0.0,211.88
+5,3BHK,25.12,1.59,1.18,Upper Middle,0,Garden,0.0,226.98
+2,1BHK,28.17,1.32,1.2,Low,1,,0.0,117.08
+2,1BHK,25.65,1.63,1.33,Low,0,Jacuzzi,0.0,118.12
+4,2BHK,20.42,2.45,1.09,Upper Middle,1,Garden,0.0,176.26
+2,Cottage,12.37,1.4,1.17,Middle,1,Swimming Pool,0.0,129.13
+5,Detached,22.54,2.25,1.1,Rich,0,Fountain,0.0,239.52
+2,Cottage,19.67,1.42,1.33,Middle,0,Garden,0.0,107.84
+4,2BHK,29.45,1.38,0.93,Middle,1,Garden,0.0,172.31
+4,2BHK,31.96,1.77,1.2,Middle,0,,1.0,174.37
+5,2BHK,29.77,1.4,1.14,Middle,1,Swimming Pool,1.0,349.33
+3,2BHK,17.7,1.95,0.99,Upper Middle,1,Jacuzzi,0.0,142.8
+3,Cottage,29.39,1.22,0.7773560593670522,Middle,0,Jacuzzi,0.0,182.25
+3,3BHK,,1.96,1.24,QrEX;,0,Swimming Pool,0.0,190.06
+3,2BHK,14.42,2.85,1.4,Upper Middle,0,Fountain,0.0,181.62
+3,Bungalow,26.2,2.83,1.21,Upper Middle,0,Fountain,0.0,165.66
+2,Cottage,12.55,1.45,0.83,Middle,0,Garden,0.0,67.36
+2,Cottage,27.22,1.32,0.83,Middle,0,Garden,1.0,83.85
+-88,Studio,10.89,1.05,0.91,Low,1,,0.0,48.86
+3,Cottage,10.34,1.23,1.16,Middle,1,,,126.0
+3,2BHK,21.51,2.02,1.37,Upper Middle,0,Jacuzzi,1.0,241.94
+5,3BHK,34.97,2.27,0.82,Upper Middle,1,Garden,0.0,187.64
+3,1BHK,30.76,1.0,1.14,Low,0,Garden,0.0,123.08
+2,1BHK,23.76,1.06,1.22,Middle,0,Garden,0.0,101.06
+2,Studio,14.3,1.42,1.3,Low,0,Garden,0.0,78.04
+4,Bungalow,28.92,2.73,0.93,Upper Middle,0,,0.0,116.21
+4,2BHK,13.52,1.36,0.95,,0,,1.0,109.49
+3,Cottage,12.89,1.01,0.84,Middle,0,Garden,1.0,84.8
+2,Cottage,19.92,1.07,0.82,Middle,0,Fountain,0.0,84.07
+3,1BHK,,1.17,1.04,Middle,0,,0.0,90.3
+3,,25.69,2.4,0.83,Upper Middle,0,Swimming Pool,0.0,121.73
+-22,Bungalow,21.34,2.35,1.13,,0,,0.0,115.49
+3,,19.17,1.47,1.01,Low,0,Garden,0.0,88.84
+3,1BHK,15.62,1.72,1.26,Low,0,Fountain,0.0,134.74
+2,Studio,20.74,1.52,0.83,TUeaa,0,Swimming Pool,0.0,82.9
+5,3BHK,15.75,2.78,0.93,Upper Middle,0,,0.0,154.39
+3,Cottage,25.17,1.63,1.26,Middle,1,,,134.45
+1,Studio,26.17,1.46,0.85,Low,1,Garden,0.0,58.26
+5,Detached,27.56,2.99,1.21,Rich,0,Swimming Pool,0.0,320.97
+3,3BHK,21.54,1.88,0.87,Upper Middle,0,,0.0,103.2
+4,3BHK,31.19,2.86,1.02,Upper Middle,0,,0.0,159.63
+4,Detached,26.49,2.07,0.98,Rich,0,Swimming Pool,0.0,232.16
+5,Bungalow,13.75,1.55,1.41,Upper Middle,0,,1.0,252.93
+3,Cottage,22.88,1.4,0.82,Middle,0,,0.0,74.55
+4,3BHK,17.18,2.87,1.19,Upper Middle,0,Jacuzzi,0.0,177.39
+4,Detached,25.57,1.82,0.83,Rich,0,Jacuzzi,0.0,205.26
+3,3BHK,18.15,1.69,1.49,Rich,0,Swimming Pool,0.0,271.43
+4,2BHK,30.08,2.61,1.661231809026947,Upper Middle,1,,0.0,178.54
+2,Studio,23.78,1.69,0.82,Low,1,,1.0,77.62
+3,2BHK,13.36,1.89,1.03,37X[B,0,Garden,0.0,113.08
+3,3BHK,28.22,2.33,0.98,Rich,0,Fountain,0.0,152.83
+3,2BHK,25.49,2.35,1.08,Upper Middle,1,Swimming Pool,1.0,219.62
+3,1BHK,27.29,1.67,0.93,Low,0,,0.0,96.14
+3,1BHK,30.97,1.44,1.45,Middle,0,Jacuzzi,0.0,204.11
+3,2BHK,13.46,2.64,1.38,Upper Middle,0,Jacuzzi,0.0,173.23
+-77,2BHK,25.17,1.32,0.89,Middle,0,,0.0,151.86
+2,Studio,13.32,1.16,1.08,Low,0,,1.0,65.24
+3,Bungalow,25.77,2.51,1.23,Rich,1,Fountain,0.0,246.49
+3,1BHK,16.63,1.47,1.17,Low,0,,1.0,110.13
+4,2BHK,19.69,1.18,0.95,Middle,1,Garden,1.0,173.44
+3,Cottage,10.55,1.75,1.11,Middle,0,Garden,0.0,87.21
+-66,Bungalow,17.49,2.44,1.23,Upper Middle,0,Fountain,0.0,187.57
+3,1BHK,16.66,1.43,1.27,Middle,0,Fountain,0.0,157.12
+4,2BHK,22.57,1.68,1.19,Middle,0,,0.0,153.82
+3,2BHK,11.75,2.43,0.81,Upper Middle,0,,0.0,84.11
+-11,Bungalow,11.84,2.5,1.42,Rich,1,Fountain,0.0,304.45
+2,Cottage,,1.27,1.42,Middle,0,,0.0,113.54
+5,Bungalow,34.19,1.92,0.97,Upper Middle,0,Swimming Pool,0.0,247.64
+3,2BHK,29.36,1.44,1.47,Middle,1,Fountain,1.0,273.88
+2,1BHK,29.02,1.73,1.43,Middle,0,Swimming Pool,0.0,149.63
+2,1BHK,17.65,1.27,1.629745386822956,Middle,0,Garden,0.0,90.75
+3,1BHK,25.94,1.01,0.94,Low,0,,0.0,91.68
+4,3BHK,16.59,2.12,1.22,Upper Middle,1,Jacuzzi,1.0,298.59
+4,Bungalow,33.16,2.89,0.6244406525734287,Rich,0,,0.0,215.29
+2,1BHK,18.82,1.69,0.97,",=~1=",0,,0.0,73.39
+2,1BHK,26.01,1.63,0.97,Middle,0,,0.0,86.76
+3,Bungalow,23.05,1.8,1.18,Upper Middle,1,Jacuzzi,1.0,223.85
+5,Detached,32.1,2.71,0.8,Rich,0,Garden,0.0,167.78
+3,2BHK,27.06,1.92,1.19,Upper Middle,1,,0.0,210.05
+3,2BHK,33.55,1.74,1.22,Upper Middle,0,Fountain,0.0,208.49
+5,Bungalow,16.77,2.57,0.93,Rich,0,Garden,0.0,143.74
+2,Cottage,21.16,1.03,0.88,Middle,1,,1.0,108.33
+4,2BHK,11.49,2.8,0.98,Upper Middle,1,Garden,0.0,166.77
+2,Cottage,13.96,1.26,1.17,U1OAu,0,,0.0,83.78
+-22,2BHK,26.87,-66.0,0.95,Middle,0,,0.0,140.15
+4,2BHK,15.01,-44.0,1.28,Middle,1,,0.0,188.8
+5,2BHK,18.62,2.44,1.01,Upper Middle,0,Garden,0.0,162.68
+3,2BHK,10.39,2.66,1.04,Upper Middle,0,Fountain,0.0,133.89
+4,3BHK,14.49,2.24,0.94,Upper Middle,1,,1.0,162.14
+3,2BHK,29.8,1.23,0.91,Middle,0,,0.0,114.2
+3,3BHK,25.58,2.9,0.97,Upper Middle,0,Garden,1.0,137.17
+5,Bungalow,15.69,2.59,1.03,Upper Middle,0,,1.0,164.21
+5,3BHK,23.4,2.69,1.05,Rich,0,Jacuzzi,1.0,292.73
+4,2BHK,27.54,1.37,1.42,Middle,0,Jacuzzi,0.0,223.16
+4,2BHK,28.49,2.03,1.46,Upper Middle,1,Fountain,1.0,360.78
+3,1BHK,21.53,1.13,1.32,Low,0,,0.0,113.86
+2,Cottage,18.86,1.64,1.11,Middle,1,Swimming Pool,0.0,116.42
+5,Bungalow,17.64,2.91,1.22,Upper Middle,1,,1.0,268.41
+5,Bungalow,17.22,2.84,1.38,Upper Middle,0,,1.0,229.01
+2,1BHK,22.71,1.22,1.43,Middle,0,,0.0,115.36
+2,1BHK,27.67,1.02,1.47,Middle,0,Swimming Pool,0.0,179.58
+1,,26.25,1.48,1.35,Low,0,Garden,0.0,73.52
+5,2BHK,18.18,1.43,1.31,Middle,0,Jacuzzi,0.0,280.93
+3,3BHK,27.45,2.54,0.94,Upper Middle,1,Swimming Pool,0.0,202.9
+3,2BHK,15.58,1.7,1.09,Middle,0,Garden,0.0,111.65
+4,Bungalow,18.3,1.94,1.07,Upper Middle,1,Garden,0.0,163.63
+5,2BHK,14.36,1.19,0.88,Middle,0,,,112.28
+3,1BHK,11.65,1.47,1.33,Low,1,Jacuzzi,0.0,152.96
+3,1BHK,15.17,1.56,0.86,Low,1,,0.0,67.49
+2,1BHK,11.91,-55.0,1.39,Middle,0,Fountain,0.0,120.42
+5,2BHK,21.69,1.05,1.02,Middle,1,,0.0,170.22
+5,2BHK,26.43,2.23,1.17,Upper Middle,0,Swimming Pool,0.0,236.74
+2,Cottage,27.24,1.18,1.44,Middle,0,,0.0,125.97
+3,Cottage,32.19,1.01,1.49,:/Dpz,0,,0.0,154.64
+3,Cottage,18.56,1.14,1.42,Middle,0,,0.0,125.38
+5,2BHK,26.95,2.69,0.4007572837235142,Upper Middle,0,,1.0,180.76
+3,2BHK,13.18,2.84,1.2,Upper Middle,0,,1.0,151.17
+3,2BHK,33.35,1.07,1.15,Middle,0,Garden,0.0,151.99
+4,Bungalow,17.0,1.53,0.89,Upper Middle,0,Fountain,0.0,150.22
+4,Detached,24.38,1.98,1.47,Rich,0,Swimming Pool,0.0,321.24
+2,Cottage,16.32,1.42,0.87,Middle,1,Garden,0.0,70.88
+2,1BHK,,1.27,1.29,Middle,1,Garden,1.0,152.31
+5,Bungalow,21.73,1.68,1.24,Upper Middle,0,,0.0,210.67
+5,2BHK,18.2,2.05,1.1,Upper Middle,0,Fountain,0.0,188.71
+-66,Studio,31.65,1.17,0.97,Low,0,Garden,0.0,57.23
+5,Bungalow,15.48,2.67,1.15,Rich,1,Swimming Pool,1.0,345.94
+3,Bungalow,33.23,2.2,0.94,Rich,0,Jacuzzi,0.0,186.83
+3,Cottage,18.69,1.13,0.85,Middle,1,,0.0,88.26
+3,1BHK,30.16,1.76,1.42,Middle,1,,0.0,191.26
+5,Bungalow,33.48,1.58,0.82,Upper Middle,0,Jacuzzi,0.0,175.17
+5,3BHK,11.8,2.39,1.43,Upper Middle,0,Jacuzzi,0.0,285.12
+2,1BHK,13.37,1.59,1.35,Middle,0,,0.0,105.43
+4,2BHK,14.0,1.7,1.04,Middle,0,Fountain,0.0,149.13
+2,1BHK,28.42,1.28,1.38,Middle,0,,0.0,115.08
+4,Bungalow,20.37,2.55,1.3,Upper Middle,0,Swimming Pool,1.0,273.8
+3,Cottage,32.11,1.37,1.06,Middle,1,Garden,0.0,135.72
+3,1BHK,27.04,1.26,1.48,,0,,0.0,151.76
+2,Cottage,28.87,1.66,0.88,Middle,1,,0.0,82.9
+3,2BHK,12.72,1.76,0.85,Middle,0,Garden,0.0,92.7
+4,3BHK,28.94,2.93,1.4,Upper Middle,0,,0.0,176.16
+3,Cottage,23.74,1.23,1.24,Middle,0,,0.0,126.03
+3,2BHK,17.6,1.34,1.08,Middle,1,,0.0,145.96
+5,2BHK,28.64,2.61,1.02,Upper Middle,0,Jacuzzi,1.0,250.17
+3,Cottage,10.61,1.08,0.88,Middle,0,,0.0,86.03
+2,,30.17,1.58,1.17,Middle,0,Garden,0.0,107.42
+3,Cottage,22.12,1.68,0.96,Middle,1,Garden,0.0,111.5
+2,Studio,19.88,1.32,1.18,Low,0,,0.0,76.67
+2,1BHK,13.25,1.15,1.45,Middle,0,,1.0,130.76
+2,Cottage,24.41,1.21,1.15,Middle,1,,0.0,121.44
+3,1BHK,26.35,1.02,1.21,Low,1,Garden,0.0,145.2
+2,Cottage,32.97,1.24,1.25,Middle,1,,0.0,131.76
+5,,14.27,2.51,1.29,Rich,0,Garden,1.0,309.39
+3,2BHK,22.1,2.29,0.4217467727820634,Upper Middle,0,,0.0,118.18
+4,2BHK,26.68,1.2,0.95,Middle,0,,0.0,124.84
+4,2BHK,24.35,1.57,0.91,Middle,1,,1.0,162.38
+3,1BHK,,1.36,1.38,Low,0,Garden,0.0,128.75
+2,Cottage,21.37,1.07,0.9,Middle,0,Garden,0.0,83.71
+3,1BHK,26.27,1.26,1.8165985012384176,Middle,0,Garden,1.0,121.9
+5,3BHK,22.11,1.93,0.82,Upper Middle,0,Swimming Pool,0.0,194.32
+3,2BHK,,1.29,1.37,Middle,1,Fountain,0.0,178.88
+3,Cottage,29.64,1.3,1.35,0jYUt,1,,0.0,176.85
+3,3BHK,15.2,2.76,1.17,Upper Middle,0,,0.0,119.1
+4,3BHK,,2.95,0.95,Upper Middle,0,Swimming Pool,0.0,153.14
+4,3BHK,20.73,1.6,1.43,Upper Middle,0,Garden,1.0,261.33
+3,,29.18,1.27,0.99,Middle,1,Swimming Pool,0.0,166.32
+3,2BHK,10.3,1.1,1.41,Middle,0,,1.0,148.92
+2,,17.48,1.19,1.3,Middle,1,Garden,0.0,123.41
+5,3BHK,27.55,2.1,0.8,Upper Middle,0,Fountain,0.0,156.0
+2,Cottage,17.02,1.36,1.16,Middle,0,,0.0,91.76
+2,,30.86,1.51,1.23,/(7)&,0,,0.0,120.32
+3,Bungalow,34.71,2.05,0.96,,0,Jacuzzi,0.0,192.72
+2,Cottage,21.29,1.08,1.49,Middle,0,Garden,0.0,105.56
+2,Cottage,21.62,1.66,1.3,Middle,0,,0.0,106.41
+3,1BHK,12.91,1.41,1.16,Middle,1,,0.0,115.67
+3,1BHK,33.08,1.75,1.18,Middle,0,Garden,1.0,177.05
+4,3BHK,13.98,1.81,1.39,Upper Middle,0,Fountain,0.0,232.2
+4,Detached,16.32,1.66,0.99,Rich,0,Jacuzzi,0.0,215.27
+4,2BHK,19.91,2.95,1.0,Upper Middle,0,Jacuzzi,1.0,187.33
+1,Studio,14.11,1.33,1.01,Low,0,,0.0,47.87
+3,2BHK,21.89,1.44,1.19,Middle,1,,1.0,193.59
+4,2BHK,24.18,1.73,0.86,Middle,0,,0.0,114.47
+3,1BHK,25.59,1.64,1.14,Middle,0,Garden,0.0,132.92
+5,2BHK,34.23,1.09,1.23,Middle,0,,0.0,181.68
+4,3BHK,18.0,2.27,1.35,Upper Middle,0,Fountain,1.0,273.79
+3,1BHK,11.93,-22.0,0.88,Low,1,Swimming Pool,0.0,121.91
+3,Cottage,11.79,1.1,1.47,Middle,1,,1.0,174.84
+3,3BHK,32.93,1.97,0.94,Rich,1,Jacuzzi,0.0,236.64
+5,2BHK,28.53,1.94,1.12,Upper Middle,1,Fountain,1.0,271.95
+5,Detached,12.33,1.57,1.42,Rich,0,Jacuzzi,0.0,344.02
+3,Detached,27.33,2.17,1.42,Rich,0,Fountain,0.0,271.78
+3,2BHK,12.97,1.65,0.92,Middle,0,Garden,0.0,90.57
+5,3BHK,14.55,2.6,1.39,Rich,0,Swimming Pool,0.0,360.32
+5,Detached,14.14,1.83,1.24,Rich,0,Fountain,,276.21
+1,Studio,33.45,1.06,0.96,Low,1,,0.0,63.86
+5,Bungalow,13.83,2.43,1.08,Upper Middle,1,,0.0,185.57
+3,,24.81,1.12,1.18,Middle,0,Swimming Pool,1.0,190.5
+4,3BHK,29.13,2.17,1.42,Upper Middle,0,Swimming Pool,0.0,298.15
+3,2BHK,21.13,1.52,1.37,Middle,0,,0.0,149.1
+5,Bungalow,21.56,-99.0,1.4,Rich,0,Swimming Pool,0.0,326.23
+2,1BHK,26.03,1.37,0.8,Middle,0,,1.0,78.41
+5,3BHK,,2.74,1.05,Rich,0,Swimming Pool,1.0,265.21
+5,2BHK,10.71,2.24,1.12,,0,Jacuzzi,1.0,209.83
+3,1BHK,32.34,1.52,0.94,Middle,0,Swimming Pool,0.0,127.0
+1,Studio,,1.62,1.19,Low,0,,0.0,55.32
+5,Bungalow,32.06,2.36,1.38,Rich,0,Swimming Pool,0.0,386.36
+5,Bungalow,10.54,2.19,1.12,Upper Middle,0,Garden,0.0,153.51
+5,Bungalow,22.92,1.66,0.99,Upper Middle,1,Swimming Pool,0.0,243.61
+2,Studio,16.91,1.67,1.16,Low,0,,0.0,77.75
+-11,Bungalow,,2.88,1.12,Upper Middle,0,Swimming Pool,0.0,212.74
+4,3BHK,15.73,1.82,1.9592120966232969,Rich,1,Jacuzzi,0.0,309.4
+5,Detached,18.44,2.16,1.43,Rich,0,Jacuzzi,0.0,355.38
+3,Bungalow,31.63,2.28,0.95,Upper Middle,0,Swimming Pool,0.0,153.6
+3,3BHK,25.07,2.95,1.42,Upper Middle,0,Fountain,0.0,198.19
+5,2BHK,26.47,1.79,0.91,Middle,0,Garden,0.0,177.48
+5,3BHK,32.79,2.04,0.94,Upper Middle,0,Swimming Pool,1.0,290.3
+4,Detached,12.83,2.25,1.23,Rich,1,,1.0,313.16
+5,2BHK,34.43,1.32,1.43,Middle,1,,1.0,344.79
+3,1BHK,25.94,1.62,1.45,Middle,1,,0.0,177.71
+2,Cottage,16.08,1.63,1.43,Middle,0,,0.0,111.35
+3,1BHK,14.36,1.01,1.36,]_&V>,0,,0.0,113.34
+-22,3BHK,34.33,1.84,1.47,Upper Middle,-1,Jacuzzi,0.0,278.47
+4,2BHK,33.21,1.28,1.05,Middle,0,,0.0,163.09
+4,Bungalow,22.58,1.81,1.13,Upper Middle,0,,0.0,155.86
+4,3BHK,18.94,2.67,1.02,Rich,0,Swimming Pool,1.0,262.85
+-66,3BHK,24.68,2.08,1.26,Rich,0,Jacuzzi,0.0,347.78
+1,Studio,34.29,1.04,0.83,Low,0,Swimming Pool,0.0,61.22
+3,3BHK,34.43,2.07,1.1,Rich,1,Jacuzzi,1.0,327.71
+5,2BHK,16.88,2.46,1.19,Upper Middle,0,,0.0,161.22
+2,1BHK,17.19,1.68,1.36,Low,1,,0.0,94.48
+2,Studio,16.74,1.17,1.37,Low,0,Garden,,87.03
+5,3BHK,,2.0,1.21,Rich,1,Swimming Pool,0.0,390.56
+4,3BHK,13.47,2.44,0.88,Upper Middle,1,Swimming Pool,0.0,176.44
+3,1BHK,19.2,1.69,1.33,Middle,1,Swimming Pool,0.0,217.07
+5,2BHK,24.01,2.52,0.92,Upper Middle,0,Jacuzzi,0.0,176.75
+4,Bungalow,33.8,2.66,1.41,Upper Middle,1,Jacuzzi,0.0,321.76
+3,Bungalow,31.77,1.91,0.84,Upper Middle,0,,0.0,118.3
+3,Bungalow,28.82,2.45,1.43,Upper Middle,0,,1.0,179.72
+3,1BHK,24.96,1.62,1.4,Low,0,Jacuzzi,0.0,159.05
+2,1BHK,18.84,1.11,1.36,Low,0,,0.0,100.49
+2,Cottage,24.12,1.18,1.15,Middle,1,,0.0,114.91
+4,3BHK,12.88,2.46,1.02,4^F5#,1,,,167.58
+3,1BHK,30.65,1.45,0.94,Low,0,,0.0,84.61
+1,Studio,14.57,1.22,0.87,Low,1,Garden,0.0,57.84
+3,Cottage,21.32,1.34,1.37,Middle,0,Garden,0.0,157.15
+3,3BHK,33.19,2.32,1.47,Upper Middle,1,Garden,,278.37
+2,Cottage,34.05,1.1,1.29,Middle,0,,1.0,143.04
+4,Detached,14.95,2.71,1.43,Rich,0,Garden,,232.25
+2,Studio,16.95,1.65,1.14,Low,0,Garden,0.0,85.58
+5,,21.21,2.11,1.17,Rich,0,Swimming Pool,0.0,310.76
+3,1BHK,21.64,1.26,0.86,Low,1,,0.0,88.02
+1,Studio,,1.23,1.05,Low,1,,0.0,58.59
+3,Cottage,31.24,1.08,1.02,Middle,0,Garden,1.0,133.46
+2,1BHK,34.53,-77.0,1.0,,0,Jacuzzi,0.0,139.53
+5,2BHK,26.86,1.22,0.83,Middle,0,,0.0,133.84
+3,Detached,27.6,2.52,1.27,Rich,1,Garden,0.0,217.72
+5,Bungalow,21.01,2.1,1.4,Upper Middle,1,Swimming Pool,0.0,376.63
+2,Cottage,15.98,1.33,1.34,Middle,0,,0.0,103.79
+2,1BHK,33.24,1.25,1.22,Middle,1,Jacuzzi,1.0,185.03
+2,Cottage,30.44,1.04,1.07,Middle,0,,0.0,106.6
+4,Detached,25.71,1.99,0.95,Rich,1,,1.0,260.54
+5,3BHK,27.73,2.45,0.98,)EkG!,0,Swimming Pool,0.0,248.65
+3,2BHK,10.01,1.64,1.32,Middle,0,Jacuzzi,0.0,151.34
+3,1BHK,21.76,1.09,1.4,Middle,0,Swimming Pool,0.0,176.1
+3,Cottage,11.21,1.1,0.99,Middle,0,Garden,1.0,110.38
+3,2BHK,20.29,-33.0,1.26,Middle,0,,0.0,135.2
+4,2BHK,14.53,2.81,0.83,Upper Middle,0,,0.0,108.01
+4,2BHK,16.7,1.52,1.25,Upper Middle,1,Fountain,0.0,239.13
+5,2BHK,12.76,1.17,1.15,Middle,0,Garden,0.0,149.19
+1,Studio,17.18,1.27,1.2,Low,1,Garden,1.0,86.89
+5,3BHK,18.33,2.99,1.47,Upper Middle,0,,,252.06
+3,1BHK,25.2,1.28,1.49,Middle,1,Fountain,0.0,229.85
+2,1BHK,13.35,1.51,1.41,Low,1,,0.0,112.06
+3,Cottage,27.68,1.2,0.99,Middle,0,Fountain,0.0,132.87
+-44,3BHK,24.21,2.14,1.37,Upper Middle,0,,0.0,169.02
+3,1BHK,27.76,1.73,1.15,Low,0,,0.0,107.64
+2,Cottage,27.59,1.57,1.21,Middle,0,Garden,1.0,125.73
+2,1BHK,18.87,1.61,1.2,Low,0,,0.0,84.55
+1,Studio,16.99,1.62,0.87,Low,0,,1.0,49.57
+4,2BHK,21.75,1.69,0.83,Middle,0,Jacuzzi,0.0,132.05
+3,1BHK,12.83,1.55,0.92,Low,0,Fountain,1.0,101.91
+2,1BHK,23.85,1.37,0.97,Middle,0,Garden,0.0,98.05
+3,Cottage,18.97,1.26,1.43,Nj`+B,1,Garden,0.0,170.81
+3,1BHK,24.75,1.35,0.96,OI\mt,0,Jacuzzi,1.0,142.78
+3,Bungalow,,2.16,1.05,Upper Middle,0,Garden,0.0,122.55
+1,Studio,16.27,1.26,1.42,Low,0,,,78.17
+5,,16.19,2.2,1.38,Rich,1,Fountain,0.0,349.36
+5,3BHK,20.37,2.73,1.23,Upper Middle,0,,1.0,211.1
+3,3BHK,22.23,2.83,1.07,Upper Middle,0,,0.0,132.79
+5,2BHK,24.17,2.01,0.98,Upper Middle,1,Jacuzzi,0.0,229.66
+5,2BHK,10.54,1.8,1.16,Middle,1,Garden,0.0,187.84
+2,Cottage,34.26,1.14,0.97,Middle,1,,0.0,115.15
+3,1BHK,17.25,1.14,1.12,Low,1,,1.0,139.18
+5,Bungalow,12.3,2.39,1.01,Rich,0,Swimming Pool,0.0,217.14
+2,Studio,28.43,1.53,1.43,Low,1,,1.0,149.69
+1,Studio,11.85,1.54,0.87,Low,1,Garden,0.0,45.9
+2,Cottage,27.26,1.57,0.98,Middle,1,,0.0,103.37
+-66,Detached,15.82,2.74,1.31,Rich,0,Fountain,0.0,310.12
+3,Cottage,32.12,1.41,1.19,Middle,0,Fountain,0.0,158.64
+-11,Bungalow,27.84,2.19,1.33,Upper Middle,0,,0.0,173.35
+5,Bungalow,32.55,2.18,1.08,Upper Middle,1,Jacuzzi,0.0,283.03
+4,2BHK,24.42,1.18,1.35,Middle,0,Garden,0.0,194.88
+3,3BHK,23.86,1.64,1.3,Upper Middle,0,Swimming Pool,0.0,220.19
+2,1BHK,27.82,1.03,1.12,Middle,1,,0.0,102.83
+3,Bungalow,15.59,2.55,1.4,Upper Middle,1,Jacuzzi,0.0,224.77
+5,Bungalow,18.12,2.72,1.02,Upper Middle,0,Swimming Pool,0.0,183.54
+4,3BHK,16.51,2.48,0.84,QVF>q,0,Swimming Pool,0.0,179.74
+2,1BHK,22.06,1.37,1.47,e|8Y_,0,,0.0,122.2
+4,Detached,14.12,2.36,1.07,Rich,0,Swimming Pool,0.0,211.97
+4,Bungalow,24.88,2.68,0.87,Upper Middle,0,Swimming Pool,0.0,151.22
+3,1BHK,19.82,-11.0,1.07,Low,0,Garden,0.0,94.19
+5,2BHK,11.6,2.65,1.43,Upper Middle,0,,0.0,180.16
+3,Cottage,24.64,1.13,1.42,Middle,0,Garden,0.0,151.89
+2,Studio,13.63,1.64,1.02,Low,1,Garden,0.0,80.08
+3,,20.01,1.22,1.05,Low,0,,0.0,84.92
+4,2BHK,23.8,1.03,1.32,Middle,0,Fountain,0.0,226.52
+5,3BHK,14.79,-99.0,0.89,Upper Middle,1,Jacuzzi,1.0,249.05
+4,Detached,24.01,1.99,0.380711452039855,Rich,1,Swimming Pool,0.0,325.94
+4,2BHK,21.49,1.48,0.94,Middle,0,Swimming Pool,0.0,152.05
+3,2BHK,19.62,2.51,0.83,x\'?},0,Swimming Pool,0.0,117.51
+5,2BHK,26.44,1.74,1.42,Upper Middle,0,Fountain,0.0,259.2
+3,2BHK,28.16,1.64,1.26,Middle,0,Garden,0.0,151.07
+1,Studio,27.0,1.67,1.09,Low,1,Fountain,0.0,76.53
+1,Studio,33.12,1.78,0.94,Low,1,Fountain,0.0,77.66
+3,Cottage,17.06,1.32,1.24,Middle,1,Swimming Pool,0.0,188.24
+3,,15.25,1.15,1.24,Middle,0,,0.0,104.29
+3,1BHK,32.98,1.19,0.93,Middle,0,,1.0,119.72
+5,2BHK,24.53,1.58,0.98,Middle,1,Swimming Pool,0.0,222.47
+2,1BHK,23.22,1.34,1.1,Middle,1,,0.0,118.26
+1,Studio,25.61,1.11,1.49,Low,0,Garden,1.0,103.85
+5,2BHK,31.62,1.76,1.46,Upper Middle,0,Garden,0.0,267.87
+3,2BHK,19.8,1.58,1.26,Upper Middle,0,,0.0,156.34
+5,2BHK,28.9,1.73,1.37,Upper Middle,0,Swimming Pool,0.0,327.66
+3,Cottage,29.17,1.57,1.12,Middle,0,,0.0,117.67
+5,Bungalow,12.03,2.4,1.06,Upper Middle,0,Fountain,0.0,181.29
+2,1BHK,32.84,1.27,0.89,Low,1,,0.0,79.89
+3,Detached,16.6,-88.0,1.19,Rich,0,Swimming Pool,0.0,230.53
+3,1BHK,32.78,1.43,1.23,Middle,0,Garden,0.0,137.04
+3,1BHK,18.49,1.6,1.12,Middle,1,Garden,0.0,126.74
+5,3BHK,17.05,1.52,0.98,Upper Middle,0,Swimming Pool,1.0,260.93
+3,,33.77,2.25,1.35,Upper Middle,0,,,206.98
+2,Cottage,17.07,1.74,1.03,rnW}7,0,,0.0,81.97
+2,1BHK,29.41,1.37,0.97,Middle,0,,0.0,76.23
+2,1BHK,19.82,1.77,1.27,Low,0,Garden,0.0,94.91
+3,1BHK,11.12,1.03,1.13,Middle,0,Swimming Pool,0.0,132.08
+3,3BHK,28.09,1.64,1.09,Rich,1,Swimming Pool,0.0,277.65
+5,3BHK,18.76,1.79,0.94,Upper Middle,0,Garden,0.0,183.29
+1,Studio,11.03,1.76,1.44,Low,0,,,72.62
+2,Studio,31.19,1.22,0.92,Low,0,Garden,0.0,70.43
+4,Bungalow,21.54,2.44,1.38,3Q_;^,1,Swimming Pool,0.0,295.49
+3,2BHK,16.3,1.01,1.24,"""`Z;B",1,,0.0,138.92
+3,Cottage,12.97,1.01,1.03,Middle,1,Fountain,0.0,155.59
+2,Cottage,34.1,1.47,0.89,Middle,0,,0.0,70.59
+3,3BHK,11.89,2.82,1.46,Upper Middle,0,Swimming Pool,0.0,216.82
+3,Cottage,26.45,1.23,1.2,Middle,0,,0.0,126.2
+4,Bungalow,21.62,2.16,1.17,Upper Middle,0,Swimming Pool,1.0,223.89
+4,Detached,18.87,2.61,0.97,Rich,0,,0.0,165.98
+3,2BHK,33.53,2.92,1.11,Upper Middle,0,,1.0,149.38
+5,Bungalow,20.25,2.18,1.0,Upper Middle,0,,1.0,177.0
+4,3BHK,29.47,1.69,1.19,Rich,1,Garden,0.0,286.46
+5,3BHK,33.23,2.81,1.1,Upper Middle,0,Jacuzzi,0.0,253.62
+3,Bungalow,10.36,2.46,0.8088647308245707,Upper Middle,0,,0.0,144.31
+5,2BHK,15.75,1.32,1.12,Middle,0,Garden,0.0,167.78
+3,1BHK,24.57,1.74,0.9,Low,0,Garden,0.0,78.78
+5,2BHK,33.69,2.57,1.19,Upper Middle,1,,1.0,257.27
+3,1BHK,11.44,1.19,0.8,Low,0,,,60.68
+3,3BHK,12.57,2.26,1.08,Rich,0,Fountain,0.0,171.07
+5,3BHK,26.34,2.21,1.31,Upper Middle,1,Swimming Pool,1.0,402.46
+3,1BHK,29.49,1.76,1.39,Low,0,,,139.32
+5,2BHK,21.41,1.31,0.95,Middle,1,,0.0,192.96
+2,1BHK,,1.17,1.4,Low,1,Garden,0.0,121.92
+2,1BHK,29.58,1.61,1.45,Middle,1,,0.0,155.34
+3,Cottage,17.55,1.76,1.41,Middle,0,Garden,0.0,147.34
+5,2BHK,27.77,1.35,0.95,Middle,1,,0.0,187.1
+5,2BHK,21.65,1.04,0.88,Middle,0,Garden,1.0,177.45
+4,Detached,,1.85,1.48,Rich,0,Jacuzzi,0.0,335.42
+2,1BHK,25.02,1.76,1.02,Middle,0,Jacuzzi,0.0,107.45
+3,1BHK,25.5,1.52,1.46,Low,0,Garden,0.0,153.96
+3,2BHK,25.75,2.32,1.42,Upper Middle,0,,1.0,215.07
+3,Bungalow,28.91,1.83,1.06,Upper Middle,0,Garden,0.0,147.19
+5,2BHK,,1.02,1.3,Middle,0,,0.0,187.05
+2,1BHK,35.0,1.06,0.92,Low,0,Garden,0.0,85.45
+3,Bungalow,21.7,2.8,1.39,Upper Middle,0,Swimming Pool,0.0,235.29
+4,2BHK,12.31,2.85,1.49,Upper Middle,0,Swimming Pool,0.0,216.91
+3,1BHK,19.21,1.04,1.25,Low,0,,0.0,117.62
+2,Cottage,20.12,1.78,1.13,Middle,0,Fountain,0.0,113.29
+3,2BHK,27.99,1.68,1.23,Middle,0,Jacuzzi,0.0,175.15
+5,2BHK,18.02,2.31,1.47,Upper Middle,1,,0.0,260.91
+2,Studio,10.55,1.72,0.91,Low,1,,0.0,53.76
+3,Cottage,19.88,1.39,1.19,Middle,0,Garden,0.0,123.91
+5,2BHK,23.59,1.44,1.11,Middle,0,Fountain,0.0,218.75
+2,1BHK,24.86,1.25,1.05,Low,1,,0.0,102.42
+3,,14.46,1.51,1.12,Middle,0,,0.0,102.71
+3,2BHK,23.74,2.02,1.38,Upper Middle,0,Fountain,0.0,169.77
+3,2BHK,19.29,1.47,0.96,Middle,0,Garden,0.0,90.3
+2,1BHK,30.58,1.09,1.02,Low,1,Fountain,0.0,121.2
+2,Cottage,23.34,1.16,1.2,Middle,1,,0.0,135.63
+2,1BHK,16.15,1.43,0.88,Low,0,Swimming Pool,0.0,81.63
+2,1BHK,12.77,1.65,1.22,Low,0,,0.0,92.76
+3,Bungalow,19.74,2.36,1.13,Rich,1,,0.0,172.34
+5,Bungalow,18.06,1.76,1.35,Upper Middle,1,Swimming Pool,0.0,318.72
+3,1BHK,16.96,1.76,1.44,Middle,0,,0.0,152.45
+2,Cottage,17.43,1.14,0.91,Middle,0,,0.0,78.33
+4,2BHK,13.58,1.31,1.47,Middle,0,,0.0,165.19
+2,Cottage,32.27,1.1,0.83,Middle,0,,,86.49
+3,2BHK,16.71,1.51,1.21,Middle,0,Fountain,0.0,132.32
+5,2BHK,30.12,1.79,1.11,Middle,0,,0.0,166.62
+3,Cottage,20.67,1.3,1.31,Middle,0,,1.0,130.08
+4,2BHK,25.84,1.2,1.2,Middle,1,,0.0,190.22
+2,1BHK,21.02,1.75,0.86,Low,0,Garden,1.0,70.16
+4,Bungalow,11.18,2.47,1.13,Rich,0,Jacuzzi,1.0,242.99
+3,3BHK,28.33,2.87,0.99,Rich,0,Swimming Pool,0.0,181.36
+3,Cottage,12.28,1.24,1.4,*DN+I,0,Fountain,0.0,155.65
+2,,26.52,1.12,0.85,Middle,1,,1.0,94.36
+4,2BHK,21.3,1.16,1.43,Middle,0,,0.0,182.14
+3,1BHK,34.82,1.8,0.94,Low,1,,0.0,99.43
+1,Studio,10.05,1.56,1.23,Low,0,Swimming Pool,0.0,75.61
+4,3BHK,10.68,1.59,1.23,Upper Middle,0,Garden,0.0,185.07
+3,2BHK,10.77,1.24,1.08,Middle,0,,0.0,113.43
+3,Bungalow,22.57,2.17,1.14,Upper Middle,0,,0.0,143.92
+3,1BHK,15.13,1.77,0.89,Middle,1,Garden,1.0,115.06
+4,Bungalow,24.45,2.77,1.05,Upper Middle,1,Fountain,0.0,206.83
+5,2BHK,26.0,1.28,1.15,Middle,0,Garden,1.0,199.37
+5,Bungalow,28.94,1.51,1.4,Upper Middle,1,,0.0,309.59
+4,3BHK,31.74,2.54,1.04,Rich,1,,0.0,201.57
+4,Bungalow,23.65,2.66,1.44,Upper Middle,0,,0.0,203.38
+2,Cottage,18.45,1.54,1.25,Middle,1,,0.0,109.26
+2,Studio,23.7,1.19,1.35,Low,0,,0.0,80.53
+5,2BHK,15.62,2.96,0.91,Upper Middle,0,Fountain,0.0,156.95
+2,1BHK,27.52,1.59,1.36,Middle,0,,0.0,115.77
+3,1BHK,28.77,1.4,1.31,Low,1,,0.0,146.53
+3,3BHK,33.51,2.36,1.36,Upper Middle,1,Fountain,1.0,296.49
+4,2BHK,10.26,1.51,1.01,Middle,0,Jacuzzi,0.0,169.67
+3,1BHK,22.2,1.16,1.26,Low,0,Swimming Pool,0.0,156.39
+2,Cottage,10.76,1.03,1.18,Middle,0,Garden,1.0,111.79
+3,3BHK,22.02,1.86,0.93,Upper Middle,0,,0.0,117.9
+3,2BHK,15.69,1.22,0.95,Middle,0,,0.0,93.09
+2,1BHK,17.5,1.04,1.05,Middle,1,Garden,1.0,109.89
+2,1BHK,30.69,1.29,0.93,,0,Garden,0.0,84.5
+3,2BHK,10.09,1.47,1.38,Middle,0,,0.0,117.29
+1,Studio,16.99,1.26,1.23,,0,Garden,0.0,61.75
+3,Detached,12.35,2.12,1.14,Rich,1,Swimming Pool,0.0,260.5
+3,3BHK,23.56,3.0,1.08,Upper Middle,0,Jacuzzi,0.0,194.24
+4,2BHK,25.11,1.57,1.44,Middle,1,,0.0,222.63
+2,Cottage,31.03,1.49,1.02,Middle,0,,0.0,83.59
+4,Bungalow,19.2,-44.0,1.31,Upper Middle,0,Swimming Pool,0.0,257.9
+4,3BHK,10.75,1.59,0.94,Upper Middle,0,Swimming Pool,1.0,195.27
+5,2BHK,19.38,1.69,1.14,Upper Middle,0,Swimming Pool,0.0,221.34
+2,1BHK,17.51,1.05,1.49,Middle,0,Jacuzzi,1.0,151.46
+5,3BHK,16.22,2.2,0.97,Upper Middle,1,Garden,1.0,219.33
+3,3BHK,31.44,2.67,1.27,Upper Middle,0,Fountain,1.0,244.42
+5,2BHK,32.05,2.47,0.89,Upper Middle,0,,0.0,149.25
+4,2BHK,24.33,1.65,1.22,Upper Middle,1,Garden,1.0,266.37
+3,Bungalow,18.91,2.34,1.5,Upper Middle,0,,0.0,149.61
+2,1BHK,31.4,1.65,1.03,Low,1,,0.0,102.21
+2,Studio,10.98,1.62,1.8700680416297704,Low,1,,0.0,85.64
+5,2BHK,12.11,1.69,1.35,Upper Middle,1,,0.0,249.82
+4,3BHK,13.32,2.06,1.21,,0,,0.0,184.27
+5,2BHK,23.04,1.36,1.26,Middle,0,,0.0,200.93
+4,3BHK,19.0,2.23,1.49,Rich,0,Swimming Pool,0.0,317.56
+2,1BHK,29.66,1.71,0.94,Middle,0,Jacuzzi,0.0,108.93
+2,1BHK,12.07,1.59,1.19,Middle,0,,0.0,86.68
+3,Bungalow,10.53,2.09,1.13,Upper Middle,1,Swimming Pool,1.0,215.5
+3,Cottage,12.09,1.27,1.28,Middle,1,,0.0,127.94
+3,2BHK,18.84,1.25,1.35,Middle,1,Swimming Pool,0.0,218.42
+2,1BHK,22.27,1.36,1.22,,1,,0.0,118.21
+4,Detached,34.55,2.87,1.34,Rich,0,Swimming Pool,1.0,371.76
+2,1BHK,11.07,1.51,1.43,Low,2,Garden,0.0,112.8
+5,2BHK,18.65,1.79,1.43,Upper Middle,0,Fountain,0.0,258.32
+5,2BHK,20.05,1.05,0.92,Middle,0,,0.0,144.87
+1,Studio,16.81,1.13,0.94,Low,1,,0.0,57.38
+4,2BHK,21.24,2.99,0.85,Upper Middle,0,,0.0,103.88
+4,Bungalow,12.07,2.92,1.14,Upper Middle,1,Jacuzzi,,170.88
+4,Bungalow,24.26,2.46,1.31,Upper Middle,0,,0.0,177.54
+3,Cottage,26.13,1.41,1.13,Middle,0,Garden,0.0,128.07
+3,3BHK,22.59,2.49,1.37,Upper Middle,0,Jacuzzi,0.0,201.17
+2,Studio,12.95,-77.0,1.33,Low,0,,0.0,77.83
+3,Cottage,11.18,1.51,1.48,Middle,0,,0.0,131.86
+3,3BHK,,2.1,1.08,Upper Middle,1,Jacuzzi,0.0,231.23
+4,3BHK,31.26,2.86,0.81,Upper Middle,1,Swimming Pool,0.0,203.36
+3,2BHK,27.52,1.24,0.9,Middle,1,,1.0,143.34
+5,Bungalow,12.71,2.32,1.15,Rich,1,Fountain,0.0,275.53
+4,2BHK,18.66,1.9,0.85,Upper Middle,0,,0.0,107.04
+2,Cottage,32.4,1.62,1.01,Middle,0,,0.0,96.51
+4,3BHK,27.14,1.58,1.3,Upper Middle,0,,1.0,245.64
+2,1BHK,18.23,1.23,2.073973041852624,Low,0,,0.0,104.8
+2,Studio,33.09,1.63,1.08,Low,0,Jacuzzi,0.0,94.23
+3,2BHK,13.08,2.48,1.29,Upper Middle,1,,0.0,145.26
+4,3BHK,20.68,2.14,0.88,Upper Middle,0,Garden,0.0,137.08
+3,1BHK,10.25,1.25,0.91,Middle,0,Garden,0.0,84.97
+5,2BHK,17.81,1.65,1.08,Middle,0,,0.0,149.17
+3,Cottage,12.89,1.09,1.47,Middle,1,Swimming Pool,0.0,209.35
+3,2BHK,16.04,1.59,1.18,Upper Middle,0,,0.0,130.18
+3,1BHK,24.13,1.38,0.85,Middle,0,,0.0,88.66
+3,Cottage,28.4,1.2,1.38,Middle,1,,0.0,173.12
+-22,2BHK,22.23,1.78,0.84,Middle,0,,0.0,88.6
+4,3BHK,34.22,1.62,1.35,Rich,0,,1.0,299.34
+3,1BHK,12.81,1.31,1.27,Low,1,Garden,1.0,169.68
+2,Studio,29.66,1.68,1.31,Low,1,Garden,0.0,119.75
+4,Bungalow,33.23,2.26,1.37,Upper Middle,1,Garden,1.0,316.62
+4,2BHK,18.59,1.65,1.07,Middle,0,Fountain,0.0,157.52
+3,2BHK,32.17,1.75,1.26,0wms1,1,Jacuzzi,0.0,213.82
+2,1BHK,28.44,1.5,1.02,Middle,0,,0.0,91.59
+4,Bungalow,28.17,2.06,1.3,Upper Middle,0,Fountain,1.0,257.77
+5,2BHK,29.02,1.66,0.88,Upper Middle,0,,1.0,173.4
+3,Cottage,29.97,1.35,1.32,Middle,0,Fountain,1.0,185.69
+5,Bungalow,19.73,1.78,0.95,Upper Middle,0,,0.0,161.91
+4,3BHK,28.57,1.58,1.32,Upper Middle,0,,1.0,244.53
+1,Studio,25.22,1.03,1.13,Low,0,,0.0,58.43
+3,2BHK,29.81,2.78,1.33,Upper Middle,0,Swimming Pool,,264.81
+3,1BHK,25.19,1.3,1.33,Middle,1,,0.0,170.72
+4,2BHK,34.31,2.28,1.3,Upper Middle,1,Fountain,0.0,293.05
+5,Bungalow,22.5,2.54,1.49,Rich,0,,0.0,245.54
+2,1BHK,27.48,1.12,1.4,Middle,0,,1.0,139.15
+3,2BHK,13.63,1.22,1.02,Middle,0,,0.0,95.58
+5,3BHK,34.32,1.79,1.19,Upper Middle,0,Fountain,0.0,300.58
+1,Studio,33.82,1.66,0.95,Low,1,Swimming Pool,0.0,84.16
+2,Cottage,23.1,1.25,1.03,Middle,0,Jacuzzi,0.0,110.8
+3,1BHK,10.99,1.07,0.93,Middle,0,Garden,0.0,88.91
+3,2BHK,25.34,1.43,1.47,Middle,0,,0.0,157.18
+3,2BHK,28.42,2.44,1.44,Upper Middle,0,,0.0,150.4
+2,1BHK,10.54,1.55,0.2810299738206793,Middle,0,Swimming Pool,0.0,73.77
+3,3BHK,22.56,2.13,1.41,Rich,1,Jacuzzi,0.0,324.81
+2,Cottage,17.05,1.36,1.44,Middle,0,Fountain,0.0,130.5
+5,Bungalow,,2.39,1.06,Upper Middle,1,Jacuzzi,1.0,284.16
+2,1BHK,20.74,1.25,1.21,Middle,1,Fountain,0.0,135.47
+3,Bungalow,24.32,1.62,0.91,Upper Middle,0,Fountain,0.0,121.23
+3,1BHK,,1.75,1.02,Low,0,Swimming Pool,0.0,107.53
+2,1BHK,14.92,1.57,0.84,Middle,0,,0.0,61.17
+3,2BHK,26.81,1.41,0.89,Middle,1,,0.0,128.29
+1,Studio,30.2,1.1,1.21,Low,0,,0.0,64.7
+3,Detached,29.72,2.94,1.07,Rich,0,Fountain,0.0,203.26
+3,2BHK,30.07,1.64,1.49,Middle,1,Swimming Pool,0.0,267.22
+3,2BHK,33.6,1.32,1.36,WvT99,0,Fountain,0.0,196.06
+3,Cottage,31.52,1.22,1.35,Middle,0,,0.0,144.84
+3,1BHK,30.88,1.21,1.5,Middle,1,,0.0,208.39
+2,1BHK,14.52,1.45,1.47,Middle,0,Fountain,0.0,132.27
+2,1BHK,16.56,1.45,1.08,Middle,-1,Swimming Pool,0.0,91.44
+1,Studio,24.28,1.17,0.95,Low,0,,0.0,46.57
+3,1BHK,27.8,1.34,0.94,Middle,0,Jacuzzi,0.0,129.66
+5,Bungalow,23.53,2.33,0.86,Upper Middle,0,,,135.1
+5,3BHK,21.99,2.67,0.89,Rich,1,Garden,1.0,269.19
+5,3BHK,,2.97,1.35,"x@l""M",-1,,0.0,227.49
+3,Bungalow,14.84,1.71,1.02,Upper Middle,0,,0.0,111.13
+2,Cottage,11.65,1.67,1.14,Middle,0,Jacuzzi,0.0,96.25
+4,Bungalow,23.47,1.96,1.11,%$tUd,0,Fountain,0.0,163.81
+2,Cottage,33.73,1.14,0.84,Middle,0,Fountain,0.0,87.79
+3,Detached,13.45,1.6,1.1,Rich,0,Swimming Pool,0.0,201.54
+4,2BHK,26.74,1.05,1.03,Middle,0,Fountain,1.0,174.1
+3,2BHK,22.27,2.29,1.35,Upper Middle,1,,0.0,189.13
+4,2BHK,19.67,2.18,1.14,Upper Middle,0,,0.0,165.85
+2,1BHK,33.21,1.39,0.95,Middle,0,,0.0,88.34
+2,1BHK,22.24,1.34,1.16,,0,,0.0,79.96
+3,2BHK,29.2,1.17,0.93,Middle,0,Garden,0.0,123.32
+-33,3BHK,29.25,1.65,1.4,Upper Middle,0,Fountain,0.0,276.65
+5,2BHK,11.57,2.53,1.33,Upper Middle,1,Swimming Pool,0.0,316.35
+4,2BHK,22.38,1.59,1.21,Upper Middle,0,Swimming Pool,1.0,251.91
+1,Studio,23.11,1.24,1.28,Low,0,Garden,0.0,69.13
+4,Bungalow,20.64,1.72,1.28,Upper Middle,0,Jacuzzi,0.0,196.18
+3,Bungalow,34.07,2.75,1.41,Upper Middle,0,Jacuzzi,,243.06
+3,2BHK,12.2,2.59,2.076002659225682,Upper Middle,0,,0.0,147.92
+3,2BHK,34.43,1.06,1.43,Middle,0,Fountain,0.0,210.96
+3,2BHK,17.21,1.62,1.37,Middle,0,,0.0,141.46
+2,Cottage,21.14,1.71,1.06,Middle,0,,0.0,90.32
+2,1BHK,29.14,1.72,1.23,Low,0,Jacuzzi,1.0,145.94
+2,1BHK,22.85,1.71,0.86,Middle,1,Garden,1.0,84.51
+5,3BHK,19.85,1.96,1.06,Upper Middle,1,Swimming Pool,0.0,264.62
+4,2BHK,10.34,1.49,0.81,Middle,0,Fountain,0.0,115.47
+3,3BHK,33.56,2.7,1.43,Upper Middle,0,,0.0,195.83
+2,1BHK,22.09,1.13,1.41,Low,0,,1.0,124.43
+3,1BHK,28.65,1.02,1.03,Middle,0,,0.0,102.57
+4,2BHK,14.27,1.53,1.14,Middle,1,,1.0,192.0
+3,Cottage,13.22,1.61,0.83,Middle,0,,0.0,81.24
+3,Cottage,17.01,1.43,0.83,Middle,0,Fountain,0.0,101.41
+5,Bungalow,10.05,2.26,1.36,Upper Middle,1,Fountain,0.0,247.22
+3,Bungalow,24.98,2.74,1.19,,0,Jacuzzi,1.0,198.24
+3,2BHK,13.71,-99.0,1.14,Upper Middle,0,,1.0,153.21
+4,3BHK,24.95,2.41,0.92,Upper Middle,0,Swimming Pool,0.0,176.76
+3,Bungalow,24.54,1.81,0.81,Upper Middle,0,Swimming Pool,0.0,115.39
+3,Bungalow,15.11,2.45,0.84,Upper Middle,1,Fountain,0.0,140.52
+5,Bungalow,21.01,2.71,1.05,Rich,0,Swimming Pool,0.0,262.95
+2,1BHK,24.67,1.07,1.17,/!3u:,0,Fountain,1.0,128.66
+5,2BHK,19.58,2.19,1.3,Upper Middle,0,,0.0,184.88
+-33,2BHK,15.0,2.33,1.33,Upper Middle,0,,0.0,200.25
+2,1BHK,30.77,1.66,1.38,Middle,0,Garden,0.0,111.0
+3,2BHK,26.47,2.71,1.28,Upper Middle,0,Jacuzzi,0.0,198.67
+5,Bungalow,18.36,1.68,1.6723628277745264,Upper Middle,0,Swimming Pool,0.0,206.38
+1,Studio,11.82,1.1,1.41,Low,0,,0.0,65.97
+3,1BHK,21.79,1.21,0.97,Low,0,Garden,0.0,90.38
+3,2BHK,25.27,1.18,1.17,Middle,0,Garden,0.0,142.27
+4,2BHK,14.26,1.38,1.16,Middle,0,,1.0,157.42
+4,2BHK,22.54,1.01,0.91,Middle,1,Fountain,1.0,170.72
+2,,33.0,1.05,0.87,Low,0,Garden,0.0,64.12
+2,1BHK,25.35,1.8,1.37,Middle,0,,0.0,116.48
+3,Cottage,29.15,1.45,1.34,Middle,0,Jacuzzi,0.0,157.74
+4,2BHK,29.03,1.75,1.14,Middle,1,,0.0,153.16
+4,3BHK,32.04,2.03,1.33,Upper Middle,-1,,0.0,289.11
+3,Cottage,22.07,1.52,1.21,Middle,-1,Fountain,0.0,130.58
+3,3BHK,25.43,2.73,1.06,Upper Middle,0,,0.0,130.03
+2,Cottage,24.46,1.08,1.33,Middle,0,,1.0,119.58
+2,1BHK,21.56,1.16,1.3,Middle,0,Jacuzzi,0.0,130.27
+4,2BHK,23.22,1.58,1.29,Middle,0,Fountain,0.0,218.62
+2,Cottage,21.1,1.66,1.42,Middle,0,,0.0,110.64
+2,1BHK,14.01,-44.0,1.38,Middle,1,Garden,0.0,140.43
+5,3BHK,21.69,1.79,1.13,Upper Middle,0,Garden,1.0,246.51
+2,Cottage,20.8,1.12,1.5,Middle,0,,0.0,121.5
+4,Bungalow,21.51,2.6,0.83,Upper Middle,0,Jacuzzi,0.0,131.21
+3,Cottage,34.4,1.12,1.24,Middle,0,Swimming Pool,0.0,182.56
+5,3BHK,28.69,2.73,1.14,Upper Middle,0,Garden,0.0,214.86
+3,3BHK,30.15,2.03,0.88,Upper Middle,0,Fountain,0.0,151.15
+5,Bungalow,33.93,2.78,0.81,Upper Middle,0,,1.0,161.05
+5,2BHK,32.29,1.17,1.44,Middle,1,,0.0,279.92
+3,1BHK,26.49,-77.0,1.07,Low,1,,0.0,124.23
+2,Studio,11.69,1.59,1.05,Low,1,Garden,0.0,73.01
+2,1BHK,19.99,1.36,1.5230246060362744,Middle,1,Garden,1.0,92.46
+4,Bungalow,30.4,2.4,0.7021124338863246,Upper Middle,0,Garden,1.0,218.05
+5,2BHK,20.36,1.55,1.3,Middle,1,Fountain,0.0,252.88
+4,Bungalow,12.48,2.05,1.47,Upper Middle,1,,0.0,223.47
+2,1BHK,20.75,1.02,1.38,Middle,0,,1.0,136.47
+4,2BHK,21.97,1.2,0.84,Middle,0,,0.0,107.3
+2,1BHK,13.4,1.29,1.26,Low,0,,0.0,82.82
+5,2BHK,11.61,2.66,0.97,,1,Jacuzzi,0.0,178.13
+5,Bungalow,,-55.0,1.18,Rich,0,Fountain,0.0,234.59
+5,2BHK,24.76,2.06,0.97,Upper Middle,1,Swimming Pool,0.0,239.77
+5,3BHK,21.82,1.69,1.34,Upper Middle,1,Garden,1.0,295.19
+5,3BHK,23.87,1.98,1.32,Upper Middle,0,Jacuzzi,0.0,304.73
+2,1BHK,11.18,1.13,0.82,Middle,0,Fountain,0.0,68.56
+2,1BHK,17.59,1.13,1.06,Low,0,Garden,1.0,97.98
+2,Cottage,23.03,1.3,1.27,Middle,1,,0.0,133.17
+2,Studio,11.45,1.48,1.26,Low,0,,0.0,73.31
+3,Bungalow,20.93,1.7,0.88,Upper Middle,1,Jacuzzi,0.0,159.97
+5,3BHK,21.16,1.58,0.92,Rich,0,Swimming Pool,0.0,240.51
+2,Studio,24.34,1.39,1.6960670749180375,Low,0,,0.0,64.74
+3,2BHK,30.27,1.43,0.81,Middle,1,Jacuzzi,0.0,159.19
+3,Cottage,32.79,-44.0,0.82,Middle,0,Jacuzzi,0.0,106.98
+4,Detached,15.14,1.77,1.37,Rich,1,Fountain,1.0,392.21
+3,1BHK,34.25,1.49,0.85,Middle,1,,0.0,106.67
+5,Bungalow,29.17,2.36,1.01,Upper Middle,0,Garden,0.0,181.49
+4,3BHK,17.13,2.14,1.42,Upper Middle,0,Jacuzzi,0.0,243.88
+2,Cottage,12.86,1.22,1.05,Middle,0,Garden,0.0,85.18
+2,Studio,25.92,1.42,0.91,,-1,Garden,0.0,64.76
+3,1BHK,20.38,1.22,1.3,Middle,1,,0.0,145.17
+5,2BHK,20.33,1.31,0.85,Middle,0,Garden,0.0,112.09
+2,1BHK,14.99,1.79,1.45,Low,0,,0.0,94.55
+3,Cottage,32.77,1.06,0.95,Middle,0,Fountain,0.0,120.54
+2,Studio,13.04,1.16,1.31,Low,1,,0.0,91.39
+4,3BHK,25.94,1.7,1.45,Upper Middle,0,,0.0,233.51
+3,2BHK,20.3,1.04,1.04,)K{s],0,,0.0,108.89
+3,2BHK,22.28,2.48,1.21,Upper Middle,0,Fountain,0.0,141.69
+3,1BHK,15.36,1.52,1.2,Low,0,,0.0,103.95
+2,Cottage,27.47,1.5,0.95,Middle,0,Garden,0.0,92.51
+5,Detached,17.1,1.63,1.07,Rich,0,Swimming Pool,0.0,298.02
+2,Cottage,18.65,1.42,0.93,Middle,0,,1.0,94.11
+3,1BHK,20.47,1.71,1.14,Middle,0,,0.0,112.06
+5,3BHK,27.19,2.56,1.39,Rich,0,Garden,1.0,340.5
+3,2BHK,25.85,1.6,0.86,Upper Middle,0,Fountain,0.0,151.8
+5,2BHK,18.9,1.81,1.4,Upper Middle,0,,0.0,236.02
+2,1BHK,34.52,1.59,0.97,Low,0,,0.0,76.7
+2,Cottage,29.09,1.08,1.16,Middle,1,,0.0,130.52
+2,1BHK,22.49,1.44,1.45,Middle,1,Jacuzzi,1.0,207.54
+2,Studio,20.13,1.23,1.11,Low,0,,0.0,69.56
+3,Cottage,31.04,1.21,1.5506942589038917,Middle,0,,0.0,105.08
+4,3BHK,32.88,1.66,1.06,Rich,0,,0.0,202.0
+5,2BHK,13.1,1.56,1.36,Upper Middle,1,Swimming Pool,1.0,355.18
+5,2BHK,27.22,2.26,1.4,Upper Middle,1,,1.0,334.31
+1,Studio,29.34,1.15,1.38,Low,0,,0.0,67.0
+3,1BHK,18.71,1.75,1.14,Middle,0,,0.0,100.86
+2,1BHK,10.75,1.79,1.06,Middle,1,,0.0,86.78
+1,Studio,31.51,1.72,0.83,Low,1,,0.0,52.95
+3,2BHK,21.87,1.03,0.86,Middle,1,Garden,1.0,136.19
+5,3BHK,17.86,2.66,0.86,Upper Middle,0,,1.0,164.84
+5,3BHK,10.31,1.9,1.43,Rich,0,Jacuzzi,1.0,356.04
+1,Studio,19.57,1.7,1.23,Low,0,,0.0,70.54
+4,Bungalow,14.29,2.81,1.48,Rich,0,Fountain,0.0,251.09
+3,1BHK,33.29,1.01,0.97,Low,0,,1.0,118.98
+3,1BHK,23.18,1.04,0.88,Low,0,,1.0,88.43
+4,3BHK,12.02,2.8,1.35,,0,Fountain,0.0,260.21
+3,1BHK,32.13,1.16,1.34,Low,0,Garden,0.0,131.93
+2,1BHK,,1.53,0.95,Middle,1,,0.0,100.59
+4,3BHK,23.35,2.37,1.1,Rich,1,Jacuzzi,0.0,285.8
+3,Cottage,31.48,-44.0,0.3619737770790876,Middle,0,,0.0,105.26
+1,Studio,11.07,1.02,1.37,Low,1,,0.0,79.5
+3,1BHK,28.61,1.55,1.0,Low,0,Jacuzzi,0.0,111.4
+3,Bungalow,23.04,2.66,0.82,Rich,0,Jacuzzi,,134.22
+2,1BHK,30.66,1.66,1.17,Middle,0,,1.0,102.32
+4,3BHK,13.32,2.28,0.2451773135736868,Upper Middle,0,,1.0,126.73
+4,2BHK,20.84,2.2,1.03,Upper Middle,0,,0.0,128.17
+5,3BHK,12.77,2.56,0.82,Upper Middle,0,Swimming Pool,0.0,175.41
+2,Studio,15.29,1.0,0.8,Low,0,,1.0,52.9
+3,Cottage,18.73,1.23,1.35,Middle,0,Garden,,155.67
+2,1BHK,11.76,1.79,1.27,Middle,0,Garden,0.0,98.27
+4,Bungalow,14.81,2.84,1.15,Upper Middle,1,Jacuzzi,0.0,198.74
+5,2BHK,,1.55,0.87,Middle,0,,0.0,117.76
+3,2BHK,21.88,2.48,1.02,Upper Middle,0,,0.0,101.6
+5,3BHK,24.83,2.96,0.96,Rich,0,Fountain,0.0,249.5
+2,Studio,33.71,1.58,1.45,Low,0,,1.0,126.84
+4,3BHK,34.35,2.48,1.2,Upper Middle,0,Jacuzzi,0.0,249.49
+5,3BHK,14.0,1.79,1.22,Rich,1,,0.0,286.76
+4,3BHK,17.62,1.98,0.97,Rich,0,Swimming Pool,0.0,216.75
+4,Bungalow,17.66,2.83,0.88,Upper Middle,0,Swimming Pool,0.0,128.81
+3,1BHK,14.15,1.59,0.91,Middle,0,,0.0,87.52
+2,Cottage,14.06,1.02,1.01,Middle,1,,0.0,85.0
+3,Cottage,,1.23,0.99,Middle,0,,0.0,85.17
+3,,14.96,1.4,0.96,Low,0,,0.0,84.35
+5,Bungalow,23.03,2.16,1.19,Upper Middle,1,,0.0,235.87
+3,1BHK,19.94,1.52,0.97,Middle,0,,1.0,103.09
+5,Bungalow,18.33,2.0,1.04,Upper Middle,0,Garden,0.0,150.81
+3,Detached,17.01,2.36,1.42,Rich,0,Fountain,0.0,225.01
+3,,28.3,2.33,0.84,Rich,0,Swimming Pool,0.0,182.7
+2,1BHK,30.31,1.77,1.12,Low,0,,0.0,86.44
+3,1BHK,28.15,1.57,1.05,Middle,0,Fountain,0.0,137.26
+3,2BHK,34.02,1.13,1.15,Middle,0,Garden,0.0,164.94
+5,2BHK,15.25,1.7,0.91,Middle,0,Garden,0.0,131.33
+5,Bungalow,22.07,2.29,0.92,Upper Middle,1,Jacuzzi,,211.79
+3,Cottage,11.08,1.4,1.41,Middle,0,,0.0,131.02
+4,3BHK,26.93,2.4,1.11,Upper Middle,0,,0.0,175.84
+2,Cottage,23.78,1.59,1.01,Middle,1,Jacuzzi,0.0,126.08
+3,1BHK,12.11,1.6,0.84,Low,0,Garden,0.0,64.51
+3,2BHK,26.7,1.42,1.24,Middle,1,Swimming Pool,0.0,215.67
+3,Bungalow,21.67,2.15,1.36,Upper Middle,1,Garden,0.0,221.02
+4,Bungalow,10.02,1.65,1.06,Upper Middle,0,Fountain,0.0,147.93
+2,Cottage,15.26,1.36,1.32,Middle,0,Garden,0.0,102.67
+3,2BHK,13.41,1.73,1.24,Middle,0,Garden,0.0,125.94
+3,Cottage,20.77,1.07,0.86,Middle,1,Swimming Pool,0.0,123.68
+3,Detached,14.23,1.88,1.08,Rich,1,Fountain,1.0,254.79
+5,2BHK,34.6,1.21,1.09,Middle,1,,0.0,217.83
+3,1BHK,22.15,1.47,0.86,Middle,1,,0.0,100.7
+3,Cottage,12.16,-11.0,1.24,Middle,0,Jacuzzi,0.0,140.86
+2,Studio,34.71,1.01,0.87,Low,1,,0.0,89.32
+1,Studio,24.03,1.37,1.42,Low,1,Garden,0.0,92.14
+4,3BHK,20.82,2.94,0.91,Upper Middle,1,,0.0,141.73
+5,2BHK,26.32,1.41,1.48,Middle,0,,1.0,268.8
+2,1BHK,15.93,1.24,0.92,Low,0,Garden,0.0,65.24
+5,3BHK,28.22,1.97,1.43,Upper Middle,1,Garden,0.0,330.5
+3,Bungalow,22.93,2.52,1.29,Rich,0,,0.0,194.24
+2,Cottage,34.13,1.35,0.83,Middle,1,Garden,0.0,102.25
+3,1BHK,29.27,1.57,0.86,Middle,0,Swimming Pool,0.0,104.39
+5,Bungalow,12.12,2.88,1.28,Upper Middle,0,,1.0,198.27
+3,1BHK,17.68,1.07,1.42,Low,1,Garden,0.0,163.89
+4,3BHK,19.15,1.63,1.4,Upper Middle,1,Fountain,0.0,274.78
+3,Detached,24.68,1.59,1.25,Rich,1,Swimming Pool,0.0,308.72
+2,1BHK,22.28,1.12,1.33,Middle,0,Garden,0.0,121.13
+4,3BHK,18.25,2.53,1.02,Upper Middle,0,,0.0,135.38
+2,1BHK,15.04,1.11,1.43,Middle,0,,0.0,109.38
+2,Studio,13.2,1.05,0.95,Low,0,,0.0,53.65
+3,,27.77,1.45,1.12,Middle,0,,0.0,125.61
+4,3BHK,,2.76,1.31,Upper Middle,0,,0.0,198.2
+5,2BHK,23.45,1.31,0.84,Middle,0,Garden,0.0,142.86
+3,2BHK,,2.33,0.92,Upper Middle,0,Jacuzzi,0.0,139.92
+3,Bungalow,27.19,2.39,1.29,Upper Middle,1,Swimming Pool,0.0,272.75
+2,Cottage,16.88,1.41,0.89,Middle,0,,0.0,78.38
+5,2BHK,28.0,1.33,1.03,Middle,1,Garden,0.0,222.57
+5,2BHK,12.16,1.21,1.44,Middle,1,Garden,0.0,223.59
+2,1BHK,21.17,1.02,0.2831657332022889,Low,0,,0.0,69.88
+2,Studio,32.83,1.21,1.46,Low,0,,0.0,96.14
+3,3BHK,28.99,2.08,1.17,Upper Middle,1,,0.0,198.87
+5,2BHK,17.16,-66.0,0.97,Middle,0,Garden,0.0,142.06
+3,Bungalow,23.45,2.73,1.36,Upper Middle,1,Fountain,0.0,210.12
+2,1BHK,30.05,1.14,1.08,Middle,1,Fountain,1.0,161.96
+3,Bungalow,31.84,2.28,0.9,Upper Middle,1,Swimming Pool,0.0,183.81
+4,2BHK,33.31,1.3,1.3,Middle,0,,0.0,190.28
+4,2BHK,17.04,1.78,1.5,Middle,1,,0.0,198.88
+3,Bungalow,31.83,1.52,1.33,Rich,0,Swimming Pool,0.0,269.67
+3,3BHK,17.9,2.91,1.29,Upper Middle,0,Swimming Pool,0.0,201.65
+3,2BHK,14.54,1.41,1.25,Middle,1,Fountain,0.0,168.71
+4,2BHK,31.37,2.19,1.34,Upper Middle,0,Jacuzzi,0.0,250.89
+2,Cottage,19.45,1.46,1.29,Middle,0,Garden,0.0,110.34
+3,2BHK,28.99,1.2,0.81,Middle,0,Garden,0.0,93.9
+2,Cottage,17.26,1.08,1.34,Middle,0,,1.0,126.04
+3,2BHK,17.71,1.29,1.26,Middle,1,Swimming Pool,0.0,213.07
+4,2BHK,29.15,2.91,1.25,Upper Middle,1,Jacuzzi,0.0,262.6
+2,Cottage,16.87,1.67,1.44,Middle,1,,0.0,115.56
+2,1BHK,11.59,1.75,1.23,Low,0,,1.0,94.68
+5,3BHK,34.14,2.49,1.45,Rich,0,Fountain,0.0,381.75
+5,Bungalow,27.27,1.95,1.25,Rich,0,Swimming Pool,0.0,320.39
+5,2BHK,27.72,1.58,0.88,Middle,0,,0.0,130.4
+5,Bungalow,23.57,2.72,0.87,Upper Middle,0,Garden,0.0,137.43
+3,2BHK,14.74,1.52,1.43,Middle,1,Swimming Pool,,264.66
+3,2BHK,19.68,1.02,1.0,Middle,1,,1.0,158.01
+5,3BHK,17.86,1.89,1.06,Upper Middle,0,Garden,0.0,183.57
+5,3BHK,16.27,2.02,1.03,Upper Middle,0,,0.0,171.83
+5,Detached,12.99,1.72,1.08,Rich,0,,0.0,200.14
+4,2BHK,28.2,1.07,1.37,Middle,0,,0.0,177.75
+3,3BHK,21.12,2.73,1.18,Rich,1,Swimming Pool,1.0,234.62
+3,1BHK,13.02,1.13,1.15,Middle,0,,1.0,129.7
+3,2BHK,34.48,1.15,0.92,Middle,1,Swimming Pool,0.0,181.53
+3,2BHK,16.11,1.68,0.88,Upper Middle,1,,0.0,112.36
+2,1BHK,27.78,1.31,1.0,Middle,0,,0.0,95.25
+3,2BHK,32.35,1.66,0.9,Upper Middle,0,Jacuzzi,0.0,160.25
+3,1BHK,16.26,1.79,1.34,Middle,1,Fountain,0.0,180.88
+3,2BHK,25.06,1.58,0.87,Upper Middle,0,Jacuzzi,0.0,144.6
+5,3BHK,,2.01,1.46,Rich,0,Fountain,1.0,405.3
+2,1BHK,27.93,1.45,0.5364323140663452,Low,0,Garden,0.0,96.6
+2,1BHK,18.07,1.16,0.99,Middle,0,,0.0,77.09
+4,Bungalow,11.65,1.54,1.2,Upper Middle,1,Jacuzzi,0.0,214.01
+2,1BHK,21.11,1.77,1.46,Middle,0,Garden,0.0,123.67
+5,2BHK,32.84,2.47,0.97,Upper Middle,1,Fountain,0.0,240.68
+-88,2BHK,33.74,1.12,1.19,Middle,1,,0.0,162.97
+2,Cottage,31.51,1.67,1.25,Middle,0,,0.0,107.29
+5,3BHK,34.43,2.03,1.04,Upper Middle,-1,Garden,0.0,225.85
+3,1BHK,16.88,1.48,1.33,Middle,1,,0.0,150.18
+5,2BHK,23.25,1.29,1.06,Middle,0,,0.0,145.5
+3,3BHK,21.43,2.34,1.28,Upper Middle,0,Jacuzzi,0.0,193.8
+4,3BHK,33.63,2.62,1.25,Upper Middle,1,Swimming Pool,0.0,308.29
+3,Cottage,27.81,1.79,1.38,Middle,0,,0.0,149.48
+3,2BHK,24.37,1.77,0.83,Middle,0,,,95.56
+3,Cottage,12.24,1.25,0.84,Middle,1,Garden,0.0,83.39
+5,Bungalow,16.93,2.11,1.43,Upper Middle,0,Swimming Pool,1.0,293.22
+4,2BHK,33.28,1.03,0.81,Middle,1,,0.0,137.22
+3,3BHK,31.25,2.23,1.09,Upper Middle,1,Jacuzzi,0.0,236.21
+1,Studio,27.19,1.74,1.25,Low,0,Garden,0.0,67.97
+4,2BHK,23.06,1.64,1.42,I2X|',1,,0.0,239.94
+4,2BHK,18.06,1.04,0.94,5K4$B,1,,1.0,168.27
+2,Studio,31.78,1.7,0.9,Low,1,,0.0,71.41
+3,2BHK,26.6,1.72,1.36,Upper Middle,0,Fountain,0.0,211.76
+1,Studio,19.12,1.18,1.34,Low,0,Garden,0.0,68.46
+5,3BHK,16.89,1.85,1.4,Rich,0,Swimming Pool,0.0,360.33
+3,1BHK,25.77,1.77,1.29,Middle,1,,0.0,166.65
+3,2BHK,13.29,1.25,1.36,Middle,0,Garden,0.0,146.19
+2,Cottage,10.57,1.66,1.05,Middle,0,,0.0,69.66
+5,Bungalow,29.41,2.92,1.11,Rich,0,,1.0,250.73
+4,2BHK,19.47,1.54,1.1,Middle,1,,0.0,165.71
+2,Cottage,13.58,1.23,1.18,Middle,0,,0.0,78.64
+5,3BHK,29.48,1.78,1.28,Upper Middle,1,Swimming Pool,0.0,384.92
+4,3BHK,15.08,2.4,1.05,Rich,0,Swimming Pool,0.0,216.05
+4,Bungalow,23.05,2.3,1.17,Rich,0,Fountain,0.0,248.98
+2,1BHK,17.99,1.71,0.87,Middle,-1,,0.0,69.8
+5,2BHK,34.25,1.44,1.16,Middle,0,Jacuzzi,0.0,253.71
+4,3BHK,22.0,2.46,0.8587648134304283,Upper Middle,0,,0.0,122.8
+5,3BHK,30.49,2.45,1.31,Upper Middle,0,Fountain,1.0,332.52
+2,1BHK,16.54,1.7,1.22,Low,1,,0.0,100.05
+4,Bungalow,26.28,1.88,1.03,Upper Middle,1,,0.0,204.42
+3,2BHK,22.12,-66.0,1.36,Upper Middle,0,,1.0,170.14
+3,1BHK,10.03,1.19,1.07,Middle,0,Jacuzzi,1.0,145.23
+3,Cottage,15.83,1.68,0.88,Middle,1,,0.0,105.21
+5,2BHK,17.05,1.05,1.21,Middle,0,,0.0,165.86
+2,Cottage,26.99,1.08,1.5,Middle,1,Jacuzzi,0.0,217.01
+3,Bungalow,20.75,2.56,1.2,,0,Swimming Pool,0.0,196.4
+4,3BHK,15.82,2.31,1.33,Upper Middle,0,Swimming Pool,0.0,246.61
+5,2BHK,10.74,1.16,1.3,Middle,0,Swimming Pool,1.0,272.63
+4,3BHK,33.68,1.89,1.43,Upper Middle,0,,1.0,262.97
+3,3BHK,27.25,2.0,1.09,Upper Middle,0,Jacuzzi,0.0,184.65
+3,2BHK,12.94,1.61,1.5,Upper Middle,0,Swimming Pool,0.0,218.46
+2,Studio,34.19,1.5,1.26,Low,0,Garden,0.0,93.05
+5,2BHK,28.54,2.92,1.27,Upper Middle,0,Garden,0.0,210.59
+5,3BHK,11.67,2.25,1.35,Upper Middle,1,Garden,0.0,202.99
+1,Studio,11.19,1.05,0.87,Low,0,Jacuzzi,1.0,56.97
+3,Cottage,31.89,-77.0,1.3,Middle,0,,1.0,162.49
+4,3BHK,18.11,1.53,1.46,Rich,0,Jacuzzi,0.0,354.31
+2,1BHK,26.85,1.42,1.09,Middle,0,Garden,0.0,90.85
+4,Bungalow,26.87,2.46,1.1,Upper Middle,0,Jacuzzi,0.0,186.1
+3,Detached,10.73,1.8,1.32,Rich,0,,0.0,194.91
+3,2BHK,17.17,1.68,1.05,Upper Middle,0,Fountain,0.0,140.86
+3,2BHK,13.42,1.38,1.3,Middle,1,,0.0,156.47
+2,Studio,14.38,1.75,1.22,Low,0,,0.0,82.63
+5,3BHK,13.13,2.94,1.06,Rich,1,Fountain,0.0,220.47
+3,3BHK,,2.84,1.0,Upper Middle,0,,0.0,128.71
+1,Studio,32.49,1.37,1.23,Low,0,,0.0,76.91
+-77,3BHK,34.97,2.72,1.27,Rich,0,Swimming Pool,0.0,385.59
+2,1BHK,26.68,1.77,0.94,Low,1,,1.0,96.59
+4,3BHK,20.11,1.67,1.46,Rich,1,Jacuzzi,1.0,415.09
+1,Studio,34.4,1.29,0.9,Low,0,,1.0,60.19
+3,Cottage,19.59,1.18,1.02,Middle,-1,,0.0,90.01
+5,3BHK,21.99,2.86,1.29,Rich,0,Garden,0.0,268.68
+1,Studio,12.99,1.69,1.25,Low,0,,0.0,58.63
+3,2BHK,22.99,1.53,1.03,Middle,0,Garden,0.0,107.87
+5,Bungalow,27.0,1.84,1.23,Upper Middle,1,Swimming Pool,1.0,378.48
+3,1BHK,19.82,1.18,1.29,Low,0,Garden,0.0,119.19
+3,,32.39,2.17,1.01,Upper Middle,0,Swimming Pool,0.0,175.87
+5,2BHK,25.75,2.44,1.15,Upper Middle,0,,0.0,172.05
+4,Bungalow,,2.23,1.12,Upper Middle,1,,0.0,198.14
+5,3BHK,33.14,2.83,1.17,Rich,0,Jacuzzi,0.0,257.58
+-11,3BHK,13.71,2.8,1.05,Upper Middle,1,Fountain,0.0,279.59
+5,3BHK,11.52,1.93,1.45,Rich,0,Jacuzzi,1.0,417.79
+2,Cottage,15.94,1.51,1.41,Middle,0,Garden,0.0,113.99
+2,Studio,29.98,1.13,1.04,Low,1,,,83.78
+2,Studio,31.99,1.63,1.44,Low,1,Fountain,0.0,137.88
+4,2BHK,23.63,2.98,1.37,Upper Middle,0,Garden,0.0,198.98
+5,Bungalow,,1.87,0.9,Upper Middle,1,Swimming Pool,0.0,199.61
+5,3BHK,27.67,2.52,1.33,Upper Middle,0,Swimming Pool,1.0,327.5
+3,1BHK,16.15,1.03,0.89,Low,0,,0.0,78.93
+3,Cottage,33.8,1.42,1.0,Middle,0,,1.0,120.58
+5,3BHK,32.36,1.93,1.24,Upper Middle,1,,0.0,270.53
+4,2BHK,21.14,1.79,0.84,Middle,0,Fountain,0.0,129.1
+5,Bungalow,19.0,1.51,1.32,Rich,1,Jacuzzi,0.0,405.37
+1,Studio,10.17,1.49,1.38,Low,0,,0.0,61.54
+2,1BHK,30.52,1.67,0.96,Middle,0,Garden,0.0,93.74
+5,2BHK,22.01,1.43,1.43,Middle,0,Swimming Pool,0.0,263.03
+5,2BHK,15.21,2.63,1.17,Upper Middle,1,Garden,0.0,238.34
+4,Detached,28.3,2.38,0.83,Rich,1,Swimming Pool,0.0,231.32
+4,,,1.72,1.43,Upper Middle,0,Jacuzzi,0.0,209.39
+3,Cottage,27.02,1.79,0.88,Middle,1,,0.0,111.08
+3,1BHK,11.15,1.07,1.33,Middle,1,Garden,0.0,158.48
+2,Studio,11.43,1.19,0.92,Low,1,,1.0,74.41
+5,3BHK,11.02,1.91,1.05,,0,,0.0,149.15
+5,2BHK,21.48,1.32,1.16,Middle,0,Swimming Pool,0.0,212.18
+3,1BHK,15.98,1.25,0.87,Low,0,,1.0,85.12
+5,3BHK,19.11,2.92,1.49,Rich,0,Swimming Pool,0.0,329.14
+2,Studio,29.13,1.28,0.99,Low,0,,1.0,86.75
+5,3BHK,23.28,2.89,1.14,Upper Middle,0,Garden,0.0,220.3
+3,1BHK,24.49,1.14,1.18,OH\].,0,Fountain,,141.86
+2,1BHK,20.9,1.74,1.23,Middle,0,,1.0,102.07
+5,3BHK,31.89,2.42,0.87,Upper Middle,-1,,0.0,151.68
+3,1BHK,34.63,1.35,1.37,Middle,0,,0.0,154.26
+2,Cottage,34.09,1.68,1.35,Middle,1,,0.0,123.94
+3,Cottage,26.71,1.2,1.12,Middle,0,,0.0,118.16
+3,2BHK,26.49,1.59,1.47,Upper Middle,1,Jacuzzi,0.0,287.58
+2,Cottage,22.76,1.05,0.93,Middle,0,,0.0,81.21
+5,3BHK,11.11,2.06,1.47,Rich,0,Fountain,0.0,327.79
+4,2BHK,32.63,1.64,1.48,,1,Jacuzzi,0.0,344.98
+2,1BHK,22.03,1.27,1.4,Middle,0,Garden,0.0,106.09
+4,2BHK,22.98,1.28,0.158669343377733,Middle,0,Swimming Pool,0.0,133.75
+4,Detached,14.86,2.59,0.9,A7[wR,0,,1.0,176.99
+3,1BHK,24.27,1.0,1.5,Middle,1,,1.0,213.07
+3,2BHK,26.34,1.03,1.41,Middle,0,Garden,0.0,141.92
+5,2BHK,28.53,2.38,0.8,Upper Middle,1,,0.0,148.36
+2,1BHK,11.97,1.79,1.42,Middle,0,Garden,0.0,104.99
+3,2BHK,29.85,1.79,1.4,Upper Middle,1,Jacuzzi,0.0,284.47
+3,2BHK,30.34,2.68,0.96,Upper Middle,0,,0.0,112.54
+3,Bungalow,30.47,2.97,1.35,Rich,0,Swimming Pool,0.0,259.28
+4,2BHK,27.01,1.2,1.0,Middle,0,,1.0,153.47
+4,3BHK,27.21,2.62,1.27,Upper Middle,1,,0.0,185.46
+5,2BHK,10.04,1.7,0.95,Middle,1,,0.0,147.07
+2,1BHK,29.3,1.19,0.95,Middle,0,Swimming Pool,0.0,103.73
+2,1BHK,18.62,1.66,1.09,Middle,1,,1.0,112.95
+4,3BHK,25.5,1.84,1.32,,0,Garden,0.0,265.33
+5,2BHK,27.39,1.34,1.2,Middle,0,Garden,0.0,229.15
+4,Bungalow,18.2,2.53,1.43,Upper Middle,0,Fountain,0.0,215.43
+3,1BHK,15.91,1.6,1.21,Middle,1,Swimming Pool,0.0,157.0
+5,2BHK,29.29,2.48,1.21,Upper Middle,0,Swimming Pool,0.0,251.42
+1,Studio,11.24,1.02,0.93,Low,0,,0.0,55.37
+2,Studio,10.43,1.49,1.43,Low,1,,0.0,100.25
+3,2BHK,23.01,1.44,1.12,Middle,0,Garden,0.0,133.66
+3,3BHK,15.64,2.09,1.22,Upper Middle,0,Jacuzzi,1.0,195.8
+2,1BHK,11.98,1.73,0.92,Middle,0,Fountain,1.0,89.54
+3,Cottage,29.71,1.54,1.32,,0,Jacuzzi,0.0,155.94
+2,1BHK,15.49,1.2,1.03,Low,0,Garden,,74.8
+3,2BHK,25.47,2.41,1.46,Upper Middle,1,Swimming Pool,0.0,255.05
+4,Bungalow,16.45,1.97,0.83,Rich,0,Garden,0.0,125.0
+4,Detached,32.04,1.61,0.91,Rich,0,,0.0,193.48
+5,3BHK,22.6,1.78,0.87,Upper Middle,0,,0.0,156.04
+-11,2BHK,11.11,1.72,1.13,Middle,0,Fountain,0.0,137.33
+5,3BHK,33.35,2.58,1.13,Upper Middle,0,Garden,0.0,207.87
+5,3BHK,23.83,2.61,1.07,Upper Middle,0,,0.0,187.87
+5,2BHK,29.75,1.74,0.87,Upper Middle,0,Swimming Pool,0.0,192.17
+3,Cottage,27.28,1.45,0.82,Middle,1,Fountain,0.0,121.71
+3,3BHK,30.98,1.91,1.32,Upper Middle,0,,1.0,196.64
+3,Cottage,17.2,1.24,1.12,Middle,0,,1.0,111.66
