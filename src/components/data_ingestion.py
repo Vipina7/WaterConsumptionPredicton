@@ -2,6 +2,7 @@ import os
 import sys
 from src.logger import logging
 from src.exception import CustomException
+from src.components.data_transformation import DataTransformationConfig, DataTransformation
 from dataclasses import dataclass
 
 import numpy as np
@@ -52,4 +53,7 @@ class DataIngestion:
 
 if __name__ == "__main__":
     data_obj = DataIngestion()
-    data_obj.intiate_data_ingestion()
+    train_path, val_path, _ = data_obj.intiate_data_ingestion()
+
+    transform_obj = DataTransformation()
+    train_encoded, val_encoded = transform_obj.initiate_data_transformation(train_path=train_path, val_path=val_path)
