@@ -84,6 +84,16 @@ class DataTransformation:
 
             train_encoded = train_encoded.drop(columns = 'Apartment_Type_Cottage')
             val_encoded = val_encoded.drop(columns = 'Apartment_Type_Cottage')
+
+            features_to_scale = ["Residents", "Temperature", "Water_Price", "Period_Consumption_Index", "Guests", "Appliance_Usage"]
+            train_scaled = scaler_obj.fit_transform(train[features_to_scale])
+            val_scaled = scaler_obj.transform(val[features_to_scale])
+
+            train_scaled_df = pd.DataFrame(train_scaled, columns=features_to_scale, index=train_encoded.index)
+            val_scaled_df = pd.DataFrame(val_scaled, columns=features_to_scale, index=val_encoded.index)
+
+            train_scaled = pd.concat([train_scaled_df, train_encoded.drop(columns=features_to_scale)],  axis=1)
+            val_scaled = pd.concat([val_scaled_df, val_encoded.drop(columns=features_to_scale)], axis=1)
             logging.info("Data preparation for model training complete.")
 
             save_object(
@@ -101,7 +111,7 @@ class DataTransformation:
                 obj = rf_impute
             )
 
-            return train_encoded, val_encoded
+            return train_scaled, val_scaled
             
         except Exception as e:
             raise CustomException(e,sys)
