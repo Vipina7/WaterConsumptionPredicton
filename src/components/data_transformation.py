@@ -63,9 +63,9 @@ class DataTransformation:
             scaler_obj, impute_encoder_obj = self.get_preprocessor_obj()
 
             X_train_encoded = train_encoded[train_encoded['is_null_amenities']==0]
-            X_test_encoded = train_encoded[train_encoded['is_null_amenities']==1]
+            X_test_encoded = train_encoded[train_encoded['is_null_amenities']==1].drop(columns = ['Water_Consumption'])
             y_train_encoded = impute_encoder_obj.fit_transform(train[train['is_null_amenities']==0]['Amenities'])
-            val_encoded_test = val_encoded[val_encoded['is_null_amenities']==1]
+            val_encoded_test = val_encoded[val_encoded['is_null_amenities']==1].drop(columns=['Water_Consumption'])
             logging.info("Data prepped for advanced imputing of Amenities feature.")
 
             rf_impute = impute_amenities(X_train_encoded=X_train_encoded, y_train_encoded=y_train_encoded)

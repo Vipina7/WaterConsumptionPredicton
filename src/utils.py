@@ -12,6 +12,7 @@ from tqdm import tqdm
 
 def impute_amenities(X_train_encoded, y_train_encoded):
     try:
+        X_train_encoded = X_train_encoded.drop(columns = ['Water_Consumption'])
         rf_impute = RandomForestClassifier(n_estimators=100, random_state=42)
         rf_impute.fit(X_train_encoded, y_train_encoded)
 
@@ -20,7 +21,7 @@ def impute_amenities(X_train_encoded, y_train_encoded):
     except Exception as e:
         raise CustomException(e,sys)
     
-def treat_outliers(train,val):
+def treat_outliers(train,val=None):
     num_cols = [col for col in train.columns if train[col].dtype != 'O' and col not in ['Water_Consumption','Appliance_Usage','Guests']]
     for col in num_cols:
         q3 = train[col].quantile(0.75)
@@ -32,16 +33,17 @@ def treat_outliers(train,val):
         train[col] = train[col].apply(lambda x : upper_bound if x > upper_bound else x)
         train[col] = train[col].apply(lambda x : lower_bound if x < lower_bound else x)
 
-    for col in num_cols:
-        q3 = val[col].quantile(0.75)
-        q1 = val[col].quantile(0.25)
-        iqr = q3 - q1
-        upper_bound = round((q3 + (1.5 * iqr)),2)
-        lower_bound = round((q1 - (1.5 * iqr)),2)
+    if val is not None:
+        for col in num_cols:
+            q3 = val[col].quantile(0.75)
+            q1 = val[col].quantile(0.25)
+            iqr = q3 - q1
+            upper_bound = round((q3 + (1.5 * iqr)),2)
+            lower_bound = round((q1 - (1.5 * iqr)),2)
 
-        val[col] = val[col].apply(lambda x : upper_bound if x > upper_bound else x)
-        val[col] = val[col].apply(lambda x : lower_bound if x < lower_bound else x)
-    logging.info('Outliers treatment successful.')
+            val[col] = val[col].apply(lambda x : upper_bound if x > upper_bound else x)
+            val[col] = val[col].apply(lambda x : lower_bound if x < lower_bound else x)
+        logging.info('Outliers treatment successful.')
     
     return "Ouliers treated."
 
@@ -107,5 +109,13 @@ def evaluate_models(X_train, X_test, y_train, y_test, models, param):
         
         return train_report_df, test_report_df, best_estimators
          
+    except Exception as e:
+        raise CustomException(e, sys)
+    
+def load_object(file_path):
+    try:
+        with open(file_path, "rb") as file_obj:
+            return pickle.load(file_obj)
+
     except Exception as e:
         raise CustomException(e, sys)
