@@ -3,6 +3,7 @@ import sys
 from src.logger import logging
 from src.exception import CustomException
 from src.components.data_transformation import DataTransformationConfig, DataTransformation
+from src.components.model_trainer import ModelTrainerConfig, ModelTrainer
 from dataclasses import dataclass
 
 import numpy as np
@@ -59,8 +60,9 @@ if __name__ == "__main__":
         transform_obj = DataTransformation()
         train_scaled, val_scaled = transform_obj.initiate_data_transformation(train_path=train_path, val_path=val_path)
 
-        train_scaled.to_csv('artifacts/train_scaled.csv')
-        val_scaled.to_csv('artifacts/val_scaled.csv')
+        model_trainer_obj = ModelTrainer()
+        rmse = model_trainer_obj.initiate_model_training(train_scaled=train_scaled, val_scaled=val_scaled)
+        print(rmse)
     
     except Exception as e:
         raise CustomException(e,sys)

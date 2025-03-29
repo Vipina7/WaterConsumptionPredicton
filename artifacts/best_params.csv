@@ -1,0 +1,7 @@
+,criterion,max_features,splitter,n_estimators,learning_rate,loss,subsample,C,gamma,kernel
+Decision Tree,poisson,log2,best,,,,,,,
+Random Forest,poisson,log2,,256.0,,,,,,
+Gradient Boosting,friedman_mse,1.0,,256.0,0.1,squared_error,0.75,,,
+XGBRegressor,,,,256.0,0.1,,,,,
+AdaBoost Regressor,,,,128.0,0.1,exponential,,,,
+SVR,,,,,,,,100.0,auto,rbf
