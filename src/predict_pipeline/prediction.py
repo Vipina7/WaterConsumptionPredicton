@@ -65,7 +65,7 @@ class PredictPipeline:
             test_data['Water_Consumption_Prediction'] = model.predict(test_data)
             test_data.to_csv('artifacts/predicted_data.csv')
 
-            return "Prediction Successful"
+            return "Prediction Successful."
         
         except Exception as e:
             raise CustomException(e,sys)
@@ -75,7 +75,8 @@ if __name__ == "__main__":
         test_path = 'dataset/test.csv'
         prediction_obj = PredictPipeline()
         test_data = prediction_obj.transform_test_df(test_data_path=test_path)
-        print(test_data.columns)
+
+        print(prediction_obj.predict(test_data))
 
     except Exception as e:
         raise CustomException(e,sys)
