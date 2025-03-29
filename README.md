@@ -30,12 +30,14 @@ The dataset contains the following files:
 
 ----
 
-## Folder Structure
+## 🏠 Folder Structure
 
+```
 WaterConsumptionPrediction/
 |--- artifacts/
 |   |-- model.pkl
-|   |-- preprocessor.pkl
+|   |-- encoder.pkl
+|   |-- rf_impute.pkl
 |   |-- standard_scaler.pkl
 |   |-- train.csv
 |   |-- test.csv
@@ -52,18 +54,18 @@ WaterConsumptionPrediction/
 |   |    |--- data_ingestion.py
 |   |    |--- data_transformation.py
 |   |    |--- model_training.py
-|   ├── predict_pipeline/
-|   │   ├── prediction.py
+|   ├── pipeline/
+|   │   ├── predict_pipeline.py
 |   ├── exception.py
 |   |__ logger.py
 |   |__ utils.py
-│── app.py
 │── requirements.txt
 │── README.md
 │── setup.py
 │── submission.ipynb
+```
 
-----
+---
 
 ## 📈 Evaluation Metric
 The model is evaluated using the **Root Mean Squared Error (RMSE)** metric:
@@ -131,8 +133,8 @@ The model is evaluated using the **Root Mean Squared Error (RMSE)** metric:
 git clone https://github.com/your-username/World_Water_Day_Prediction.git
 cd World_Water_Day_Prediction
 
+---- 
 ## 🤝 Contributing
 Feel free to submit issues and pull requests to improve the project!
 
 🔥 Vipina Manjunatha 🔥 Mail me at vipina1394@gmail.com
-
