@@ -32,7 +32,7 @@ class PredictPipeline:
             # remove the unwanted columns and impute the missing values and treat outliers
             train_data = pd.read_csv(train_data_path)
             test['Humidity'] = pd.to_numeric(test['Humidity'], errors= 'coerce')
-            test['Humidity'] = test['Humidity'].fillna(round(train_data['Humidity'].median(),2))
+            test['Humidity'] = test['Humidity'].fillna(round(test['Humidity'].median(),2))
 
             valid_classes = ["Low", "Middle", "Upper Middle", "Rich"]
             test['Income_Level'] = test['Income_Level'].apply(lambda x: x if x in valid_classes else 'Unknown')
@@ -102,9 +102,9 @@ class PredictPipeline:
         
 if __name__ == "__main__":
     try:
-        test_path = 'dataset/test.csv'
+        train_path = 'dataset/train.csv'
         prediction_obj = PredictPipeline()
-        test_data = prediction_obj.transform_test_df(test_data_path=test_path)
+        test_data = prediction_obj.transform_test_df(train_data_path=train_path)
 
         print(prediction_obj.predict(test_data))
 
