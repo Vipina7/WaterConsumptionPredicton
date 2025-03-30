@@ -8,6 +8,7 @@ from dataclasses import dataclass
 import numpy as np
 import pandas as pd
 import pickle
+from datetime import datetime
 from sklearn.preprocessing import StandardScaler, LabelEncoder
 
 @dataclass
@@ -37,10 +38,40 @@ class DataTransformation:
             val = pd.read_csv(val_path)
             logging.info("Train and validation sets successfully imported.")
 
+            train['Timestamp'] = pd.to_datetime(train['Timestamp'], format = "%d/%m/%Y %H")
+            val['Timestamp'] = pd.to_datetime(val['Timestamp'], format = "%d/%m/%Y %H")
+
+            train['Week'] = train['Timestamp'].dt.weekday
+            val['Week'] = val['Timestamp'].dt.weekday
+            logging.info("Week added.")
+
+            train['Month'] = train['Timestamp'].dt.month
+            val['Month'] = val['Timestamp'].dt.month
+            logging.info("Month added.")
+
+            train['Day'] = train['Timestamp'].dt.day
+            val['Day'] = val['Timestamp'].dt.day
+            logging.info("Day added.")
+
+            train = train.drop(columns = ['Timestamp'])
+            val = val.drop(columns = ['Timestamp'])
+            logging.info("Timestamp dropped.")
+
+            train['Humidity'] = pd.to_numeric(train['Humidity'], errors= 'coerce')
+            val['Humidity'] = pd.to_numeric(val['Humidity'], errors= 'coerce')
+            logging.info("Humidity corrected for negative values")
+
+            train['Humidity'] = train['Humidity'].fillna(round(train['Humidity'].median(),2))
+            val['Humidity'] = val['Humidity'].fillna(round(train['Humidity'].median(),2))
+            logging.info("Humidity imputed.")
+
             valid_classes = ["Low", "Middle", "Upper Middle", "Rich"]
             train['Income_Level'] = train['Income_Level'].apply(lambda x: x if x in valid_classes else 'Unknown')
             val['Income_Level'] = val['Income_Level'].apply(lambda x: x if x in valid_classes else 'Unknown')
-            logging.info("Income Level optimized.")
+
+            train['Income_Level'] = train['Income_Level'].replace({'Unknown':1, 'Low':2, 'Middle':3, 'Upper Middle':4, 'Rich':5})
+            val['Income_Level'] = val['Income_Level'].replace({'Unknown':1, 'Low':2, 'Middle':3, 'Upper Middle':4, 'Rich':5})
+            logging.info("Income Level optimized and encoded.")
 
             train['Apartment_Type'] = train['Apartment_Type'].fillna('Unknown')
             val['Apartment_Type'] = val['Apartment_Type'].fillna('Unknown')
@@ -82,12 +113,46 @@ class DataTransformation:
             train_encoded = pd.get_dummies(train, drop_first=True, dtype = int)
             val_encoded = pd.get_dummies(val, drop_first=True, dtype = int)
 
-            train_encoded = train_encoded.drop(columns = 'Apartment_Type_Cottage')
-            val_encoded = val_encoded.drop(columns = 'Apartment_Type_Cottage')
+            train_encoded['Temp_WaterPrice_Interaction'] = train_encoded['Temperature'] * train_encoded['Water_Price']
+            val_encoded['Temp_WaterPrice_Interaction'] = val_encoded['Temperature'] * val_encoded['Water_Price']
+            logging.info("Temperature and water price interaction added")
 
-            features_to_scale = ["Residents", "Temperature", "Water_Price", "Period_Consumption_Index", "Guests", "Appliance_Usage"]
-            train_scaled = scaler_obj.fit_transform(train[features_to_scale])
-            val_scaled = scaler_obj.transform(val[features_to_scale])
+            train_encoded['Guests_ApplianceUsage_Interaction'] = train_encoded['Guests'] * train_encoded['Appliance_Usage']
+            val_encoded['Guests_ApplianceUsage_Interaction'] = val_encoded['Guests'] * val_encoded['Appliance_Usage']
+            logging.info("Guests and appliance usage interaction added")
+
+            train_encoded['ApplianceUsage_Squared'] = train_encoded['Appliance_Usage'] ** 2
+            val_encoded['ApplianceUsage_Squared'] = val_encoded['Appliance_Usage'] ** 2
+            logging.info("Appliance usage squared added.")
+
+            train_encoded['Month_sin'] = np.sin(2 * np.pi * train_encoded['Month'] / 12)
+            val_encoded['Month_sin'] = np.sin(2 * np.pi * val_encoded['Month'] / 12)
+            logging.info("Cyclical feature for month added.")
+
+            train_encoded['Day_sin'] = np.sin(2 * np.pi * train_encoded['Day'] / 31)
+            val_encoded['Day_sin'] = np.sin(2 * np.pi * val_encoded['Day'] / 31)
+            logging.info("Day cyclical feature added.")
+
+            features_to_remove = [
+                "Apartment_Type_Unknown",
+                "Amenities_Jacuzzi",
+                "Apartment_Type_Bungalow",
+                "Amenities_Swimming Pool",
+                "Apartment_Type_Detached",
+                "Apartment_Type_Cottage",
+                "Month",
+                "Day"
+                ]
+
+            train_encoded = train_encoded.drop(columns = features_to_remove)
+            val_encoded = val_encoded.drop(columns = features_to_remove)
+
+            features_to_scale = ["Residents", "Temperature", "Humidity", "Water_Price", 
+                                 "Period_Consumption_Index", "Guests", "Temp_WaterPrice_Interaction",
+                                 "Guests_ApplianceUsage_Interaction", "ApplianceUsage_Squared", "Month_sin", "Day_sin"]
+            
+            train_scaled = scaler_obj.fit_transform(train_encoded[features_to_scale])
+            val_scaled = scaler_obj.transform(val_encoded[features_to_scale])
 
             train_scaled_df = pd.DataFrame(train_scaled, columns=features_to_scale, index=train_encoded.index)
             val_scaled_df = pd.DataFrame(val_scaled, columns=features_to_scale, index=val_encoded.index)

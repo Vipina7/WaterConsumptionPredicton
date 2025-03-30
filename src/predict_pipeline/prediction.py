@@ -1,4 +1,5 @@
 import sys
+import numpy as np
 import pandas as pd
 from src.exception import CustomException
 from src.utils import load_object,treat_outliers
@@ -8,7 +9,7 @@ class PredictPipeline:
     def __init__(self):
         pass
 
-    def transform_test_df(self, test_data_path):
+    def transform_test_df(self, train_data_path):
         try:
             scaler_path = 'artifacts/standard_scaler.pkl'
             rf_impute_path = 'artifacts/rf_impute.pkl'
@@ -19,17 +20,26 @@ class PredictPipeline:
             le = load_object(file_path=le_path)
 
             # Load the test data
-            test = pd.read_csv('dataset/test.csv', index_col='Timestamp', header=0)
-            
+            test = pd.read_csv('dataset/test.csv', header=0)
+            test['Timestamp'] = pd.to_datetime(test['Timestamp'], format = "%d/%m/%Y %H")
+
+            test['Week'] = test['Timestamp'].dt.weekday
+            test['Month'] = test['Timestamp'].dt.month
+            test['Day'] = test['Timestamp'].dt.day
+
+            test = test.set_index('Timestamp')
+
             # remove the unwanted columns and impute the missing values and treat outliers
-            test = test.drop(columns=['Humidity'])
+            train_data = pd.read_csv(train_data_path)
+            test['Humidity'] = pd.to_numeric(test['Humidity'], errors= 'coerce')
+            test['Humidity'] = test['Humidity'].fillna(round(train_data['Humidity'].median(),2))
 
             valid_classes = ["Low", "Middle", "Upper Middle", "Rich"]
             test['Income_Level'] = test['Income_Level'].apply(lambda x: x if x in valid_classes else 'Unknown')
+            test['Income_Level'] = test['Income_Level'].replace({'Unknown':1, 'Low':2, 'Middle':3, 'Upper Middle':4, 'Rich':5})
 
             test['Apartment_Type'] = test['Apartment_Type'].fillna('Unknown')
 
-            train_data = pd.read_csv(test_data_path)
             test['Temperature'] = test['Temperature'].fillna(round(train_data['Temperature'].mean(),2))
 
             test["Appliance_Usage"] = test["Appliance_Usage"].fillna(-1)
@@ -44,9 +54,29 @@ class PredictPipeline:
             test['Guests'] = test['Guests'].apply(lambda x: -1 if x < 0 else x)
             test_df = pd.get_dummies(test, drop_first=True, dtype=int)
 
-            test_df = test_df.drop(columns = 'Apartment_Type_Cottage')
+            test_df['Temp_WaterPrice_Interaction'] = test_df['Temperature'] * test_df['Water_Price']
+            test_df['Guests_ApplianceUsage_Interaction'] = test_df['Guests'] * test_df['Appliance_Usage']
+            test_df['ApplianceUsage_Squared'] = test_df['Appliance_Usage'] ** 2
+            test_df['Month_sin'] = np.sin(2 * np.pi * test_df['Month'] / 12)
+            test_df['Day_sin'] = np.sin(2 * np.pi * test_df['Day'] / 31)
 
-            features_to_scale = ["Residents", "Temperature", "Water_Price", "Period_Consumption_Index", "Guests", "Appliance_Usage"]
+            features_to_remove = [
+                "Apartment_Type_Unknown",
+                "Amenities_Jacuzzi",
+                "Apartment_Type_Bungalow",
+                "Amenities_Swimming Pool",
+                "Apartment_Type_Detached",
+                "Apartment_Type_Cottage",
+                "Month",
+                "Day"
+                ]
+
+            test_df = test_df.drop(columns = features_to_remove)
+
+            features_to_scale = ["Residents", "Temperature", "Humidity", "Water_Price", 
+                                 "Period_Consumption_Index", "Guests", "Temp_WaterPrice_Interaction",
+                                 "Guests_ApplianceUsage_Interaction", "ApplianceUsage_Squared", "Month_sin", "Day_sin"]
+            
             test_scaled = scaler.transform(test_df[features_to_scale])
 
             test_scaled_df = pd.DataFrame(test_scaled, columns=features_to_scale, index=test_df.index)

@@ -29,10 +29,6 @@ class DataIngestion:
 
             os.makedirs(os.path.dirname(self.data_ingestion_config.train_data_path), exist_ok=True)
             logging.info('Artifacts folder created')
-            
-            train = train.drop(columns=['Timestamp','Humidity'], axis=1)
-            test = test.drop(columns=['Humidity'], axis=1)
-            logging.info('Dropping the necessary columns')
 
             logging.info("Train test split initiated for splitting the train set into train and validation sets")
             train_set, val_set = train_test_split(train, test_size=0.2, random_state=42)
@@ -59,10 +55,9 @@ if __name__ == "__main__":
 
         transform_obj = DataTransformation()
         train_scaled, val_scaled = transform_obj.initiate_data_transformation(train_path=train_path, val_path=val_path)
-
-        model_trainer_obj = ModelTrainer()
-        rmse = model_trainer_obj.initiate_model_training(train_scaled=train_scaled, val_scaled=val_scaled)
-        print(rmse)
+        
+        model_training_obj = ModelTrainer()
+        print(model_training_obj.initiate_model_training(train_scaled, val_scaled))
     
     except Exception as e:
         raise CustomException(e,sys)
